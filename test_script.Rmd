@@ -13,12 +13,13 @@ output:
 The Living Planet Index is a composite biodiversity index consisting of over 22,000 population trends from over 4,000 species. It tracks the average change in relative abundance in each year in these populations.
 
 It has a hierarchical structure:
-** The global index, composed of
-** Three 'system' indices: Terrestrial, Freshwater and Marine, each containing
-** Multiple 'Realm' indices (e.g. Afrotropics, Neotropics, Palearctic), with multople
-** Taxonomic indices for taxonomic classes (Aves, Mammalia, Fishes, Reptiles)
-** Within each taxo-regional group, each species index may contain multple
-** Population trends
+
+* The global index, composed of
+  + Three 'system' indices: Terrestrial, Freshwater and Marine, each containing..
+  + Multiple 'Realm' indices (e.g. Afrotropics, Neotropics, Palearctic), with multiple..
+  + Taxonomic indices for taxonomic classes (Aves, Mammalia, Fishes, Reptiles)..
+  + Within each taxo-regional group, each species index may contain multple..
+  + Population trends
 
 In some cases the number of species trends available for a specific region may be disproportionate to the number of species within that region. For this reason the Living Planet Index is also weighted - with a taxo-regional group being weighted according to the species richness of that group in that region. For example, if  birds represent 30% of vertebrate species in the Palearctic, then the palearctic birds index will have a weighting of 0.3 and other palearctic indices will have a total weight of 0.7.
 
