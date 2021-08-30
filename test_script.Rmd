@@ -204,8 +204,8 @@ combined_data = merge(lpi_data, lpi_pop_data, by=c("ID"), all.x = TRUE)
 
 # Set labels for increasing/declining
 combined_data$Trend = "Stable"
-combined_data$Trend[combined_data$sumlambda > 1.021189] = "Increase" # Overall change of >5%
-combined_data$Trend[combined_data$sumlambda < 0.9777236] = "Decline" # Overall decline of <5%
+combined_data$Trend[combined_data$sumlambda > 0.02227639] = "Increase" # Overall change of >5%
+combined_data$Trend[combined_data$sumlambda < -0.02227639] = "Decline" # Overall decline of <5%
 
 # Make Trend Taxa columns factors 
 combined_data$Trend = factor(combined_data$Trend, levels = c("Decline", "Stable", "Increase"))
