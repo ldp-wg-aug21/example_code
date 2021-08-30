@@ -1,0 +1,364 @@
+---
+title: "Sampled Living Planet Index"
+author: "Indicators and Assessments Unit, ZSL"
+date: "10/08/2021"
+output: 
+  html_document:
+    theme: united
+    highlight: tango
+---
+
+## Sampled Living Planet Index
+
+The Living Planet Index is a composite biodiversity index consisting of over 22,000 population trends from over 4,000 species. It tracks the average change in relative abundance in each year in these populations.
+
+It has a hierarchical structure:
+** The global index, composed of
+** Three 'system' indices: Terrestrial, Freshwater and Marine, each containing
+** Multiple 'Realm' indices (e.g. Afrotropics, Neotropics, Palearctic), with multople
+** Taxonomic indices for taxonomic classes (Aves, Mammalia, Fishes, Reptiles)
+** Within each taxo-regional group, each species index may contain multple
+** Population trends
+
+In some cases the number of species trends available for a specific region may be disproportionate to the number of species within that region. For this reason the Living Planet Index is also weighted - with a taxo-regional group being weighted according to the species richness of that group in that region. For example, if  birds represent 30% of vertebrate species in the Palearctic, then the palearctic birds index will have a weighting of 0.3 and other palearctic indices will have a total weight of 0.7.
+
+Some regions have few populations or species and one interesting question is how many species or populations are needed to accurately capture wildlife trends in a give region. This could be further explored by stratifying species according to intrinsic (size, range) or extrinsic factors (threat, land-use). 
+
+The functions below all for the creation of living planet indices from source population trend data and should make it easy to explore subsets and samples from those data.
+
+First, we load the necessary packages - note one (rlpi) must be installed from github:
+
+```{r setup, echo=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+```
+
+```{r package, warning=FALSE, message=FALSE}
+library(data.table)
+library(tidyr)
+library(dplyr)
+library(GGally) # For stat 'prop' for proportion labels
+library(collapse)
+
+library(stringi)
+
+#library(devtools)
+#install_github("Zoological-Society-of-London/rlpi", dependencies=TRUE)
+library(rlpi)
+
+```
+
+# Some neccessary helper functions...
+
+```{r functions}
+#
+# Turn NaNs in a data table into NAs
+#
+make_na = function(DT) {
+  # by name :
+  for (j in names(DT))
+    set(DT,which(is.nan(DT[[j]])),j,NA)
+}
+
+#
+# Turn a given vector of lambdas into an index baselined in first year
+#
+calculate_index = function(index_lambda) {
+  index_lambda[1] = 0 # first value is set as baseline
+  index = data.frame(t(cumprod(10^(as.numeric(index_lambda))))) # as.numeric is important otherwise cumulative product doesn't work
+}
+
+#
+# Cap a range of value to within the min/max
+#
+cap_value <- function(x, min = -1, max = 1, na.rm = FALSE) {
+  x[x < min] = min
+  x[x > max] = max
+  return(x)
+}
+
+#
+# Given a table of annual rates of change, create a single global index using the LPI structure and weightings
+#
+create_global_index = function(combined_data, weightings) {
+  
+  # Cap lambdas
+  combined_data = combined_data %>% mutate(across(`1970`:`2017`, cap_value))
+  
+  # Calculate average species lambdas from populations
+  sp_data = combined_data %>% 
+    group_by(System, Realm, Taxa, Binomial) %>%
+    select(System, Realm, Taxa, Binomial, `1970`:`2017`) %>% fmean(na.rm = TRUE) # From package 'collapse'
+  
+  # Average all species lambdas within a taxonomic group (inside a realm)
+  taxa_data = sp_data %>% 
+    group_by(System, Realm, Taxa) %>%
+    select(System, Realm, Taxa, `1970`:`2017`) %>% fmean(na.rm = TRUE)
+  
+  
+  # Make combined weighting for taxo-region (region weighting * taxonomic weighting)
+  weightings = mutate(weightings, w = Weighting*WeightingB)
+  # Merge into data
+  taxa_data_w = merge(taxa_data, weightings[, c("w", "Weighting", "System", "Realm", "Taxa")], by=c("System", "Realm", "Taxa"))
+  
+  # Create average realm rates of change 
+  realm_data = taxa_data_w %>% 
+    group_by(System, Realm) %>%
+    select(System, Realm, `1970`:`2017`, Weighting) %>% fmean(Weighting, keep.w = FALSE, na.rm = TRUE)
+  
+  # Merge realm weightings
+  realm_data_w = merge(realm_data, unique(weightings[, c("WeightingB", "System", "Realm")]), by=c("System", "Realm"))
+  
+  # Create average system rates of change
+  system_data = realm_data_w %>% 
+    group_by(System) %>%
+    select(System, `1970`:`2017`, WeightingB) %>% fmean(WeightingB, keep.w = FALSE, na.rm = TRUE)
+
+  # Create global average rates of change
+  global_data = system_data %>% 
+    select(`1970`:`2017`) %>% fmean(na.rm = TRUE)
+  
+  # Make the global index
+  global_index = calculate_index(global_data)
+  
+  # Reset column names
+  colnames(global_index) = names(global_data)
+  
+  # Add a column naming the index
+  global_index = tibble:::add_column(global_index, System = "Global", .before = 1)
+  
+  return(global_index)
+}
+```
+
+To use the above functions, we need to make a large data frame with modelled rates of change (lambdas) for each population and some associated metadata (e.g. Species names, Realms)
+
+Here we're using the lambdas created using the rlpi package
+
+```{r load_lpi}
+#lpi_data_all <- fread("~/Documents/data/lpi_2020/Final_dataset_20200424.csv", na.strings = "NA")
+#lpi_data_all[lpi_data_all == "NULL"] = NA
+#lpi_data_all$n_samples = rowSums(!is.na(dplyr:::select(lpi_data_all, starts_with(c("19", "20")))))
+
+# Load selected columns from LPI data
+lpi_data <- fread("data/LPR2020data_public.csv", na.strings = "NA", 
+                  select = c("Latitude", "Longitude", "ID", "System", "Class", "T_realm", "M_realm", "FW_realm", "Binomial", "Common_name"))
+
+##
+# Simplify Class names (various Fish classes to 'Fishes', Aves/Mammalia etc to Birds/Mammals)
+##
+lpi_data$Taxa <- lpi_data$Class
+lpi_data$Taxa <- gsub("Actinopteri", "Fishes",lpi_data$Taxa)
+lpi_data$Taxa <- gsub("Coelacanthi", "Fishes",lpi_data$Taxa)
+lpi_data$Taxa <- gsub("Elasmobranchii", "Fishes",lpi_data$Taxa)
+lpi_data$Taxa <- gsub("Dipneusti", "Fishes",lpi_data$Taxa)
+lpi_data$Taxa <- gsub("Petromyzonti", "Fishes",lpi_data$Taxa)
+lpi_data$Taxa <- gsub("Holocephali", "Fishes",lpi_data$Taxa)
+lpi_data$Taxa <- gsub("Myxini", "Fishes",lpi_data$Taxa)
+lpi_data$Taxa <- gsub("Aves", "Birds",lpi_data$Taxa)
+lpi_data$Taxa <- gsub("Mammalia", "Mammals",lpi_data$Taxa)
+lpi_data$Taxa <- gsub("Amphibia", "Amphibians",lpi_data$Taxa)
+lpi_data$Taxa <- gsub("Reptilia", "Reptiles",lpi_data$Taxa)
+
+##
+# Remove replicates, excluded and "excluded 2020"
+##
+#lpi_data <- subset(lpi_data, Confidential == 0)
+
+lpi_data$Latitude = as.numeric(lpi_data$Latitude)
+lpi_data$Longitude = as.numeric(lpi_data$Longitude)
+
+# Replace NULL strings with NA
+lpi_data$T_realm[lpi_data$T_realm == "NULL"] = NA
+lpi_data$FW_realm[lpi_data$FW_realm == "NULL"] = NA
+lpi_data$M_realm[lpi_data$M_realm == "NULL"] = NA
+
+# Combine System Realms into single Realm column
+lpi_data = lpi_data %>%
+  unite("Realm", T_realm, FW_realm, M_realm, na.rm = TRUE)
+
+# Make the ID column numeric
+lpi_data$ID = as.numeric(lpi_data$ID)
+
+# Load population level lambdas (from running a population level LPI)
+##lpi_pop_data = fread("data/global_lpiu_poplevel/Global LPIU_pops_poplevel_lambda.csv")
+
+# Get modeled population data (GAMed) for each population, here Binomial and ID were merged so each pop is considered a separate species
+##lpi_pop_data = fread("data/global_lpiu_poplevel/Global LPIU_pops_poplevel_lambda.csv", na.strings = "NA")
+##split_index = stri_locate_last(lpi_pop_data$V1, fixed = "_")[, 1] + 1
+##lpi_pop_data$ID = as.numeric(stri_sub(lpi_pop_data$V1, split_index, nchar(lpi_pop_data$V1)))
+
+##lpi_pop_data_public = subset(lpi_pop_data, ID %in% lpi_data$ID)
+##fwrite(lpi_pop_data_public, "data/Global_public_pops_poplevel_lambda.csv")
+
+lpi_pop_data = fread("data/Global_public_pops_poplevel_lambda.csv", na.strings = "NA")
+
+
+# Calculate average and total change in annual columns
+lpi_pop_data$sumlambda = rowSums(dplyr:::select(lpi_pop_data, starts_with(c("19", "20"))), na.rm = T)
+lpi_pop_data$avlambda = rowMeans(dplyr:::select(lpi_pop_data, starts_with(c("19", "20"))), na.rm = T)
+
+# Merge back onto large LPI dataframe
+combined_data = merge(lpi_data, lpi_pop_data, by=c("ID"), all.x = TRUE)
+
+# Set labels for increasing/declining
+combined_data$Trend = "Stable"
+combined_data$Trend[combined_data$sumlambda > 1.021189] = "Increase" # Overall change of >5%
+combined_data$Trend[combined_data$sumlambda < 0.9777236] = "Decline" # Overall decline of <5%
+
+# Make Trend Taxa columns factors 
+combined_data$Trend = factor(combined_data$Trend, levels = c("Decline", "Stable", "Increase"))
+combined_data$Taxa = factor(combined_data$Taxa, levels = c("Fishes", "Amphibians", "Reptiles", "Birds", "Mammals"))
+
+# Combine realms to make indo-pacific
+combined_data$Realm = forcats::fct_collapse(combined_data$Realm, "Indo-Pacific" = c("Australasia","Indo-Malayan","Oceania"))
+
+# Combine classes to make Herps
+combined_data$Taxa = forcats::fct_collapse(combined_data$Taxa, "Herps" = c("Reptiles","Amphibians"))
+
+# Set factor order 
+combined_data$Trend = factor(combined_data$Trend, levels = c("Decline", "Stable", "Increase"))
+combined_data$Taxa = factor(combined_data$Taxa, levels = c("Fishes", "Herps", "Birds", "Mammals"))
+
+# Get weightings (and fix group names to match)
+weightings = read.table("data/global_infile_v2.txt", header = T, as.is = T)
+weightings$Taxa = gsub("Aves", "Birds", weightings$Taxa)
+weightings$Taxa = gsub("Mammalia", "Mammals", weightings$Taxa)
+```
+
+Given these data (a large table of rates of change) we can use the function 'create_global_index' to build the global LPI
+
+```{r make_index, warning=FALSE}
+
+global_index_newmethod = create_global_index(combined_data, weightings)
+
+# Make long version of taxo-region data (value for each year)
+global_index = tidyr::pivot_longer(global_index_newmethod[-ncol(global_index_newmethod)], cols=starts_with(c("1", "2")), values_to = "LPI_final", names_to = "Year")
+global_index$CI_high = global_index$LPI_final
+global_index$CI_low = global_index$LPI_final
+rownames(global_index) = global_index$Year
+
+ggplot_lpi(global_index, line_col = "blue")
+
+```
+
+We can then sample (with replacement) from this large table to create boostrapped LPI indices. Here boostrap sampls are at the population level.
+
+```{r sampled_pops, eval=FALSE}
+# Let's try generating a thousand sampled LPIs (sampling populations with replacement)
+indices = list()
+N = 100
+i = 1
+for (i in 1:N) {
+  print(sprintf("Sampling populations [%d of %d]", i, N))
+  bootstrap_data = sample_n(combined_data, nrow(combined_data), replace = TRUE)
+  index = create_global_index(bootstrap_data, weightings)
+  
+  # Turn into usual LPI format for plotting (LPI_final, CI_high, CI_low, with rownames as years)
+  index = tidyr::pivot_longer(index[-ncol(index)], cols=starts_with(c("1", "2")), values_to = "LPI_final", names_to = "Year")
+  index$CI_high = global_index$LPI_final
+  index$CI_low = global_index$LPI_final
+  rownames(index) = index$Year
+  indices[[i]] = index
+}
+names(indices) = 1:N
+d <- rbindlist(indices, idcol = "sample")
+
+# Save, just in case
+fwrite(d, "pop_sampled_lpis.csv")
+```
+
+```{r plot_pop_sampled_lpi}
+d = fread("pop_sampled_lpis.csv")
+sampled_lpi = d %>% group_by(Year) %>% 
+  summarise(
+    mean = mean(LPI_final),
+    upr = quantile(LPI_final, probs = 0.975),
+    lwr = quantile(LPI_final, probs = 0.025)
+  )
+colnames(sampled_lpi) = c("Year", "LPI_final", "CI_high", "CI_low")
+rownames(sampled_lpi) = sampled_lpi$Year
+ggplot_lpi(sampled_lpi, xlims = c(1970, 2016))
+```
+
+Similarly can sample at the species level...
+
+```{r sp_sampled_lpi, eval=FALSE}
+# Similarly, let's try sample species with replacement
+species = unique(combined_data$Binomial)
+indices_sp = list()
+N = 100
+i = 1
+for (i in 1:N) {
+  print(sprintf("Sampling populations [%d of %d]", i, N))
+  sampled_species = sample(species, replace = TRUE)
+  
+  which(combined_data$Binomial %in% sampled_species[i])
+  # Need to be careful here as we want all populations for a species, but perhaps multiple times if that 
+  # species has been selected twice ### This is very slow! Must be a better way
+  bootstrap_data_idx <- unlist(lapply(sampled_species, function(sp) which(combined_data$Binomial %in% sp)))
+  bootstrap_data = combined_data[bootstrap_data_idx, ]
+  
+  index = create_global_index(bootstrap_data, weightings)
+  
+  # Turn into usual LPI format for plotting (LPI_final, CI_high, CI_low, with rownames as years)
+  index = tidyr::pivot_longer(index[-ncol(index)], cols=starts_with(c("1", "2")), values_to = "LPI_final", names_to = "Year")
+  index$CI_high = global_index$LPI_final
+  index$CI_low = global_index$LPI_final
+  rownames(index) = index$Year
+  indices_sp[[i]] = index
+}
+names(indices_sp) = 1:N
+d_sp <- rbindlist(indices_sp, idcol = "sample")
+
+# Save, just in case
+fwrite(d_sp, "sp_sampled_lpis.csv")
+```
+
+```{r plot_sp_sampled_lpi}
+d_sp = fread("sp_sampled_lpis.csv")
+sampled_lpi_sp = d_sp %>% group_by(Year) %>% 
+  summarise(
+    mean = mean(LPI_final),
+    upr = quantile(LPI_final, probs = 0.975),
+    lwr = quantile(LPI_final, probs = 0.025)
+  )
+colnames(sampled_lpi_sp) = c("Year", "LPI_final", "CI_high", "CI_low")
+rownames(sampled_lpi_sp) = sampled_lpi_sp$Year
+ggplot_lpi(sampled_lpi_sp, xlims = c(1970, 2016))
+
+```
+
+[Other code using rlpi to make indices, needs some explanation...]
+
+
+
+```{r eval=FALSE}
+library(rlpi)
+
+setwd("data")
+#global_lpiu = LPIMain("Global LPIU_infile.txt", basedir = "global_lpiu")
+#write.csv(global_lpiu, "global_lpiu.csv")
+global_lpiu = read.csv("data/Global_LPID_data/global_lpiu.csv")
+ggplot_lpi(global_lpiu)
+
+#lpiu_popdata = read.table("Global LPIU_pops.txt", header = TRUE)
+#lpiu_popdata$Binomial = paste(lpiu_popdata$Binomial, lpiu_popdata$ID, sep="_")
+#write.table(lpiu_popdata, "Global LPIU_pops_poplevel.txt")
+
+#lpiu_infile = read.table("Global LPIU_infile.txt", header = TRUE)
+#lpiu_infile$FileName = "Global LPIU_pops_poplevel.txt"
+#write.table(lpiu_infile, "Global LPIU_poplevel_infile.txt")
+
+#global_lpiu_poplevel = LPIMain("Global LPIU_poplevel_infile.txt", basedir = "global_lpiu_poplevel")
+#write.csv(global_lpiu_poplevel, "global_lpiu_poplevel.csv")
+global_lpiu = read.csv("data/Global_LPID_data/global_lpiu_poplevel.csv")
+ggplot_lpi(global_lpiu_poplevel)
+
+setwd("data/Global_LPID_data/")
+#global_lpid = LPIMain("global_infile.txt", basedir = "global_lpid", use_weightings = TRUE, use_weightings_B = TRUE)
+#write.csv(global_lpid, "global_lpid.csv")
+global_lpiu = read.csv("data/Global_LPID_data/global_lpid.csv")
+ggplot_lpi(global_lpid)
+```
+
