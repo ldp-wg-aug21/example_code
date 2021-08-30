@@ -1,0 +1,2 @@
+"FileName"	"Group"	"Weighting"
+"all_canada_pops_poplevel.csv_pops.txt"	1	1
