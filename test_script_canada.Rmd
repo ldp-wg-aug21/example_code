@@ -137,13 +137,14 @@ lpi_data <- fread("data/CIEE_LPI_dataset.csv", na.strings = "NA",
 ##
 # Simplify Class names (various Fish classes to 'Fishes', Aves/Mammalia etc to Birds/Mammals)
 ##
-lpi_data$Taxa <- lpi_data$Class
+lpi_data$Taxa <- lpi_data$Class 
 lpi_data$Taxa <- gsub("Actinopteri", "Fishes",lpi_data$Taxa)
 lpi_data$Taxa <- gsub("Coelacanthi", "Fishes",lpi_data$Taxa)
 lpi_data$Taxa <- gsub("Elasmobranchii", "Fishes",lpi_data$Taxa)
 lpi_data$Taxa <- gsub("Dipneusti", "Fishes",lpi_data$Taxa)
 lpi_data$Taxa <- gsub("Petromyzonti", "Fishes",lpi_data$Taxa)
 lpi_data$Taxa <- gsub("Holocephali", "Fishes",lpi_data$Taxa)
+
 lpi_data$Taxa <- gsub("Myxini", "Fishes",lpi_data$Taxa)
 lpi_data$Taxa <- gsub("Aves", "Birds",lpi_data$Taxa)
 lpi_data$Taxa <- gsub("Mammalia", "Mammals",lpi_data$Taxa)
