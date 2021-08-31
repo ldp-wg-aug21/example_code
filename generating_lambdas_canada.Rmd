@@ -1,0 +1,46 @@
+---
+title: "Sampled Living Planet Index (Canada)"
+author: "Indicators and Assessments Unit, ZSL"
+date: "10/08/2021"
+output: 
+  html_document:
+    theme: united
+    highlight: tango
+---
+
+## Sampled Living Planet Index (Canadian pops)
+
+```{r package, warning=FALSE, message=FALSE}
+
+# May need this to install rlpi package
+
+#library(devtools)
+#install_github("Zoological-Society-of-London/rlpi", dependencies=TRUE)
+
+```
+
+## Making lambdas using rlpi for Canadian dataset
+
+To create 'lambdas' (rates of change) for the Canadian population data, we can use the `rlpi` package. This package will use the 'usual' LPI method to convert from measured abundance trends (e.g. population abundance, density or some proxy) to annual rates of change. However, because the package usually creates LPI trends (following the LPI method) which averages trends for species, we can force it to consider each population as a separate 'species' - therefore generating a nice big file with annual rates of change for each population.
+
+```{r eval=FALSE}
+library(rlpi)
+
+# Load Canadian population data
+lpi_data <- read.csv("data/CIEE_LPI_dataset.csv", na.strings = "NA")
+
+# Combine Binomial and ID (to ensure each population is treated as a unique species)
+lpi_data$Binomial = paste(lpi_data$Binomial, lpi_data$ID, sep="_")
+
+# Make an 'infile' for all the data (this is the usual input format for the rlpi package)
+infilename = create_infile(lpi_data, name = "all_canada_pops_poplevel.csv", start_col_name = "X1950", end_col_name = "X2020")
+
+# Run the LPI code to make lambdas - this generates the file below
+canadian_lpiu_poplevel = LPIMain(infilename, basedir = "canadian_poplevel", REF_YEAR = 1950, PLOT_MAX = 2020)
+
+# This should make a file in the specified directory (candian_poplevel) with lambda data that we can load
+pop_data = fread("canadian_poplevel/all_canada_pops_poplevel.csv_pops_lambda.csv")
+
+head(pop_data)
+```
+

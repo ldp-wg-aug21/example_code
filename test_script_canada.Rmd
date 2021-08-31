@@ -305,26 +305,3 @@ ggplot_lpi(sampled_lpi_sp, xlims = c(1970, 2016))
 
 ```
 
-
-## Making lambdas using rlpi for Canadian dataset
-
-```{r eval=FALSE}
-library(rlpi)
-
-# Load Canadian data
-lpi_data <- read.csv("data/CIEE_LPI_dataset.csv", na.strings = "NA")
-
-# Combine Binomial and ID (to ensure each population is treated as a unique species)
-lpi_data$Binomial = paste(lpi_data$Binomial, lpi_data$ID, sep="_")
-
-# Make an infile for all the data
-infilename = create_infile(lpi_data, name = "all_canada_pops_poplevel.csv", start_col_name = "X1950", end_col_name = "X2020")
-
-# Run the LPI to make lambdas
-canadian_lpiu_poplevel = LPIMain(infilename, basedir = "canadian_poplevel", REF_YEAR = 1950, PLOT_MAX = 2020)
-
-# This should make a file in the specified directory (candian_poplevel) with lambda data that we can load
-pop_data = fread("canadian_poplevel/all_canada_pops_poplevel.csv_pops_lambda.csv")
-
-```
-
