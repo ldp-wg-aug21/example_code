@@ -9,7 +9,7 @@ The file [test_script.Rmd](test_script.Rmd) is a markdown file showing how to cr
 	
 ## Example Canadian Code
 
-The file [test_script_canadian.Rmd](test_script_canadian.Rmd) is a markdown file showing how to create the Canadian Species Index (using the LPI method) based upon the candadian data in [data/CIEE_LPI_dataset.csv](data/CIEE_LPI_dataset.csv). It modifies the code from the above global example to account for some slight differences in how the CSI is made (e.g. no weightings and no realm data).
+The file [test_script_canada.Rmd](test_script_canada.Rmd) is a markdown file showing how to create the Canadian Species Index (using the LPI method) based upon the candadian data in [data/CIEE_LPI_dataset.csv](data/CIEE_LPI_dataset.csv). It modifies the code from the above global example to account for some slight differences in how the CSI is made (e.g. no weightings and no realm data).
 
 	
 ## Generating Lambdas
