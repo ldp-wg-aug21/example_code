@@ -29,5 +29,5 @@ The latter two sections save generated sampled indices to two helper files (pop_
 	
 ## Generating Lambdas
 
-tbd
+The scripts above work by averaging pre-calculated rates of change for each population. To create these rates of change (lambdas) we're using the rlpi package. An example of doing this is shown in the [generating_lambdas_canada.Rmd](generating_lambdas_canada.Rmd)
 
