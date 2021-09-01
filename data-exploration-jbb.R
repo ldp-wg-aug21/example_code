@@ -116,8 +116,8 @@ ggplot(data = ts_4368 %>% filter(year > 1950),
   geom_line(mapping = aes(y = lambda), colour = "black") + 
   geom_point(mapping = aes(y = lambda_val), colour = "red") + 
   geom_line(mapping = aes(y = lambda_val), colour = "red") + 
-  # geom_point(mapping = aes(y = lambda_pred), colour = "blue") + 
-  # geom_line(mapping = aes(y = lambda_pred), colour = "blue") + 
+  geom_point(mapping = aes(y = lambda_pred), colour = "blue") +
+  geom_line(mapping = aes(y = lambda_pred), colour = "blue") +
   labs(title = "ts 4368: original (black), raw (red) and predicted (blue) lambdas")
 
 ## compare previously-calculated lambdas and new derived lambdas
@@ -184,6 +184,7 @@ cLPI <- cLPI %>%
 ## clean up
 rm(first_y, last_y, n_samples, n_samples)
 
+
 ## histograms of summary information
 ## first year of sampling
 (p1 <- ggplot(data = cLPI, 
@@ -191,20 +192,18 @@ rm(first_y, last_y, n_samples, n_samples)
   geom_histogram(colour = "black", fill = "grey50") + 
     geom_vline(xintercept = mean(cLPI$first_year), colour = "red") + 
     geom_vline(xintercept = median(cLPI$first_year), colour = "blue") + 
-    labs(title = "First year sampling", 
+    labs(title = "First year of sampling", 
          x = NULL))
 
-## histograms of summary information
 ## last year of sampling
 (p2 <- ggplot(data = cLPI, 
        mapping = aes(x = last_year)) + 
     geom_histogram(colour = "black", fill = "grey50") + 
     geom_vline(xintercept = mean(cLPI$last_year), colour = "red") + 
     geom_vline(xintercept = median(cLPI$last_year), colour = "blue") + 
-    labs(title = "Last year sampling", 
+    labs(title = "Last year of sampling", 
          x = NULL))
 
-## histograms of summary information
 ## timespan
 (p3 <- ggplot(data = cLPI, 
        mapping = aes(x = timespan)) + 
@@ -214,7 +213,6 @@ rm(first_y, last_y, n_samples, n_samples)
     labs(title = "Timespan (last - first + 1)", 
          x = NULL))
 
-## histograms of summary information
 ## coverage
 (p4 <- ggplot(data = cLPI, 
        mapping = aes(x = coverage)) + 
@@ -225,3 +223,116 @@ rm(first_y, last_y, n_samples, n_samples)
          x = NULL))
 
 (p1 + p2) / (p3 + p4)
+rm(p1, p2, p3, p4)
+
+
+## create similar histograms, but facetted by 
+## taxonomic Class and System (terrestrial, marine, FW)
+
+## first year of sampling
+(p1.2 <- ggplot(data = cLPI, 
+                mapping = aes(x = first_year)) + 
+    geom_histogram() + 
+    geom_vline(data = cLPI %>% 
+                 group_by(Class, System) %>% 
+                 summarise(mean = mean(first_year)), 
+               mapping = aes(xintercept = mean), 
+               colour = "red") + 
+    geom_vline(data = cLPI %>% 
+                 group_by(Class, System) %>% 
+                 summarise(median = median(first_year)), 
+               mapping = aes(xintercept = median), 
+               colour = "blue") + 
+    facet_grid(System ~ Class, scales = "free_y") + 
+    labs(title = "First year of sampling", x = NULL) + 
+    theme(axis.text.x = element_text(angle = 45, hjust = 1)))
+
+## last year of sampling
+(p2.2 <- ggplot(data = cLPI, 
+                mapping = aes(x = last_year)) + 
+    geom_histogram() + 
+    geom_vline(data = cLPI %>% 
+                 group_by(Class, System) %>% 
+                 summarise(mean = mean(last_year)), 
+               mapping = aes(xintercept = mean), 
+               colour = "red") + 
+    geom_vline(data = cLPI %>% 
+                 group_by(Class, System) %>% 
+                 summarise(median = median(last_year)), 
+               mapping = aes(xintercept = median), 
+               colour = "blue") + 
+    facet_grid(System ~ Class, scales = "free_y") + 
+    labs(title = "Last year of sampling", x = NULL) + 
+    theme(axis.text.x = element_text(angle = 45, hjust = 1)))
+
+## timespan
+(p3.2 <- ggplot(data = cLPI, 
+                mapping = aes(x = timespan)) + 
+    geom_histogram() + 
+    geom_vline(data = cLPI %>% 
+                 group_by(Class, System) %>% 
+                 summarise(mean = mean(timespan)), 
+               mapping = aes(xintercept = mean), 
+               colour = "red") + 
+    geom_vline(data = cLPI %>% 
+                 group_by(Class, System) %>% 
+                 summarise(median = median(timespan)), 
+               mapping = aes(xintercept = median), 
+               colour = "blue") + 
+    facet_grid(System ~ Class, scales = "free_y") + 
+    labs(title = "Timespan (last - first + 1)", x = NULL))
+
+## coverage
+(p4.2 <- ggplot(data = cLPI, 
+                mapping = aes(x = coverage)) + 
+    geom_histogram() + 
+    geom_vline(data = cLPI %>% 
+                 group_by(Class, System) %>% 
+                 summarise(mean = mean(coverage)), 
+               mapping = aes(xintercept = mean), 
+               colour = "red") + 
+    geom_vline(data = cLPI %>% 
+                 group_by(Class, System) %>% 
+                 summarise(median = median(coverage)), 
+               mapping = aes(xintercept = median), 
+               colour = "blue") + 
+    facet_grid(System ~ Class, scales = "free_y") + 
+    labs(title = "Coverage (sampled years / timespan)", x = NULL) + 
+    theme(axis.text.x = element_text(angle = 45, hjust = 1)))
+
+(p1.2 + p2.2) / (p3.2 + p4.2)
+rm(p1.2, p2.2, p3.2, p4.2)
+
+
+# sub-sampling ------------------------------------------------------------
+
+## How many time series have complete coverage for at least 5 years?
+cLPI %>% 
+  filter(coverage == 1, timespan >= 5) %>% 
+  n_distinct("ID") %>% ## [1] 1421
+  ggplot(data = ., 
+         mapping = aes(x = timespan)) + 
+  geom_histogram()
+
+## what is the composition of that subset?
+sub_sum <- cLPI %>% 
+  filter(coverage == 1, timespan >= 5) %>% 
+  group_by(Class, System) %>% 
+  summarise(n_sub = n_distinct(ID), 
+            avg_span_sub = mean(timespan)) %>% 
+  mutate(prop_samp = n_sub / 1421)
+
+## how does this composition compare to that of the whole dataset?
+cLPI_sum <- cLPI %>% 
+  group_by(Class, System) %>% 
+  summarise(n_all = n_distinct(ID), 
+            avg_span_all = mean(timespan)) %>% 
+  mutate(prop_all = n_all / n_distinct(cLPI$ID))
+
+## combine subset and overall summary into one table
+summ <- left_join(sub_sum, cLPI_sum, 
+                  by = c("Class", "System")) %>% 
+  mutate(across(.cols = n_sub:prop_all, ~ round(., digits = 2)))
+knitr::kable(summ)
+
+
