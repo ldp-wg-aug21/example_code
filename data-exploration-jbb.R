@@ -389,7 +389,7 @@ wild_sp <- read_csv("data/WildSpecies2015Data.csv",
 names(wild_sp)
 
 ## what is the taxonomic breakdown?
-table(wild_sp$`TAXONOMIC GROUP - GROUPE TAXONOMIQUE`)
+table(wild_sp$TAXONOMIC_GROUP)
 
 ## how many unique species are there?
 n_distinct(wild_sp$Binomial) ## [1] 1779
@@ -404,11 +404,12 @@ intersect(cLPI$Binomial, wild_sp$Binomial)
 lpi_wsr_diff <- setdiff(cLPI$Binomial, wild_sp$Binomial) %>% 
   sort() %>% 
   tibble()
+
+n_distinct(lpi_wsr_diff) ## [1] 58
 ## COMMENT: 58 species exists in cLPI that aren't in wild_sp
 
 ## how many time series does that represent?
 filter(cLPI, Binomial %in% lpi_wsr_diff$.) %>% n_distinct() ## [1] 142 time series
-
 
 ## write the un-matched list to CSV (will find the correct matches manually)
 write_csv(lpi_wsr_diff, "data/cLPI_WSR_setdiff.csv")      
@@ -420,7 +421,7 @@ lpi_wsr_syn
 ## add correctly matched species to the synomyms list
 lpi_wsr_int <- tibble(Binomial_LPI = intersect(cLPI$Binomial, wild_sp$Binomial), 
                       Binomial_WSR = intersect(cLPI$Binomial, wild_sp$Binomial), 
-                      Notes = as.character(NA))
+                      Note = as.character(NA))
 lpi_wsr_syn <- bind_rows(lpi_wsr_syn, lpi_wsr_int)
 
 ## add a new column to cLPI with the resolved binomials
@@ -445,11 +446,19 @@ cLPI_sum2 <- cLPI %>%
             avg_span_all = mean(timespan)) %>% 
   mutate(prop_all = n_all / n_distinct(cLPI$ID))
 
-wild_sp %>% 
-  group_by(`TAXONOMIC GROUP - GROUPE TAXONOMIQUE`) %>% 
+x <- wild_sp %>% 
+  group_by(TAXONOMIC_GROUP) %>% 
   summarise(n_species = n_distinct(Binomial), 
-            prop_CANsp = n_species / 1779)
-
+            prop_all_CAD_sp = round(n_species / 1779, 2))
+x
+knitr::kable(x)
 
 ## write the updated cLPI data to CSV
 write_csv(cLPI, "cLPI_data_resolved_species.csv")
+
+
+
+
+x <- cLPI_sum %>% 
+  mutate(across(.cols = n_all:prop_all, ~ round(., digits = 2)))
+knitr::kable(x)
