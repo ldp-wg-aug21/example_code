@@ -451,3 +451,5 @@ wild_sp %>%
             prop_CANsp = n_species / 1779)
 
 
+## write the updated cLPI data to CSV
+write_csv(cLPI, "cLPI_data_resolved_species.csv")
