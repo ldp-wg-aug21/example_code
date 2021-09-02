@@ -182,7 +182,7 @@ cLPI <- cLPI %>%
          coverage = n_years / timespan)
 
 ## clean up
-rm(first_y, last_y, n_samples, n_samples)
+rm(first_y, last_y, n_samples)
 
 
 ## histograms of summary information
@@ -309,7 +309,7 @@ rm(p1.2, p2.2, p3.2, p4.2)
 ## How many time series have complete coverage for at least 5 years?
 cLPI %>% 
   filter(coverage == 1, timespan >= 5) %>% 
-  n_distinct("ID") %>% ## [1] 1421
+  # n_distinct("ID") %>% ## [1] 1421
   ggplot(data = ., 
          mapping = aes(x = timespan)) + 
   geom_histogram()
@@ -334,5 +334,120 @@ summ <- left_join(sub_sum, cLPI_sum,
                   by = c("Class", "System")) %>% 
   mutate(across(.cols = n_sub:prop_all, ~ round(., digits = 2)))
 knitr::kable(summ)
+
+## Comment:
+## based on a comparison of the proportions of time series for each
+## System * Class, it seems like, relative to the cLPI dataset, the 
+## sub-sampled data (100% and 5+ years):
+## 1. over-represents TERRESTRIAL BIRDS (19% of sub vs. 7% of full)
+## 2. under-represents MARINE FISH (49% of sub vs. 64% of full)
+
+## let's try a slightly less restrictive filter...
+
+## if the time series is more than 10 years, than relax the coverage requirement
+# cLPI %>% 
+#   filter(timespan >= 5) %>% 
+#   {if (.$timespan >= 10) filter(., coverage >= 0.9) else filter(., coverage == 1)} %>%
+#   # filter(if (timespan >= 10) coverage >= 0.9 else coverage == 1) %>% 
+#   n_distinct("ID")
+cLPI %>% 
+  filter(timespan >= 5) %>% 
+  filter(coverage >= 
+           case_when(timespan < 10 ~ 1, 
+                     timespan >= 10 & timespan < 20 ~ 0.8, 
+                     timespan >= 20 ~ 0.75)) %>% 
+  n_distinct("ID") %>% ## [1] 1954
+  ggplot(data = ., 
+         mapping = aes(x = timespan)) + 
+  geom_histogram()
+
+## what is the composition of that subset?
+sub2_sum <- cLPI %>% 
+  filter(timespan >= 5) %>% 
+  filter(coverage >= 
+           case_when(timespan < 10 ~ 1, 
+                     timespan >= 10 & timespan < 20 ~ 0.8, 
+                     timespan >= 20 ~ 0.75)) %>% 
+  group_by(Class, System) %>% 
+  summarise(n_sub = n_distinct(ID), 
+            avg_span_sub = mean(timespan)) %>% 
+  mutate(prop_samp = n_sub / 1984)
+
+## combine subset and overall summary into one table
+summ2 <- left_join(sub2_sum, cLPI_sum, 
+                   by = c("Class", "System")) %>% 
+  mutate(across(.cols = n_sub:prop_all, ~ round(., digits = 2)))
+knitr::kable(summ2)
+
+
+# Wild Species list -------------------------------------------------------
+
+## import list of wild Canadian species
+wild_sp <- read_csv("data/WildSpecies2015Data.csv", 
+                    na = "NA", 
+                    col_types = cols(.default = col_character()))
+names(wild_sp)
+
+## what is the taxonomic breakdown?
+table(wild_sp$`TAXONOMIC GROUP - GROUPE TAXONOMIQUE`)
+
+## how many unique species are there?
+n_distinct(wild_sp$Binomial) ## [1] 1779
+
+## how many unique species are in the cLPI?
+n_distinct(cLPI$Binomial) ## [1] 907
+
+## create a list of the species that intersect between the two
+intersect(cLPI$Binomial, wild_sp$Binomial)
+
+## which species names occur in cLPI but not in wild_sp?
+lpi_wsr_diff <- setdiff(cLPI$Binomial, wild_sp$Binomial) %>% 
+  sort() %>% 
+  tibble()
+## COMMENT: 58 species exists in cLPI that aren't in wild_sp
+
+## how many time series does that represent?
+filter(cLPI, Binomial %in% lpi_wsr_diff$.) %>% n_distinct() ## [1] 142 time series
+
+
+## write the un-matched list to CSV (will find the correct matches manually)
+write_csv(lpi_wsr_diff, "data/cLPI_WSR_setdiff.csv")      
+
+## import the revised matches
+lpi_wsr_syn <- read_csv("data/cLPI_WSR_synonyms.csv")
+lpi_wsr_syn
+
+## add correctly matched species to the synomyms list
+lpi_wsr_int <- tibble(Binomial_LPI = intersect(cLPI$Binomial, wild_sp$Binomial), 
+                      Binomial_WSR = intersect(cLPI$Binomial, wild_sp$Binomial), 
+                      Notes = as.character(NA))
+lpi_wsr_syn <- bind_rows(lpi_wsr_syn, lpi_wsr_int)
+
+## add a new column to cLPI with the resolved binomials
+cLPI <- cLPI %>% 
+  left_join(., lpi_wsr_syn[1:2], by = c("Binomial" = "Binomial_LPI")) %>%
+  rename(Binomial_resolved = Binomial_WSR) %>%
+  relocate(Binomial_resolved, .after = Binomial)
+
+which(is.na(cLPI$Binomial_resolved))
+
+table((cLPI$Binomial == cLPI$Binomial_resolved))
+intersect(cLPI$Binomial, cLPI$Binomial_resolved)
+
+## seems to have done what I wanted, but it's hard to check because a couple
+## species that are split in cLPI are being grouped by WSR
+
+## what 
+
+cLPI_sum2 <- cLPI %>% 
+  group_by(Class, System) %>% 
+  summarise(n_all = n_distinct(ID), 
+            avg_span_all = mean(timespan)) %>% 
+  mutate(prop_all = n_all / n_distinct(cLPI$ID))
+
+wild_sp %>% 
+  group_by(`TAXONOMIC GROUP - GROUPE TAXONOMIQUE`) %>% 
+  summarise(n_species = n_distinct(Binomial), 
+            prop_CANsp = n_species / 1779)
 
 

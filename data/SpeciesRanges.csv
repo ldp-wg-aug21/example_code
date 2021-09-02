@@ -1,0 +1,1000 @@
+IUCN_ID_NO,LPI,CommonName,ScientificName,BinomialName,RedListCategory,Area_km2,Clip_area_km2,Proportion_CAN,Range_CAN
+222,Y,Shortnose Sturgeon,Acipenser brevirostrum,Acipenser_brevirostrum,Vulnerable,202151.1524,19556.69401,0.096743,9.674293
+233,Y,Green Sturgeon,Acipenser medirostris,Acipenser_medirostris,Near Threatened,184686.1101,29227.87537,0.158257,15.825703
+234,Y,White Sturgeon,Acipenser transmontanus,Acipenser_transmontanus,Least Concern,554001.8919,185258.7402,0.334401,33.440092
+245,Y,Gulf Sturgeon,Acipenser oxyrinchus,Acipenser_oxyrinchus,Near Threatened,825596.5326,459746.8049,0.556866,55.68662
+899,Y,Arctic Fox,Vulpes lagopus,Vulpes_lagopus,Least Concern,10734050.16,4710659.541,0.438852,43.885202
+1677,Y,Pronghorn,Antilocapra americana,Antilocapra_americana,Least Concern,2007658.072,93677.21721,0.04666,4.665995
+2467,Y,Bowhead Whale,Balaena mysticetus,Balaena_mysticetus,Least Concern,9196297.635,2423993.162,0.263584,26.358359
+2474,Y,Common Minke Whale,Balaenoptera acutorostrata,Balaenoptera_acutorostrata,Least Concern,344889074.6,2761719.442,0.008008,0.800756
+2477,Y,Blue Whale,Balaenoptera musculus,Balaenoptera_musculus,Endangered,343235424.6,2605954.317,0.007592,0.759232
+2478,Y,Fin Whale,Balaenoptera physalus,Balaenoptera_physalus,Vulnerable,220820419.7,2325319.996,0.01053,1.053037
+2815,Y,American Bison,Bison bison,Bison_bison,Near Threatened,140672.7305,105004.3279,0.746444,74.644409
+3179,Y,Western Toad,Anaxyrus boreas,Anaxyrus_boreas,Least Concern,2853822.604,886896.1015,0.310775,31.077478
+3745,Y,Coyote,Canis latrans,Canis_latrans,Least Concern,14922522.56,3978079.543,0.266582,26.658224
+3746,Y,Grey Wolf,Canis lupus,Canis_lupus,Least Concern,55643506.8,8357819.19,0.150203,15.020296
+4003,Y,American Beaver,Castor canadensis,Castor_canadensis,Least Concern,15418017.6,6715563.458,0.435566,43.556595
+4292,Y,Basking Shark,Cetorhinus maximus,Cetorhinus_maximus,Endangered,208197989.1,1743911.165,0.008376,0.837622
+4975,Y,Northern Red-backed Vole,Myodes rutilus,Myodes_rutilus,Least Concern,18530124.83,2210976.39,0.119318,11.931794
+5362,Y,Cisco,Coregonus artedi,Coregonus_artedi,Lower Risk/least concern,6301670.324,5787457.124,0.9184,91.840049
+5366,Y,Bloater,Coregonus hoyi,Coregonus_hoyi,Vulnerable,302413.7937,92936.86671,0.307317,30.731689
+5378,Y,Shortjaw Cisco,Coregonus zenithicus,Coregonus_zenithicus,Vulnerable,1107367.619,946199.1932,0.854458,85.445807
+6091,Y,Arizona Black-tailed Prairie Dog,Cynomys ludovicianus,Cynomys_ludovicianus,Least Concern,1820797.154,3388.937625,0.001861,0.186124
+6335,Y,Beluga Whale,Delphinapterus leucas,Delphinapterus_leucas,Least Concern,9713006.162,2570336.973,0.264628,26.462837
+6494,Y,Leatherback,Dermochelys coriacea,Dermochelys_coriacea,Vulnerable,206472046.1,1439317.189,0.006971,0.6971
+6691,Y,Ord's Kangaroo Rat,Dipodomys ordii,Dipodomys_ordii,Least Concern,3419728.708,79805.14573,0.023337,2.333669
+7709,Y,Blanding's Turtle,Emydoidea blandingii,Emydoidea_blandingii,Endangered,863904.293,153317.1052,0.17747,17.747001
+7750,Y,Sea Otter,Enhydra lutris,Enhydra_lutris,Endangered,2025965.716,24387.14314,0.012037,1.203729
+7928,Y,Big Brown Bat,Eptesicus fuscus,Eptesicus_fuscus,Least Concern,12788354.05,2526848.495,0.19759,19.758981
+8004,Y,North American Porcupine,Erethizon dorsata,Erethizon_dorsata,Least Concern,12062568.66,6230924.539,0.51655,51.655039
+8097,Y,Gray Whale,Eschrichtius robustus,Eschrichtius_robustus,Least Concern,3954245.351,185447.7299,0.046898,4.689839
+8239,Y,Steller Sea Lion,Eumetopias jubatus,Eumetopias_jubatus,Near Threatened,6481345.803,212963.9683,0.032858,3.285799
+8951,Y,Threespined Stickleback,Gasterosteus aculeatus,Gasterosteus_aculeatus,Least Concern,5851456.753,2345538.797,0.400847,40.084698
+9250,Y,Long-finned Pilot Whale,Globicephala melas,Globicephala_melas,Least Concern,97584505.41,1687943.886,0.017297,1.729725
+9561,Y,Wolverine,Gulo gulo,Gulo_gulo,Least Concern,24394101.51,6423337.109,0.263315,26.331518
+9660,Y,Grey Seal,Halichoerus grypus,Halichoerus_grypus,Least Concern,3404657.515,741815.3617,0.217883,21.788252
+10030,Y,Bluntnose Sixgill Shark,Hexanchus griseus,Hexanchus_griseus,Near Threatened,9870797.816,111776.7678,0.011324,1.132399
+10707,Y,Northern Bottlenose Whale,Hyperoodon ampullatus,Hyperoodon_ampullatus,Near Threatened,24377542.73,1973823.063,0.080969,8.096891
+11141,Y,Atlantic White-sided Dolphin,Lagenorhynchus acutus,Lagenorhynchus_acutus,Least Concern,10321496.43,1285473.109,0.124543,12.454329
+11145,Y,Pacific White-sided Dolphin,Lagenorhynchus obliquidens,Lagenorhynchus_obliquidens,Least Concern,15275736.03,441892.5948,0.028928,2.892774
+11200,Y,Porbeagle,Lamna nasus,Lamna_nasus,Vulnerable,151628981.9,1054859.293,0.006957,0.695684
+11339,Y,Silver-haired Bat,Lasionycteris noctivagans,Lasionycteris_noctivagans,Least Concern,10110375.83,2721508.099,0.26918,26.917972
+11345,Y,Hoary Bat,Lasiurus cinereus,Lasiurus_cinereus,Least Concern,21059682.46,5398839.337,0.256359,25.635901
+11347,Y,Eastern Red Bat,Lasiurus borealis,Lasiurus_borealis,Least Concern,4875165.221,277358.7623,0.056892,5.689218
+12302,Y,North American River Otter,Lontra canadensis,Lontra_canadensis,Least Concern,19085716.86,9701298.902,0.508302,50.830152
+12518,Y,Canada Lynx,Lynx canadensis,Lynx_canadensis,Least Concern,8300050.123,6610369.459,0.796425,79.642525
+12521,Y,Bobcat,Lynx rufus,Lynx_rufus,Least Concern,9879578.038,1146534.795,0.116051,11.605099
+12828,Y,Vancouver Island Marmot,Marmota vancouverensis,Marmota_vancouverensis,Critically Endangered,2075.021212,2075.021212,1,100
+13006,Y,Humpback Whale,Megaptera novaeangliae,Megaptera_novaeangliae,Least Concern,344433003.1,2613438.88,0.007588,0.758766
+13241,Y,Sowerby's Beaked Whale,Mesoplodon bidens,Mesoplodon_bidens,Least Concern,14470300.62,1295769.67,0.089547,8.954684
+13451,Y,Root Vole,Microtus oeconomus,Microtus_oeconomus,Least Concern,18612334.14,1729407.933,0.092917,9.291731
+13452,Y,Chihuahua Vole,Microtus pennsylvanicus,Microtus_pennsylvanicus,Least Concern,11962466.2,7505166.718,0.627393,62.739293
+13487,Y,Townsend's Vole,Microtus townsendii,Microtus_townsendii,Least Concern,213933.7215,34737.55579,0.162375,16.237532
+13704,Y,Narwhal,Monodon monoceros,Monodon_monoceros,Least Concern,3482549.178,1006713.512,0.289074,28.907374
+14171,Y,Keen's Myotis,Myotis keenii,Myotis_keenii,Least Concern,109452.3076,92890.84726,0.848688,84.868788
+14176,Y,Little Brown Bat,Myotis lucifugus,Myotis_lucifugus,Endangered,12040600.87,5662529.79,0.470286,47.028631
+14201,Y,Northern Myotis,Myotis septentrionalis,Myotis_septentrionalis,Near Threatened,4946151.401,2506514.354,0.506761,50.676054
+15106,Y,Walrus,Odobenus rosmarus,Odobenus_rosmarus,Vulnerable,6708468.499,1239941.351,0.184832,18.483225
+15324,Y,Muskrat,Ondatra zibethicus,Ondatra_zibethicus,Least Concern,35088573.96,6979215.865,0.198903,19.890281
+15421,Y,Killer Whale,Orcinus orca,Orcinus_orca,Data Deficient,353391619.1,4179302.669,0.011826,1.182626
+15735,Y,Bighorn Sheep,Ovis canadensis,Ovis_canadensis,Least Concern,534174.0306,87243.87188,0.163325,16.332481
+16669,Y,White-footed Mouse,Peromyscus leucopus,Peromyscus_leucopus,Least Concern,5831185.725,286845.03,0.049192,4.919154
+16672,Y,North American Deermouse,Peromyscus maniculatus,Peromyscus_maniculatus,Least Concern,13030606.53,5274755.167,0.404797,40.479736
+16781,Y,Sea Lamprey,Petromyzon marinus,Petromyzon_marinus,Least Concern,2150993.355,488742.4218,0.227217,22.721708
+17013,Y,Harbor Seal,Phoca vitulina,Phoca_vitulina,Least Concern,6818033.515,2452579.442,0.359719,35.971948
+17027,Y,Harbor Porpoise,Phocoena phocoena,Phocoena_phocoena,Least Concern,10942339.49,1178674.674,0.107717,10.771688
+17032,Y,Dall's Porpoise,Phocoenoides dalli,Phocoenoides_dalli,Least Concern,21460872.44,441892.1201,0.020591,2.059059
+17366,Y,Eastern Pipistrelle,Pipistrellus subflavus,Pipistrellus_subflavus,Vulnerable,4263732.129,239188.0277,0.056098,5.609828
+18868,Y,Puma,Puma concolor,Puma_concolor,Least Concern,22658765.38,713923.6699,0.031508,3.150762
+18878,Y,Ninespine Stickleback,Pungitius pungitius,Pungitius_pungitius,Least Concern,20415511.86,7550723.456,0.369852,36.985227
+19179,Y,Oregon Spotted Frog,Rana pretiosa,Rana_pretiosa,Vulnerable,62527.8811,1919.458939,0.030698,3.069765
+19410,Y,Southern Marsh Harvest Mouse,Reithrodontomys megalotis,Reithrodontomys_megalotis,Least Concern,5116640.03,60669.89044,0.011857,1.185737
+19875,Y,Bull Trout,Salvelinus confluentus,Salvelinus_confluentus,Vulnerable,1860188.151,1403426.645,0.754454,75.445414
+19877,Y,Arctic Char,Salvelinus alpinus,Salvelinus_alpinus,Least Concern,7874706.595,4103833.404,0.521141,52.114112
+20488,Y,Arctic Ground Squirrel,Spermophilus_parryii,Spermophilus_parryii,Least Concern,5346607.588,2540644.373,0.475188,47.518811
+21860,Y,Atlantic Bluefin Tuna,Thunnus thynnus,Thunnus_thynnus,Endangered,31940987.23,1381055.616,0.043238,4.323772
+22823,Y,Polar Bear,Ursus maritimus,Ursus_maritimus,Vulnerable,24621206.36,7892223.289,0.320546,32.054576
+23059,Y,Swift Fox,Vulpes velox,Vulpes_velox,Least Concern,599458.1676,11447.8072,0.019097,1.909692
+29674,Y,Stoat,Mustela erminea,Mustela_erminea,Least Concern,41216077.7,8133301.819,0.197333,19.733323
+29684,Y,Muskox,Ovibos moschatus,Ovibos_moschatus,Least Concern,1620510.508,1312383.138,0.809858,80.985784
+29742,Y,Reindeer,Rangifer tarandus,Rangifer_tarandus,Vulnerable,18660616.29,7265966.282,0.389374,38.93744
+39250,Y,Thinhorn Sheep,Ovis dalli,Ovis_dalli,Least Concern,816219.0633,455160.2288,0.557645,55.764469
+39341,Y,Shortfin Mako,Isurus oxyrinchus,Isurus_oxyrinchus,Endangered,220922170.6,285663.4428,0.001293,0.129305
+39553,Y,Carolina Flying Squirrel,Glaucomys sabrinus,Glaucomys_sabrinus,Least Concern,7852806.495,6032081.438,0.768143,76.814339
+39771,Y,Barndoor Skate,Dipturus laevis,Dipturus_laevis,Least Concern,578251.8172,388233.6044,0.671392,67.139193
+41257,Y,Collared Pika,Ochotona collaris,Ochotona_collaris,Least Concern,846280.0949,552657.9031,0.653044,65.304372
+41273,Y,Snowshoe Hare,Lepus americanus,Lepus_americanus,Least Concern,9597188.454,6735311.643,0.7018,70.18005
+41274,Y,Arctic Hare,Lepus arcticus,Lepus_arcticus,Least Concern,2556742.605,1861980.189,0.728263,72.826267
+41300,Y,Mountain Cottontail,Sylvilagus nuttallii,Sylvilagus_nuttallii,Least Concern,2066995.817,101522.2232,0.049116,4.911583
+41392,Y,Cinereus Shrew,Sorex cinereus,Sorex_cinereus,Least Concern,11572021.9,6960814.332,0.601521,60.152101
+41405,Y,Dusky Shrew,Sorex_monticolus,Sorex_monticolus,Least Concern,4521689.691,2105087.046,0.465553,46.555319
+41425,Y,Vagrant Shrew,Sorex vagrans,Sorex_vagrans,Least Concern,973501.0284,120990.0788,0.124283,12.428346
+41451,Y,Northern Short-tailed Shrew,Blarina brevicauda,Blarina_brevicauda,Least Concern,4106835.434,1314358.862,0.320042,32.004177
+41635,Y,Striped Skunk,Mephitis mephitis,Mephitis_mephitis,Least Concern,12271424.85,4124562.732,0.336111,33.611115
+41648,Y,American Marten,Martes americana,Martes_americana,Least Concern,7637831.727,5900023.154,0.772474,77.247357
+41651,Y,Fisher,Martes pennanti,Martes_pennanti,Least Concern,3720990.562,2982236.514,0.801463,80.146307
+41654,Y,Long-tailed Weasel,Mustela frenata,Mustela_frenata,Least Concern,12271564.09,1346671.997,0.109739,10.973923
+41661,Y,American Mink,Neovison vison,Neovison_vison,Least Concern,14573569.86,7103838.258,0.487447,48.744668
+41671,Y,Harp Seal,Pagophilus groenlandicus,Pagophilus_groenlandicus,Least Concern,9516172.397,2631080.842,0.276485,27.64852
+41672,Y,Ringed Seal,Pusa hispida,Pusa_hispida,Least Concern,20326584.36,3997646.903,0.196671,19.667086
+41686,Y,Northern Raccoon,Procyon lotor,Procyon_lotor,Least Concern,11684884.29,2239158.892,0.191629,19.162867
+41687,Y,American Black Bear,Ursus americanus,Ursus_americanus,Least Concern,10469239.86,6838889.045,0.653236,65.323645
+41688,Y,Brown Bear,Ursus arctos,Ursus_arctos,Least Concern,25568989.48,3001775.356,0.117399,11.739906
+41712,Y,North Atlantic Right Whale,Eubalaena glacialis,Eubalaena_glacialis,Critically Endangered,16176141.12,1316626.656,0.081393,8.139312
+41787,Y,Franklin's Ground Squirrel,Spermophilus franklinii,Spermophilus_franklinii,Least Concern,1657892.867,459893.0084,0.277396,27.73961
+42393,Y,Mule Deer,Odocoileus hemionus,Odocoileus_hemionus,Least Concern,6339995.839,1875053.989,0.29575,29.575003
+42394,Y,White-tailed Deer,Odocoileus virginianus,Odocoileus_virginianus,Least Concern,14410575.89,3059834.501,0.212333,21.233256
+42466,Y,Columbian Ground Squirrel,Spermophilus_columbianus,Spermophilus_columbianus,Least Concern,532366.8656,232676.4017,0.43706,43.706026
+42569,Y,Yellow-pine Chipmunk,Tamias amoenus,Tamias_amoenus,Least Concern,1102202.865,223224.4181,0.202526,20.252571
+42572,Y,Least Chipmunk,Tamias minimus,Tamias_minimus,Least Concern,5243409.24,3379190.437,0.644464,64.446437
+42583,Y,Eastern Chipmunk,Tamias striatus,Tamias_striatus,Least Concern,4197450.631,1229643.543,0.29295,29.295009
+42586,Y,Douglas's Squirrel,Tamiasciurus douglasii,Tamiasciurus_douglasii,Least Concern,510568.1514,72326.11642,0.141658,14.16581
+42587,Y,Red Squirrel,Tamiasciurus hudsonicus,Tamiasciurus_hudsonicus,Least Concern,10363430.72,6480230.386,0.625298,62.52978
+42610,Y,Great Basin Pocket Mouse,Perognathus parvus,Perognathus_parvus,Least Concern,921303.7068,26132.41255,0.028365,2.83646
+42612,Y,Woodland Jumping Mouse,Napaeozapus insignis,Napaeozapus_insignis,Least Concern,2010071.523,1275689.863,0.634649,63.464899
+42613,Y,Meadow Jumping Mouse,Zapus hudsonius,Zapus_hudsonius,Least Concern,8737675.761,4808450.218,0.550312,55.031227
+42614,Y,Pacific Jumping Mouse,Zapus princeps,Zapus_princeps,Least Concern,3278005.421,1494712.119,0.455982,45.59822
+42617,Y,Southern Red-backed Vole,Myodes gapperi,Myodes_gapperi,Least Concern,8370515.343,5736678.332,0.685344,68.534351
+42618,Y,Neartic Collared Lemming,Dicrostonyx groenlandicus,Dicrostonyx_groenlandicus,Least Concern,2561835.469,1791825.766,0.69943,69.943046
+42627,Y,Long-tailed Vole,Microtus longicaudus,Microtus_longicaudus,Least Concern,4021649.95,1500798.639,0.37318,37.317983
+42628,Y,Taiga Vole,Microtus xanthognathus,Microtus_xanthognathus,Least Concern,2263623.668,1993596.814,0.88071,88.071036
+42629,Y,Singing Vole,Microtus miurus,Microtus_miurus,Least Concern,1431661.31,554785.4018,0.387512,38.751163
+42630,Y,Montane Vole,Microtus montanus,Microtus_montanus,Least Concern,1453049.523,56117.85499,0.038621,3.862074
+42636,Y,Western Heather Vole,Phenacomys intermedius,Phenacomys_intermedius,Least Concern,524347.3525,226321.1041,0.431624,43.162439
+42638,Y,Northern Bog Lemming,Synaptomys borealis,Synaptomys_borealis,Least Concern,6774010.932,5593273.556,0.825696,82.569597
+42680,Y,Mountain Goat,Oreamnos americanus,Oreamnos_americanus,Least Concern,801850.1837,508913.9676,0.634675,63.467463
+44183,Y,Big Skate,Beringraja binoculata,Beringraja_binoculata,Least Concern,1265570.712,155049.3078,0.122513,12.251335
+44209,Y,Brown Catshark,Apristurus brunneus,Apristurus_brunneus,Data Deficient,1130477.77,89417.8027,0.079097,7.909736
+54414,Y,Coastal Tailed Frog,Ascaphus truei,Ascaphus_truei,Least Concern,304263.8396,99124.00175,0.325783,32.578305
+54570,Y,American Toad,Anaxyrus americanus,Anaxyrus_americanus,Least Concern,5225559.583,2487548.88,0.476035,47.603493
+54640,Y,Fowler's Toad,Anaxyrus fowleri,Anaxyrus_fowleri,Least Concern,1991771.803,156.875335,0.000079,0.007876
+54661,Y,Canadian Toad,Anaxyrus hemiophrys,Anaxyrus_hemiophrys,Least Concern,1401162.445,1080950.303,0.771467,77.14668
+55687,Y,Gray Treefrog,Hyla versicolor,Hyla_versicolor,Least Concern,2277200.091,421890.0642,0.185267,18.526702
+55892,Y,Spring Peeper,Pseudacris crucifer,Pseudacris_crucifer,Least Concern,4302865.313,1517730.892,0.352726,35.272563
+55899,Y,Western Chorus Frog,Pseudacris triseriata,Pseudacris_triseriata,Least Concern,409562.0645,26367.01341,0.064379,6.437855
+58553,Y,Northern Red-legged Frog,Rana aurora,Rana_aurora,Least Concern,218209.3281,77251.59181,0.354025,35.402516
+58565,Y,American Bullfrog,Lithobates catesbeianus,Lithobates_catesbeianus,Least Concern,4520937.473,359986.8501,0.079627,7.962659
+58578,Y,Green Frog,Lithobates clamitans,Lithobates_clamitans,Least Concern,3793120.036,812421.3948,0.214183,21.418289
+58649,Y,Columbia Spotted Frog,Rana luteiventris,Rana_luteiventris,Least Concern,1322520.52,461567.873,0.349006,34.900621
+58690,Y,Pickerel Frog,Lithobates palustris,Lithobates_palustris,Least Concern,2510109.98,379231.4033,0.151082,15.108159
+58695,Y,Northern Leopard Frog,Lithobates pipiens,Lithobates_pipiens,Least Concern,6026865.53,2287488.183,0.379549,37.954857
+58713,Y,Mink Frog,Lithobates septentrionalis,Lithobates_septentrionalis,Least Concern,1981059.401,1533037.162,0.773847,77.384715
+58728,Y,Wood Frog,Lithobates sylvaticus,Lithobates_sylvaticus,Least Concern,9135941.932,6113664.616,0.669188,66.918821
+59057,Y,Northwestern Salamander,Ambystoma gracile,Ambystoma_gracile,Least Concern,350905.4035,141336.2103,0.402776,40.277582
+59059,Y,Jefferson Salamander,Ambystoma jeffersonianum,Ambystoma_jeffersonianum,Least Concern,470696.3397,1547.945293,0.003289,0.328863
+59063,Y,Long-toed Salamander,Ambystoma macrodactylum,Ambystoma_macrodactylum,Least Concern,1443412.01,732069.9213,0.50718,50.718015
+59064,Y,Spotted Salamander,Ambystoma maculatum,Ambystoma_maculatum,Least Concern,3105928.516,949579.0189,0.305731,30.573112
+59249,Y,Dusky Salamander,Desmognathus fuscus,Desmognathus_fuscus,Least Concern,1548643.399,91526.74832,0.059101,5.910124
+59253,Y,Allegheny Mountain Dusky Salamander,Desmognathus ochrophaeus,Desmognathus_ochrophaeus,Least Concern,292255.1688,4.327455,0.000015,0.001481
+59260,Y,Ensatina,Ensatina eschscholtzii,Ensatina_eschscholtzii,Least Concern,325428.1181,11945.57178,0.036707,3.670725
+59261,Y,Northern Two-lined Salamander,Eurycea bislineata,Eurycea_bislineata,Least Concern,1198568.033,620232.453,0.517478,51.747789
+59282,Y,Spring Salamander,Gyrinophilus porphyriticus,Gyrinophilus_porphyriticus,Least Concern,773388.9744,17670.95679,0.022849,2.284873
+59334,Y,Eastern Red-backed Salamander,Plethodon cinereus,Plethodon_cinereus,Least Concern,1892354.554,733640.491,0.387687,38.768659
+59358,Y,Western Redback Salamander,Plethodon vehiculum,Plethodon_vehiculum,Least Concern,166117.6108,52857.74685,0.318195,31.819472
+59433,Y,Mudpuppy,Necturus maculosus,Necturus_maculosus,Least Concern,1866055.606,321188.6669,0.172122,17.21217
+59453,Y,Eastern Newt,Notophthalmus viridescens,Notophthalmus_viridescens,Least Concern,3520444.919,786896.0808,0.223522,22.352177
+59469,Y,Roughskin Newt,Taricha granulosa,Taricha_granulosa,Least Concern,372147.2997,114329.4926,0.307216,30.72157
+60140,Y,Narrownose Chimaera,Harriotta raleighana,Harriotta_raleighana,Least Concern,5102384.487,345342.402,0.067683,6.768255
+60145,Y,Atlantic Longnose Chimaera,Rhinochimaera atlantica,Rhinochimaera_atlantica,Least Concern,1233322.584,82773.18921,0.067114,6.711398
+60191,Y,Spotted Ratfish,Hydrolagus colliei,Hydrolagus_colliei,Least Concern,905442.9038,155049.267,0.171241,17.124135
+60213,Y,Greenland Shark,Somniosus microcephalus,Somniosus_microcephalus,Vulnerable,9176491.177,1997198.197,0.217643,21.76429
+61265,Y,Largemouth Bass,Micropterus salmoides,Micropterus_salmoides,Least Concern,4340796.371,778204.7715,0.179277,17.927696
+62192,Y,Longnose Sucker,Catostomus catostomus,Catostomus_catostomus,Least Concern,10444826.4,7759414.069,0.742895,74.289546
+62239,Y,Lake Erie Water Snake,Nerodia sipedon,Nerodia_sipedon,Least Concern,2826268.495,198163.2537,0.070115,7.01148
+62240,Y,Common Gartersnake,Thamnophis sirtalis,Thamnophis_sirtalis,Least Concern,8249016.306,2905655.386,0.352243,35.224265
+64227,Y,Common Five-lined Skink,Plestiodon fasciatus,Plestiodon_fasciatus,Least Concern,2541830.141,85362.91223,0.033583,3.358325
+64339,Y,Prairie Rattlesnake,Crotalus viridis,Crotalus_viridis,Least Concern,1903837.336,103595.9119,0.054414,5.441427
+135301,Y,Sockeye Salmon,Oncorhynchus nerka,Oncorhynchus_nerka,Least Concern,2022797.369,410194.3823,0.202786,20.27857
+136004,Y,Boreal Chorus Frog,Pseudacris maculata,Pseudacris_maculata,Least Concern,5606899.746,2786567.682,0.496989,49.698903
+136712,Y,Brown Lemming,Lemmus trimucronatus,Lemmus_trimucronatus,Least Concern,5591301.611,3419867.221,0.611641,61.164063
+154731,Y,Fourspine Stickleback,Apeltes quadracus,Apeltes_quadracus,Least Concern,530238.882,412456.8147,0.77787,77.78698
+154750,Y,Shining Tubeshoulder,Sagamichthys abei,Sagamichthys_abei,Least Concern,23270660.42,192411.3661,0.008268,0.826841
+154816,Y,Beaked Redfish,Sebastes mentella,Sebastes_mentella,Least Concern,6295015.188,484634.3468,0.076987,7.6987
+154845,Y,Slender Sole,Lyopsetta exilis,Lyopsetta_exilis,Least Concern,1447774.964,277162.6794,0.19144,19.144044
+155009,Y,Stout Blacksmelt,Pseudobathylagus milleri,Pseudobathylagus_milleri,Least Concern,8426104.651,442022.2877,0.052459,5.245868
+155123,Y,Atlantic Herring,Clupea harengus,Clupea_harengus,Least Concern,4917930.677,1107822.328,0.225262,22.526188
+155179,Y,Pile Perch,Rhacochilus vacca,Rhacochilus_vacca,Least Concern,469497.5373,107583.4055,0.229146,22.914584
+155190,Y,Snubnosed Eel,Simenchelys parasitica,Simenchelys_parasitica,Least Concern,4545848.765,81473.10308,0.017923,1.792253
+155203,Y,Threadfin Slickhead,Talismania bifurcata,Talismania_bifurcata,Least Concern,7662931.495,226800.9111,0.029597,2.959715
+155216,Y,Threadfin Sculpin,Icelinus filamentosus,Icelinus_filamentosus,Least Concern,1003403.647,232239.1554,0.231451,23.145138
+155246,Y,Kaup's Arrowtooth Eel,Synaphobranchus kaupii,Synaphobranchus_kaupii,Least Concern,24722926.98,926965.0483,0.037494,3.749415
+155287,Y,Finescale Mora,Antimora microlepis,Antimora_microlepis,Data Deficient,41098533.83,311243.915,0.007573,0.757311
+161366,Y,Spinytail Skate,Bathyraja spinicauda,Bathyraja_spinicauda,Near Threatened,3678708.663,855224.7908,0.23248,23.247962
+161375,Y,Roughtail Skate,Bathyraja trachura,Bathyraja_trachura,Least Concern,3768227.138,204354.0967,0.054231,5.423083
+161418,Y,Little Skate,Leucoraja erinacea,Leucoraja_erinacea,Least Concern,436609.8259,262710.1284,0.601705,60.170457
+161477,Y,Smooth Skate,Malacoraja senta,Malacoraja_senta,Vulnerable,1385657.982,1080219.663,0.779572,77.957164
+161521,Y,Black Dogfish,Centroscyllium fabricii,Centroscyllium_fabricii,Least Concern,4886830.24,1009198.668,0.206514,20.651396
+161542,Y,Thorny Skate,Amblyraja radiata,Amblyraja_radiata,Vulnerable,4669051.631,1451854.612,0.310953,31.095279
+161580,Y,Great Torpedo Ray,Tetronarce nobiliana,Tetronarce_nobiliana,Data Deficient,5227250.896,54730.85653,0.01047,1.047029
+161595,Y,Longnose Skate,Raja rhina,Raja_rhina,Least Concern,604406.1153,101497.6374,0.16793,16.792953
+161631,Y,Winter Skate,Leucoraja ocellata,Leucoraja_ocellata,Endangered,1396088.925,1080587.986,0.774011,77.401086
+161661,Y,Aleutian Skate,Bathyraja aleutica,Bathyraja_aleutica,Least Concern,2504357.558,117324.2035,0.046848,4.684802
+170306,Y,Pacific Chub Mackerel,Scomber japonicus,Scomber_japonicus,Least Concern,9461914.073,256946.1063,0.027156,2.715583
+170354,Y,Atlantic Mackerel,Scomber scombrus,Scomber_scombrus,Least Concern,8383171.731,797717.0743,0.095157,9.515695
+183347,Y,#N/A,Sardinops sagax,Sardinops_sagax,Least Concern,5831892.352,155049.0618,0.026586,2.658641
+183724,Y,Plainfin Midshipman,Porichthys notatus,Porichthys_notatus,Least Concern,543975.9133,168203.211,0.309211,30.921077
+183729,Y,Jack Mackerel,Trachurus symmetricus,Trachurus_symmetricus,Least Concern,1157035.204,182804.5228,0.157994,15.799392
+183856,Y,Californian Anchovy,Engraulis mordax,Engraulis_mordax,Data Deficient,652365.1322,152472.1054,0.233722,23.372203
+184080,Y,White Bass,Morone chrysops,Morone_chrysops,Least Concern,1897010.123,396562.9421,0.209046,20.90463
+184086,Y,Brook Stickleback,Culaea inconstans,Culaea_inconstans,Least Concern,5127116.211,3858988.9,0.752663,75.266266
+184088,Y,White Perch,Morone americana,Morone_americana,Least Concern,570045.5276,281253.6652,0.493388,49.338807
+184098,Y,Golden Shiner,Notemigonus crysoleucas,Notemigonus_crysoleucas,Least Concern,4598946.421,1322839.189,0.28764,28.763962
+184100,Y,Redfin Pickerel,Esox americanus,Esox_americanus,Least Concern,2040208.62,108208.737,0.053038,5.303807
+187448,Y,Blue perch,Tautogolabrus adspersus,Tautogolabrus_adspersus,Least Concern,1120817.128,866669.1424,0.773248,77.324759
+190065,Y,Pallid Sculpin,Cottunculus thomsonii,Cottunculus_thomsonii,Least Concern,2322668.261,667146.8893,0.287233,28.723296
+190134,Y,Atlantic Menhaden,Brevoortia tyrannus,Brevoortia_tyrannus,Least Concern,575226.3319,197002.1714,0.342478,34.247767
+190175,Y,Beardfish,Polymixia lowei,Polymixia_lowei,Least Concern,3713082.279,181120.6806,0.048779,4.877906
+190211,Y,Atlantic Saury,Scomberesox saurus,Scomberesox_saurus,Least Concern,15994071.43,940746.4679,0.058818,5.881845
+190214,Y,Slender Snipe Eel,Nemichthys scolopaceus,Nemichthys_scolopaceus,Least Concern,239353357.1,1402440.031,0.005859,0.585929
+190310,Y,Black Swallower,Chiasmodon niger,Chiasmodon_niger,Least Concern,190816425.3,827416.1259,0.004336,0.433619
+190315,Y,Bean's Sawtooth Eel,Serrivomer beanii,Serrivomer_beanii,Least Concern,143308589.3,1863561.697,0.013004,1.300384
+190324,Y,Sloane's Viperfish,Chauliodus sloani,Chauliodus_sloani,Least Concern,220743171,1346586.197,0.0061,0.610024
+190347,Y,Silvery John Dory,Zenopsis conchifer,Zenopsis_conchifer,Least Concern,8434134.788,61849.67126,0.007333,0.733326
+190385,Y,Flat-nose Codling,Antimora rostrata,Antimora_rostrata,Least Concern,196265404.9,1337400.087,0.006814,0.681424
+191026,Y,Spotted Gar,Lepisosteus oculatus,Lepisosteus_oculatus,Least Concern,218159.8316,31426.0743,0.144051,14.405069
+191027,Y,Longnose Gar,Lepisosteus osseus,Lepisosteus_osseus,Least Concern,2599210.684,278835.6599,0.107277,10.727705
+191108,Y,American Eel,Anguilla rostrata,Anguilla_rostrata,Endangered,7445042.797,1522396.25,0.204485,20.448455
+191206,Y,American Shad,Alosa sapidissima,Alosa_sapidissima,Least Concern,1622764.094,553140.1808,0.340863,34.086297
+191210,Y,Gizzard Shad,Dorosoma cepedianum,Dorosoma_cepedianum,Least Concern,4279312.007,244525.2517,0.057141,5.714125
+191292,Y,Fathead Minnow,Pimephales promelas,Pimephales_promelas,Least Concern,6227169.178,2888702.63,0.463887,46.388697
+191830,Y,Warmouth,Lepomis gulosus,Lepomis_gulosus,Least Concern,2239635.468,10395.43584,0.004642,0.464157
+192929,Y,Shiner Perch,Cymatogaster aggregata,Cymatogaster_aggregata,Least Concern,474152.2673,124570.8202,0.262723,26.272324
+192942,Y,Striped Bass,Morone saxatilis,Morone_saxatilis,Least Concern,712780.1319,167888.2432,0.23554,23.554002
+193261,Y,Freshwater Drum,Aplodinotus grunniens,Aplodinotus_grunniens,Least Concern,4836330.005,2354791.356,0.486896,48.689634
+194999,Y,Sharpchin Barracudina,Paralepis coregonoides,Paralepis_coregonoides,Least Concern,24141935.89,1712840.908,0.070949,7.094878
+195093,Y,Blackbelly Rosefish,Helicolenus dactylopterus,Helicolenus_dactylopterus,Least Concern,8032125.338,785109.3258,0.097746,9.774615
+195488,Y,North Pacific Spiny Dogfish,Squalus suckleyi,Squalus_suckleyi,Least Concern,4649152.668,155060.549,0.033352,3.335243
+195852,Y,Cosmopolitan Spineback,Notacanthus chemnitzii,Notacanthus_chemnitzii,Least Concern,14794646.92,1232401.437,0.0833,8.33005
+196019,Y,Black Hagfish,Eptatretus deani,Eptatretus_deani,Data Deficient,825721.2835,120137.4627,0.145494,14.549396
+196044,Y,Pacific Hagfish,Eptatretus stoutii,Eptatretus_stoutii,Data Deficient,379446.0862,80104.1771,0.211108,21.110819
+197086,Y,Round Skate,Rajella fyllae,Rajella_fyllae,Least Concern,4545492.449,970401.9086,0.213487,21.348664
+198563,Y,Boa Dragonfish,Stomias boa,Stomias_boa,Least Concern,124521806.7,1307868.676,0.010503,1.050313
+198723,Y,Atlantic Soft Pout,Melanostigma atlanticum,Melanostigma_atlanticum,Least Concern,2506454.792,24842.38751,0.009911,0.991136
+199970,Y,Western Tiger Salamander,Ambystoma mavortium,Ambystoma_mavortium,Least Concern,3681404.465,440874.1673,0.119757,11.975706
+201948,Y,Alewife,Alosa pseudoharengus,Alosa_pseudoharengus,Least Concern,907283.9367,602744.5668,0.66434,66.433951
+202054,Y,Quillback,Carpiodes cyprinus,Carpiodes_cyprinus,Least Concern,2515344.801,871184.5455,0.346348,34.634796
+202072,Y,Lake Chub,Couesius plumbeus,Couesius_plumbeus,Least Concern,7906017.263,6660283.368,0.842432,84.243218
+202127,Y,Bigmouth Buffalo,Ictiobus cyprinellus,Ictiobus_cyprinellus,Least Concern,1515971.491,129262.9757,0.085267,8.526742
+202138,Y,Common Shiner,Luxilus cornutus,Luxilus_cornutus,Least Concern,3077683.484,1387637.003,0.450871,45.08706
+202159,Y,Silver Redhorse,Moxostoma anisurum,Moxostoma_anisurum,Least Concern,2762973.571,1589946.089,0.575447,57.544745
+202161,Y,River Redhorse,Moxostoma carinatum,Moxostoma_carinatum,Least Concern,869645.8862,110316.4743,0.126852,12.685218
+202253,Y,Shorthead Redhorse,Moxostoma macrolepidotum,Moxostoma_macrolepidotum,Least Concern,3884641.467,2260696.63,0.581958,58.19576
+202259,Y,Greater Redhorse,Moxostoma valenciennesi,Moxostoma_valenciennesi,Least Concern,417659.476,144609.2294,0.346237,34.623716
+202288,Y,Emerald Shiner,Notropis atherinoides,Notropis_atherinoides,Least Concern,5757670.099,3298802.212,0.57294,57.294047
+202300,Y,Bigmouth Shiner,Notropis dorsalis,Notropis_dorsalis,Least Concern,987608.4807,65313.43579,0.066133,6.613292
+202304,Y,Blackchin Shiner,Notropis heterodon,Notropis_heterodon,Least Concern,929962.1011,387449.0047,0.416629,41.662881
+202305,Y,Blacknose Shiner,Notropis heterolepis,Notropis_heterolepis,Least Concern,2554764.603,1655321.679,0.647935,64.793511
+202306,Y,Spottail Shiner,Notropis hudsonius,Notropis_hudsonius,Least Concern,5283183.326,3971682.781,0.751759,75.175941
+202334,Y,Mimic Shiner,Notropis volucellus,Notropis_volucellus,Least Concern,2689472.11,1032249.201,0.383811,38.381108
+202346,Y,Bluntnose Minnow,Pimephales notatus,Pimephales_notatus,Least Concern,2990465.564,715929.342,0.239404,23.940397
+202349,Y,Flathead Chub,Platygobio gracilis,Platygobio_gracilis,Least Concern,2459920.679,1582959.56,0.6435,64.350025
+202403,Y,Central Mudminnow,Umbra limi,Umbra_limi,Least Concern,1610310.192,738701.2243,0.458732,45.873225
+202408,Y,Goldeye,Hiodon alosoides,Hiodon_alosoides,Least Concern,2850117.932,1999598.336,0.701584,70.158442
+202413,Y,Rainbow Smelt,Osmerus mordax,Osmerus_mordax,Least Concern,2969907.798,2144047.114,0.721924,72.19238
+202415,Y,Eulachon,Thaleichthys pacificus,Thaleichthys_pacificus,Least Concern,227588.9169,165631.3321,0.727765,72.776537
+202425,Y,Rock Bass,Ambloplites rupestris,Ambloplites_rupestris,Least Concern,2356550.811,1010024.855,0.428603,42.860305
+202481,Y,Iowa Darter,Etheostoma exile,Etheostoma_exile,Least Concern,4461341.93,3069442.248,0.688009,68.800874
+202507,Y,Johnny Darter,Etheostoma nigrum,Etheostoma_nigrum,Least Concern,4315486.509,2102483.056,0.487195,48.719491
+202555,Y,Pumpkinseed,Lepomis gibbosus,Lepomis_gibbosus,Least Concern,2286425.019,535154.7547,0.234057,23.405743
+202564,Y,Smallmouth Bass,Micropterus dolomieu,Micropterus_dolomieu,Least Concern,2832123.928,980589.2771,0.346238,34.623812
+202567,Y,Yellow Perch,Perca flavescens,Perca_flavescens,Least Concern,5546347.008,3720003.032,0.670712,67.071228
+202572,Y,Logperch,Percina caprodes,Percina_caprodes,Least Concern,3732148.027,2158928.042,0.578468,57.846796
+202603,Y,Black Crappie,Pomoxis nigromaculatus,Pomoxis_nigromaculatus,Least Concern,3040285.416,454351.217,0.149444,14.944361
+202604,Y,Sauger,Sander canadensis,Sander_canadensis,Least Concern,3490620.793,2015956.039,0.577535,57.75351
+202605,Y,Walleye,Sander vitreus,Sander_vitreus,Least Concern,6906497.493,4697816.498,0.680202,68.020245
+202613,Y,Trout-perch,Percopsis omiscomaycus,Percopsis_omiscomaycus,Least Concern,5695443.49,4799870.856,0.842756,84.27563
+202670,Y,Pacific Staghorn Sculpin,Leptocottus armatus,Leptocottus_armatus,Least Concern,548432.0259,119534.9327,0.217958,21.795761
+202674,Y,Black Bullhead,Ameiurus melas,Ameiurus_melas,Least Concern,4462511.789,562864.3606,0.126132,12.613174
+202675,Y,Yellow Bullhead,Ameiurus natalis,Ameiurus_natalis,Least Concern,4108977.428,266496.5016,0.064857,6.485713
+202691,Y,Tadpole Madtom,Noturus gyrinus,Noturus_gyrinus,Least Concern,2256958.124,312341.3969,0.13839,13.839043
+13485635,Y,Duckbill Barracudina,Magnisudis atlantica,Magnisudis_atlantica,Least Concern,233620653.7,2137907.599,0.009151,0.915119
+15522054,Y,Fourbeard Rockling,Enchelyopus cimbrius,Enchelyopus_cimbrius,Least Concern,5495229.396,1388350.512,0.252647,25.264651
+15522149,Y,Roundnose Grenadier,Coryphaenoides rupestris,Coryphaenoides_rupestris,Critically Endangered,4373040.505,845960.9618,0.193449,19.344915
+16441575,Y,Atlantic Silverside,Menidia menidia,Menidia_menidia,Least Concern,716938.0251,350525.8083,0.488921,48.892065
+16466377,Y,Offshore Hake,Merluccius albidus,Merluccius_albidus,Least Concern,1792055.963,104379.3957,0.058246,5.824561
+16466393,Y,Silver Hake,Merluccius bilinearis,Merluccius_bilinearis,Near Threatened,1251404.1,739425.8991,0.590877,59.0877
+16506725,Y,Spotfin Dragonet,Foetorepus agassizii,Foetorepus_agassizii,Least Concern,2951300.941,156975.1036,0.053188,5.318844
+16778030,Y,Fourspot Flounder,Hippoglossina oblonga,Hippoglossina_oblonga,Least Concern,406254.9318,8043.592761,0.019799,1.979937
+18252718,Y,Elongated Bristlemouth Fish,Sigmops elongatus,Sigmops_elongatus,Least Concern,222589865.7,529198.2401,0.002377,0.237746
+19922686,Y,Blackspotted Stickleback,Gasterosteus wheatlandi,Gasterosteus_wheatlandi,Least Concern,771332.8478,627434.6649,0.813442,81.344217
+20663855,Y,Atlantic Batfish,Dibranchus atlanticus,Dibranchus_atlanticus,Least Concern,5051409.336,415238.9113,0.082203,8.220259
+22679460,Y,Willow Grouse,Lagopus lagopus,Lagopus_lagopus,Least Concern,26279281.33,6940980.283,0.264124,26.412367
+22679464,Y,Rock Ptarmigan,Lagopus muta,Lagopus_muta,Least Concern,17596721.64,6090654.615,0.346124,34.612439
+22679473,Y,White-tailed Ptarmigan,Lagopus leucura,Lagopus_leucura,Least Concern,1777789.196,1315620.473,0.740032,74.003176
+22679500,Y,Ruffed Grouse,Bonasa umbellus,Bonasa_umbellus,Least Concern,8071251.812,5387665.881,0.667513,66.751305
+22679503,Y,Sage Grouse,Centrocercus urophasianus,Centrocercus_urophasianus,Near Threatened,1315882.137,115925.6173,0.088097,8.809727
+22679511,Y,Sharp-tailed Grouse,Tympanuchus phasianellus,Tympanuchus_phasianellus,Least Concern,6080573.929,4297630.34,0.70678,70.678038
+22679525,Y,Wild Turkey,Meleagris gallopavo,Meleagris_gallopavo,Least Concern,7259766.398,178814.5763,0.024631,2.46309
+22679859,Y,Trumpeter Swan,Cygnus buccinator,Cygnus_buccinator,Least Concern,1613516.452,651267.3666,0.403632,40.363231
+22679862,Y,Tundra Swan,Cygnus columbianus,Cygnus_columbianus,Least Concern,13943219.14,3699303.38,0.265312,26.5312
+22679881,Y,Greater White-fronted Goose,Anser albifrons,Anser_albifrons,Least Concern,10569236.87,1218602.635,0.115297,11.529713
+22679946,Y,Brent Goose,Branta bernicla,Branta_bernicla,Least Concern,4855255.127,1428667.675,0.294252,29.425182
+22680104,Y,Wood Duck,Aix sponsa,Aix_sponsa,Least Concern,6911029.718,1239728.765,0.179384,17.938409
+22680149,Y,Gadwall,Mareca strepera,Mareca_strepera,Least Concern,34433906.32,1328142.348,0.038571,3.857077
+22680157,Y,Eurasian Wigeon,Mareca penelope,Mareca_penelope,Least Concern,29249856.4,40256.16298,0.001376,0.137629
+22680163,Y,American Wigeon,Mareca americana,Mareca_americana,Least Concern,14957136.83,5744187.105,0.384043,38.404323
+22680174,Y,American Black Duck,Anas rubripes,Anas_rubripes,Least Concern,6575066.554,3258005.606,0.495509,49.550914
+22680186,Y,Mallard,Anas platyrhynchos,Anas_platyrhynchos,Least Concern,48493860.26,6293469.499,0.129779,12.977869
+22680229,Y,Blue-winged Teal,Spatula discors,Spatula_discors,Least Concern,14959614.7,3756921.634,0.251138,25.113759
+22680233,Y,Cinnamon Teal,Spatula cyanoptera,Spatula_cyanoptera,Least Concern,8782143.344,274811.1073,0.031292,3.129203
+22680247,Y,Northern Shoveler,Spatula clypeata,Spatula_clypeata,Least Concern,50146823.09,4899128.409,0.097696,9.769569
+22680301,Y,Northern Pintail,Anas acuta,Anas_acuta,Least Concern,52933175.74,6609231.225,0.12486,12.48599
+22680364,Y,Canvasback,Aythya valisineria,Aythya_valisineria,Least Concern,10988444.48,2341860.107,0.21312,21.312026
+22680367,Y,Redhead,Aythya americana,Aythya_americana,Least Concern,11781981.47,2107662.055,0.178889,17.888859
+22680370,Y,Ring-necked Duck,Aythya collaris,Aythya_collaris,Least Concern,14147355.42,4315057.66,0.305008,30.500808
+22680398,Y,Greater Scaup,Aythya marila,Aythya_marila,Least Concern,16795718.98,3506193.53,0.208755,20.875519
+22680402,Y,Lesser Scaup,Aythya affinis,Aythya_affinis,Least Concern,16201129.46,4882813.409,0.301387,30.138722
+22680405,Y,Common Eider,Somateria mollissima,Somateria_mollissima,Near Threatened,6981443.211,1819870.387,0.260673,26.067252
+22680409,Y,King Eider,Somateria spectabilis,Somateria_spectabilis,Least Concern,7314353.202,2617286.736,0.357829,35.782887
+22680423,Y,Harlequin Duck,Histrionicus histrionicus,Histrionicus_histrionicus,Least Concern,11163496.57,2034952.675,0.182286,18.228632
+22680427,Y,Long-tailed Duck,Clangula hyemalis,Clangula_hyemalis,Vulnerable,14174983.4,5648019.235,0.39845,39.84498
+22680441,Y,Surf Scoter,Melanitta perspicillata,Melanitta_perspicillata,Least Concern,6743165.136,4203691.824,0.6234,62.34004
+22680455,Y,Common Goldeneye,Bucephala clangula,Bucephala_clangula,Least Concern,37073934.06,6878265.474,0.185528,18.552834
+22680459,Y,Barrow's Goldeneye,Bucephala islandica,Bucephala_islandica,Least Concern,3452145.373,1450069.432,0.420049,42.004877
+22680462,Y,Bufflehead,Bucephala albeola,Bucephala_albeola,Least Concern,15691647.7,5405363.228,0.344474,34.447391
+22680472,Y,Hooded Merganser,Lophodytes cucullatus,Lophodytes_cucullatus,Least Concern,8843524.034,2227539.614,0.251884,25.188371
+22680485,Y,Red-breasted Merganser,Mergus serrator,Mergus_serrator,Least Concern,37223565.04,8708341.985,0.233947,23.394702
+22680492,Y,Goosander,Mergus merganser,Mergus_merganser,Least Concern,35367684.31,5796089.491,0.163881,16.388094
+22680801,Y,Lewis's Woodpecker,Melanerpes lewis,Melanerpes_lewis,Least Concern,3401488.647,339991.0426,0.099954,9.99536
+22680810,Y,Red-headed Woodpecker,Melanerpes erythrocephalus,Melanerpes_erythrocephalus,Least Concern,5461703.615,525452.6306,0.096207,9.620673
+22680856,Y,Red-bellied Woodpecker,Melanerpes carolinus,Melanerpes_carolinus,Least Concern,3074172.917,11137.10072,0.003623,0.36228
+22680868,Y,Yellow-bellied Sapsucker,Sphyrapicus varius,Sphyrapicus_varius,Least Concern,9946650.71,3605275.342,0.362461,36.246124
+22680871,Y,Red-naped Sapsucker,Sphyrapicus nuchalis,Sphyrapicus_nuchalis,Least Concern,3614420.903,345063.4954,0.095469,9.546854
+22680874,Y,Red-breasted Sapsucker,Sphyrapicus ruber,Sphyrapicus_ruber,Least Concern,1189118.17,518342.0974,0.435905,43.590461
+22681155,Y,Downy Woodpecker,Dryobates pubescens,Dryobates_pubescens,Least Concern,12800222.59,4944397.603,0.386274,38.627435
+22681166,Y,Hairy Woodpecker,Leuconotopicus villosus,Leuconotopicus_villosus,Least Concern,13332838.8,5276512.265,0.395753,39.57531
+22681181,Y,Black-backed Woodpecker,Picoides arcticus,Picoides_arcticus,Least Concern,6771209.956,4865287.556,0.718526,71.852558
+22681363,Y,Pileated Woodpecker,Hylatomus pileatus,Hylatomus_pileatus,Least Concern,5925870.068,2709689.032,0.457264,45.726433
+22683623,Y,Belted Kingfisher,Megaceryle alcyon,Megaceryle_alcyon,Least Concern,18073756.8,6173141.412,0.341553,34.155275
+22684328,Y,Black-billed Cuckoo,Coccyzus erythropthalmus,Coccyzus_erythropthalmus,Least Concern,10935178.32,1178960.834,0.107814,10.781359
+22684331,Y,Yellow-billed Cuckoo,Coccyzus americanus,Coccyzus_americanus,Least Concern,21062657.39,101895.4016,0.004838,0.483773
+22686440,Y,Black Swift,Cypseloides niger,Cypseloides_niger,Vulnerable,2134256.929,249338.752,0.116827,11.682696
+22686709,Y,Chimney Swift,Chaetura pelagica,Chaetura_pelagica,Vulnerable,11483755.32,1164204.474,0.101378,10.137838
+22686733,Y,White-throated Swift,Aeronautes saxatalis,Aeronautes_saxatalis,Least Concern,4097026.149,44436.62047,0.010846,1.084607
+22688193,Y,Ruby-throated Hummingbird,Archilochus colubris,Archilochus_colubris,Least Concern,7444772.635,1418932.558,0.190594,19.059448
+22688196,Y,Black-chinned Hummingbird,Archilochus alexandri,Archilochus_alexandri,Least Concern,3811624.461,60624.37848,0.015905,1.590513
+22688199,Y,Anna's Hummingbird,Calypte anna,Calypte_anna,Least Concern,1270125.688,171382.7684,0.134934,13.493371
+22688232,Y,Calliope Hummingbird,Selasphorus calliope,Selasphorus_calliope,Least Concern,3088585.206,297230.5043,0.096235,9.623516
+22688296,Y,Rufous Hummingbird,Selasphorus rufus,Selasphorus_rufus,Near Threatened,2817518.637,723019.0475,0.256616,25.661553
+22688747,Y,Western Screech-owl,Megascops kennicottii,Megascops_kennicottii,Least Concern,3582400.997,275439.6832,0.076887,7.688689
+22689055,Y,Snowy Owl,Bubo scandiacus,Bubo_scandiacus,Vulnerable,27054694.47,8794884.139,0.325078,32.507793
+22689094,Y,Barred Owl,Strix varia,Strix_varia,Least Concern,6628546.608,2530333.454,0.381733,38.173277
+22689118,Y,Great Grey Owl,Strix nebulosa,Strix_nebulosa,Least Concern,19846579.2,4174416.356,0.210334,21.03343
+22689189,Y,Northern Hawk-owl,Surnia ulula,Surnia_ulula,Least Concern,21316897.26,6043574.902,0.283511,28.3511
+22689353,Y,Burrowing Owl,Athene cunicularia,Athene_cunicularia,Least Concern,15156932.67,406183.6066,0.026799,2.679854
+22689362,Y,Boreal Owl,Aegolius funereus,Aegolius_funereus,Least Concern,23596675.18,5577343.51,0.236361,23.636141
+22689366,Y,Northern Saw-whet Owl,Aegolius acadicus,Aegolius_acadicus,Least Concern,10821011.03,2884061.407,0.266524,26.652421
+22689507,Y,Northern Long-eared Owl,Asio otus,Asio_otus,Least Concern,35417693.9,3523890.033,0.099495,9.949519
+22689531,Y,Short-eared Owl,Asio flammeus,Asio_flammeus,Least Concern,60053436.09,7689769.93,0.128049,12.804879
+22689714,Y,Common Nighthawk,Chordeiles minor,Chordeiles_minor,Least Concern,28501737.46,4843996.522,0.169954,16.995443
+22689735,Y,Common Poorwill,Phalaenoptilus nuttallii,Phalaenoptilus_nuttallii,Least Concern,4384334.903,90663.67217,0.020679,2.0679
+22690736,Y,Mourning Dove,Zenaida macroura,Zenaida_macroura,Least Concern,12162569.48,1750751.977,0.143946,14.39459
+22692078,Y,Sandhill Crane,Antigone canadensis,Antigone_canadensis,Least Concern,14715587.87,6991945.547,0.475139,47.513872
+22692156,Y,Whooping Crane,Grus americana,Grus_americana,Endangered,1542605.406,273235.9782,0.177126,17.712629
+22692275,Y,Yellow Rail,Coturnicops noveboracensis,Coturnicops_noveboracensis,Least Concern,4125792.135,3056696.796,0.740875,74.087513
+22692479,Y,Virginia Rail,Rallus limicola,Rallus_limicola,Least Concern,10924735.39,1594554.092,0.145958,14.595814
+22692684,Y,Sora,Porzana carolina,Porzana_carolina,Least Concern,16460802.81,4936148.579,0.299873,29.987289
+22693072,Y,American Woodcock,Scolopax minor,Scolopax_minor,Least Concern,4661393.826,996281.8373,0.21373,21.373046
+22693154,Y,Hudsonian Godwit,Limosa haemastica,Limosa_haemastica,Least Concern,3020709.939,717792.3169,0.237624,23.762371
+22693162,Y,Marbled Godwit,Limosa fedoa,Limosa_fedoa,Least Concern,1926807.721,663126.2584,0.344158,34.415798
+22693178,Y,Whimbrel,Numenius phaeopus,Numenius_phaeopus,Least Concern,17021343.46,1219875.492,0.071667,7.16674
+22693195,Y,Long-billed Curlew,Numenius americanus,Numenius_americanus,Least Concern,3937742.914,355149.5818,0.090191,9.019116
+22693203,Y,Upland Sandpiper,Bartramia longicauda,Bartramia_longicauda,Least Concern,21247619.57,973706.4789,0.045827,4.582661
+22693231,Y,Greater Yellowlegs,Tringa melanoleuca,Tringa_melanoleuca,Least Concern,34094264.61,5408981.206,0.158648,15.864783
+22693235,Y,Lesser Yellowlegs,Tringa flavipes,Tringa_flavipes,Least Concern,35216213.18,6147528.7,0.174565,17.45653
+22693239,Y,Solitary Sandpiper,Tringa solitaria,Tringa_solitaria,Least Concern,29410609.56,5690913.541,0.193499,19.349866
+22693277,Y,Spotted Sandpiper,Actitis macularius,Actitis_macularius,Least Concern,34162344.97,6956220.219,0.203622,20.362245
+22693305,Y,Wandering Tattler,Tringa incana,Tringa_incana,Least Concern,2866493.706,551687.8135,0.192461,19.246085
+22693319,Y,Willet,Tringa semipalmata,Tringa_semipalmata,Least Concern,3928191.382,629847.0962,0.16034,16.034023
+22693336,Y,Ruddy Turnstone,Arenaria interpres,Arenaria_interpres,Least Concern,13076135.07,1461818.342,0.111793,11.179285
+22693341,Y,Black Turnstone,Arenaria melanocephala,Arenaria_melanocephala,Least Concern,1072492.561,186808.7002,0.174182,17.418181
+22693344,Y,Short-billed Dowitcher,Limnodromus griseus,Limnodromus_griseus,Least Concern,4633013.413,2594155.214,0.559928,55.992828
+22693348,Y,Long-billed Dowitcher,Limnodromus scolopaceus,Limnodromus_scolopaceus,Least Concern,10470137.23,2480579.315,0.236919,23.691947
+22693356,Y,Surfbird,Calidris virgata,Calidris_virgata,Least Concern,2289583.395,427246.629,0.186605,18.660453
+22693363,Y,Red Knot,Calidris canutus,Calidris_canutus,Near Threatened,6902037.723,1122733.812,0.162667,16.266701
+22693369,Y,Sanderling,Calidris alba,Calidris_alba,Least Concern,13222561.05,1627487.41,0.123084,12.308413
+22693373,Y,Semipalmated Sandpiper,Calidris pusilla,Calidris_pusilla,Near Threatened,16117098.62,8250720.257,0.511923,51.192342
+22693376,Y,Western Sandpiper,Calidris mauri,Calidris_mauri,Least Concern,4634319.53,45877.26805,0.009899,0.989946
+22693396,Y,Least Sandpiper,Calidris minutilla,Calidris_minutilla,Least Concern,25768140.03,7830936.23,0.3039,30.389994
+22693399,Y,White-rumped Sandpiper,Calidris fuscicollis,Calidris_fuscicollis,Least Concern,27076985.83,6728041.384,0.248478,24.847823
+22693404,Y,Baird's Sandpiper,Calidris bairdii,Calidris_bairdii,Least Concern,12713939.08,3361967.264,0.264432,26.44316
+22693408,Y,Pectoral Sandpiper,Calidris melanotos,Calidris_melanotos,Least Concern,33461911.21,5922749.143,0.177,17.699973
+22693420,Y,Purple Sandpiper,Calidris maritima,Calidris_maritima,Least Concern,3299518.844,1582325.872,0.479563,47.956261
+22693424,Y,Rock Sandpiper,Calidris ptilocnemis,Calidris_ptilocnemis,Least Concern,977388.991,228975.421,0.234273,23.427256
+22693427,Y,Dunlin,Calidris alpina,Calidris_alpina,Least Concern,21937170.39,6305125.433,0.287417,28.741744
+22693437,Y,Stilt Sandpiper,Calidris himantopus,Calidris_himantopus,Least Concern,21363288.22,2870063.523,0.134346,13.434559
+22693447,Y,Buff-breasted Sandpiper,Calidris subruficollis,Calidris_subruficollis,Near Threatened,11645263.53,1156252.988,0.09929,9.928955
+22693472,Y,Wilson's Phalarope,Steganopus tricolor,Steganopus_tricolor,Least Concern,15121814.94,1729703.331,0.114385,11.438464
+22693490,Y,Red-necked Phalarope,Phalaropus lobatus,Phalaropus_lobatus,Least Concern,18806232.56,4140097.007,0.220145,22.014494
+22693494,Y,Red Phalarope,Phalaropus fulicarius,Phalaropus_fulicarius,Least Concern,15669849.89,1821794.21,0.116261,11.626111
+22693717,Y,American Avocet,Recurvirostra americana,Recurvirostra_americana,Least Concern,6016953.575,350651.5872,0.058277,5.827726
+22693740,Y,American Golden Plover,Pluvialis dominica,Pluvialis_dominica,Least Concern,28688096,6642011.692,0.231525,23.152501
+22693749,Y,Grey Plover,Pluvialis squatarola,Pluvialis_squatarola,Least Concern,15209490.1,2245113.817,0.147613,14.761269
+22693764,Y,Semipalmated Plover,Charadrius semipalmatus,Charadrius_semipalmatus,Least Concern,17838045.81,8916925.738,0.499882,49.988243
+22693777,Y,Killdeer,Charadrius vociferus,Charadrius_vociferus,Least Concern,16664328.01,5005704.906,0.300384,30.038444
+22693811,Y,Piping Plover,Charadrius melodus,Charadrius_melodus,Near Threatened,5034358.59,374260.9347,0.074341,7.434133
+22694240,Y,Pomarine Jaeger,Stercorarius pomarinus,Stercorarius_pomarinus,Least Concern,84040956.35,1941976.82,0.023108,2.310751
+22694245,Y,Arctic Jaeger,Stercorarius parasiticus,Stercorarius_parasiticus,Least Concern,21928577.53,2452835.495,0.111856,11.185566
+22694251,Y,Long-tailed Jaeger,Stercorarius longicaudus,Stercorarius_longicaudus,Least Concern,58036171.14,2544274.237,0.043839,4.383946
+22694308,Y,Mew Gull,Larus canus,Larus_canus,Least Concern,45580677.83,3251337.213,0.071331,7.133148
+22694317,Y,Ring-billed Gull,Larus delawarensis,Larus_delawarensis,Least Concern,13105557.99,3514014.165,0.268132,26.813159
+22694321,Y,California Gull,Larus californicus,Larus_californicus,Least Concern,6058275.97,1801331.218,0.297334,29.733397
+22694324,Y,Great Black-backed Gull,Larus marinus,Larus_marinus,Least Concern,12819632.13,2255113.226,0.175911,17.591092
+22694334,Y,Glaucous-winged Gull,Larus glaucescens,Larus_glaucescens,Least Concern,6471484.695,514613.5776,0.07952,7.952017
+22694337,Y,Western Gull,Larus occidentalis,Larus_occidentalis,Least Concern,157431.0087,19710.87962,0.125203,12.520329
+22694343,Y,Glaucous Gull,Larus hyperboreus,Larus_hyperboreus,Least Concern,8106207.191,2580527.421,0.31834,31.833968
+22694373,Y,Lesser Black-backed Gull,Larus fuscus,Larus_fuscus,Least Concern,47986833.19,914803.1041,0.019064,1.906363
+22694420,Y,Black-headed Gull,Larus ridibundus,Larus_ridibundus,Least Concern,44455173.96,1281980.566,0.028838,2.88376
+22694432,Y,Bonaparte's Gull,Larus philadelphia,Larus_philadelphia,Least Concern,15309349.23,5442648.028,0.355511,35.551139
+22694462,Y,Franklin's Gull,Larus pipixcan,Larus_pipixcan,Least Concern,8491094.609,1353499.171,0.159402,15.94022
+22694473,Y,Ivory Gull,Pagophila eburnea,Pagophila_eburnea,Near Threatened,19300242.5,3634229.055,0.1883,18.829966
+22694476,Y,Ross's Gull,Rhodostethia rosea,Rhodostethia_rosea,Least Concern,3404017.591,30870.20304,0.009069,0.906876
+22694479,Y,Sabine's Gull,Xema sabini,Xema_sabini,Least Concern,60360562.47,2450586.29,0.040599,4.059913
+22694497,Y,Black-legged Kittiwake,Rissa tridactyla,Rissa_tridactyla,Vulnerable,44643121.06,2746609.432,0.061524,6.152369
+22694524,Y,Caspian Tern,Hydroprogne caspia,Hydroprogne_caspia,Least Concern,13933342.71,277051.7483,0.019884,1.988408
+22694601,Y,Roseate Tern,Sterna dougallii,Sterna_dougallii,Least Concern,34613490.67,15555.61147,0.000449,0.044941
+22694623,Y,Common Tern,Sterna hirundo,Sterna_hirundo,Least Concern,51309061.02,4149974.776,0.080882,8.088191
+22694629,Y,Arctic Tern,Sterna paradisaea,Sterna_paradisaea,Least Concern,72591366.96,4801509.655,0.066144,6.614436
+22694646,Y,Forster's Tern,Sterna forsteri,Sterna_forsteri,Least Concern,10875967.08,963951.4941,0.088631,8.863134
+22694787,Y,Black Tern,Chlidonias niger,Chlidonias_niger,Least Concern,37714829.42,2843750.145,0.075401,7.540138
+22694841,Y,Common Murre,Uria aalge,Uria_aalge,Least Concern,20361429.5,2054309.838,0.100892,10.089222
+22694847,Y,Thick-billed Murre,Uria lomvia,Uria_lomvia,Least Concern,2199416.107,268133.9082,0.121911,12.191141
+22694852,Y,Razorbill,Alca torda,Alca_torda,Near Threatened,9318048.372,1682258.684,0.180538,18.053766
+22694861,Y,Black Guillemot,Cepphus grylle,Cepphus_grylle,Least Concern,6808624.096,2476818.096,0.363777,36.37766
+22694864,Y,Pigeon Guillemot,Cepphus columba,Cepphus_columba,Least Concern,6816715.976,447934.2842,0.065711,6.571116
+22694870,Y,Marbled Murrelet,Brachyramphus marmoratus,Brachyramphus_marmoratus,Endangered,2521238.684,481449.9886,0.190958,19.095772
+22694896,Y,Ancient Murrelet,Synthliboramphus antiquus,Synthliboramphus_antiquus,Least Concern,5454947.882,442004.3592,0.081028,8.102815
+22694903,Y,Cassin's Auklet,Ptychoramphus aleuticus,Ptychoramphus_aleuticus,Near Threatened,4083469.881,361931.5458,0.088633,8.863333
+22694924,Y,Rhinoceros Auklet,Cerorhinca monocerata,Cerorhinca_monocerata,Least Concern,5458462.683,262439.8112,0.048079,4.807944
+22694927,Y,Atlantic Puffin,Fratercula arctica,Fratercula_arctica,Vulnerable,19124425.3,2677281.668,0.139993,13.999279
+22694934,Y,Tufted Puffin,Fratercula cirrhata,Fratercula_cirrhata,Least Concern,10847952.81,369205.6458,0.034035,3.403459
+22694938,Y,Osprey,Pandion haliaetus,Pandion_haliaetus,Least Concern,91737716.35,6451049.783,0.070321,7.032058
+22695144,Y,Bald Eagle,Haliaeetus leucocephalus,Haliaeetus_leucocephalus,Least Concern,15548846.09,5904386.061,0.379731,37.973146
+22695656,Y,Cooper's Hawk,Accipiter cooperii,Accipiter_cooperii,Least Concern,10487681.2,824398.0235,0.078606,7.860632
+22695683,Y,Northern Goshawk,Accipiter gentilis,Accipiter_gentilis,Least Concern,36027993.75,6759109.35,0.187607,18.760715
+22695883,Y,Red-shouldered Hawk,Buteo lineatus,Buteo_lineatus,Least Concern,4090570.221,204835.5178,0.050075,5.007505
+22695891,Y,Broad-winged Hawk,Buteo platypterus,Buteo_platypterus,Least Concern,12156656.88,1625694.062,0.133729,13.372871
+22695903,Y,Swainson's Hawk,Buteo swainsoni,Buteo_swainsoni,Least Concern,13793683.78,2144502.454,0.15547,15.546989
+22695933,Y,Red-tailed Hawk,Buteo jamaicensis,Buteo_jamaicensis,Least Concern,15893905.87,5165627.125,0.325007,32.500678
+22695970,Y,Ferruginous Hawk,Buteo regalis,Buteo_regalis,Least Concern,4975156.457,391297.0382,0.07865,7.86502
+22695973,Y,Rough-legged Buzzard,Buteo lagopus,Buteo_lagopus,Least Concern,37406818.16,4530327.224,0.12111,12.110967
+22696060,Y,Golden Eagle,Aquila chrysaetos,Aquila_chrysaetos,Least Concern,43358006.95,4537846.261,0.10466,10.465994
+22696395,Y,American Kestrel,Falco sparverius,Falco_sparverius,Least Concern,27776685.3,4974100.022,0.179075,17.907464
+22696453,Y,Merlin,Falco columbarius,Falco_columbarius,Least Concern,46896407.73,6978175.169,0.1488,14.879978
+22696500,Y,Gyrfalcon,Falco rusticolus,Falco_rusticolus,Least Concern,26158958.24,9492308.7,0.36287,36.287029
+22696504,Y,Prairie Falcon,Falco mexicanus,Falco_mexicanus,Least Concern,5424948.418,472789.7871,0.087151,8.715102
+22696574,Y,Pied-billed Grebe,Podilymbus podiceps,Podilymbus_podiceps,Least Concern,21362818.13,3145103.984,0.147223,14.722327
+22696599,Y,Red-necked Grebe,Podiceps grisegena,Podiceps_grisegena,Least Concern,23962686.01,4856355.951,0.202663,20.266326
+22696606,Y,Horned Grebe,Podiceps auritus,Podiceps_auritus,Vulnerable,23711152.45,4628504.947,0.195204,19.520371
+22696610,Y,Black-necked Grebe,Podiceps nigricollis,Podiceps_nigricollis,Least Concern,23562032.62,1124779.838,0.047737,4.773696
+22696631,Y,Western Grebe,Aechmophorus occidentalis,Aechmophorus_occidentalis,Least Concern,6365734.023,1272387.658,0.199881,19.988074
+22696657,Y,Northern Gannet,Morus bassanus,Morus_bassanus,Least Concern,18269585.43,1686926.578,0.092335,9.233524
+22696753,Y,Brandt's Cormorant,Phalacrocorax_penicillatus,Phalacrocorax_penicillatus,Least Concern,702773.4667,79407.64619,0.112992,11.299181
+22696776,Y,Double-crested Cormorant,Phalacrocorax auritus,Phalacrocorax_auritus,Least Concern,10596528.91,1919457.499,0.18114,18.114021
+22696792,Y,Great Cormorant,Phalacrocorax carbo,Phalacrocorax_carbo,Least Concern,32287342.09,264853.7582,0.008203,0.820302
+22697043,Y,Great White Egret,Ardea alba,Ardea_alba,Least Concern,80822182.46,241510.9713,0.002988,0.298818
+22697211,Y,Black-crowned Night-heron,Nycticorax nycticorax,Nycticorax_nycticorax,Least Concern,52765688.51,1401685.268,0.026564,2.656433
+22697314,Y,Least Bittern,Ixobrychus exilis,Ixobrychus_exilis,Least Concern,8172099.059,69663.28305,0.008525,0.852453
+22697340,Y,American Bittern,Botaurus lentiginosus,Botaurus_lentiginosus,Least Concern,14233855.3,4498997.674,0.316077,31.607724
+22697426,Y,White-faced Ibis,Plegadis chihi,Plegadis_chihi,Least Concern,9580570.689,10825.53309,0.00113,0.112995
+22697611,Y,American White Pelican,Pelecanus erythrorhynchos,Pelecanus_erythrorhynchos,Least Concern,8105115.128,1216832.344,0.150131,15.013141
+22697627,Y,Turkey Vulture,Cathartes aura,Cathartes_aura,Least Concern,28128710.5,626283.1356,0.022265,2.226491
+22697829,Y,Red-throated Loon,Gavia stellata,Gavia_stellata,Least Concern,23354696,5544157.833,0.237389,23.738942
+22697839,Y,Pacific Loon,Gavia pacifica,Gavia_pacifica,Least Concern,6785464.734,3714756.818,0.547458,54.745798
+22697842,Y,Common Loon,Gavia immer,Gavia_immer,Least Concern,12617999.99,7600630.175,0.602364,60.23641
+22697847,Y,Yellow-billed Loon,Gavia adamsii,Gavia_adamsii,Near Threatened,5436442.883,1599454.394,0.29421,29.420973
+22697866,Y,Northern Fulmar,Fulmarus glacialis,Fulmarus_glacialis,Least Concern,29449824.55,2975463.676,0.101035,10.103502
+22698201,Y,Great Shearwater,Ardenna gravis,Ardenna_gravis,Least Concern,63566816.11,1708192.258,0.026872,2.687239
+22698209,Y,Sooty Shearwater,Ardenna grisea,Ardenna_grisea,Near Threatened,203177599.2,2489640.498,0.012254,1.225352
+22698572,Y,Fork-tailed Storm-petrel,Oceanodroma furcata,Oceanodroma_furcata,Least Concern,19590669.41,448164.988,0.022876,2.287645
+22699787,Y,Olive-sided Flycatcher,Contopus cooperi,Contopus_cooperi,Near Threatened,20275254.61,5325541.426,0.262662,26.266212
+22699811,Y,Western Wood-pewee,Contopus sordidulus,Contopus_sordidulus,Least Concern,11524133.54,2214376.05,0.192151,19.21512
+22699816,Y,Eastern Wood-pewee,Contopus virens,Contopus_virens,Least Concern,10575345.02,480237.9769,0.045411,4.541109
+22699839,Y,Yellow-bellied Flycatcher,Empidonax flaviventris,Empidonax_flaviventris,Least Concern,8804426.854,4794325.864,0.544536,54.453583
+22699845,Y,Alder Flycatcher,Empidonax alnorum,Empidonax_alnorum,Least Concern,13410180.47,5380219.777,0.401204,40.120413
+22699848,Y,Willow Flycatcher,Empidonax traillii,Empidonax_traillii,Least Concern,11374050.06,1150216.432,0.101126,10.112637
+22699854,Y,Least Flycatcher,Empidonax minimus,Empidonax_minimus,Least Concern,11595280.33,4176389.91,0.36018,36.018016
+22699857,Y,Hammond's Flycatcher,Empidonax hammondii,Empidonax_hammondii,Least Concern,5603943.607,959677.4245,0.17125,17.125037
+22699864,Y,American Dusky Flycatcher,Empidonax oberholseri,Empidonax_oberholseri,Least Concern,4614750.938,538137.6223,0.116612,11.66125
+22699871,Y,Pacific-slope Flycatcher,Empidonax difficilis,Empidonax_difficilis,Least Concern,1684080.633,415544.1504,0.246748,24.674837
+22699886,Y,Eastern Phoebe,Sayornis phoebe,Sayornis_phoebe,Least Concern,7959979.684,2613308.544,0.328306,32.830593
+22699889,Y,Say's Phoebe,Sayornis saya,Sayornis_saya,Least Concern,10053591.06,3156858.319,0.314003,31.400306
+22700433,Y,Great Crested Flycatcher,Myiarchus crinitus,Myiarchus_crinitus,Least Concern,6748930.582,982232.1939,0.145539,14.553894
+22700497,Y,Western Kingbird,Tyrannus verticalis,Tyrannus_verticalis,Least Concern,6509991.556,529390.2804,0.08132,8.131966
+22700506,Y,Eastern Kingbird,Tyrannus tyrannus,Tyrannus_tyrannus,Least Concern,16647797.4,3381856.431,0.203141,20.314137
+22705042,Y,Loggerhead Shrike,Lanius ludovicianus,Lanius_ludovicianus,Near Threatened,9319416.787,707368.0684,0.075903,7.590261
+22705182,Y,Hutton's Vireo,Vireo huttoni,Vireo_huttoni,Least Concern,1214889.286,56638.87547,0.046621,4.662061
+22705228,Y,Cassin's Vireo,Vireo cassinii,Vireo_cassinii,Least Concern,4111929.433,243580.0323,0.059237,5.923741
+22705234,Y,Blue-headed Vireo,Vireo solitarius,Vireo_solitarius,Least Concern,8391597.462,2926545.177,0.348747,34.874709
+22705237,Y,Yellow-throated Vireo,Vireo flavifrons,Vireo_flavifrons,Least Concern,5029924.449,165345.8894,0.032872,3.287244
+22705240,Y,Philadelphia Vireo,Vireo philadelphicus,Vireo_philadelphicus,Least Concern,6279156.66,2617299.45,0.416823,41.68234
+22705611,Y,Blue Jay,Cyanocitta cristata,Cyanocitta_cristata,Least Concern,6809850.708,2010511.13,0.295236,29.523571
+22705614,Y,Steller's Jay,Cyanocitta stelleri,Cyanocitta_stelleri,Least Concern,3560890.277,676959.7091,0.19011,19.010968
+22705783,Y,Grey Jay,Perisoreus canadensis,Perisoreus_canadensis,Least Concern,7301158.761,5857134.708,0.80222,80.221988
+22705909,Y,Clark's Nutcracker,Nucifraga columbiana,Nucifraga_columbiana,Least Concern,2287629.185,411176.2947,0.179739,17.973905
+22705986,Y,Northwestern Crow,Corvus caurinus,Corvus_caurinus,Least Concern,396973.0644,175952.6612,0.443236,44.323577
+22705990,Y,American Crow,Corvus brachyrhynchos,Corvus_brachyrhynchos,Least Concern,12113602.85,4744740.544,0.391687,39.168698
+22706068,Y,Common Raven,Corvus corax,Corvus_corax,Least Concern,52338860.56,8903104.144,0.170105,17.010504
+22708146,Y,Bohemian Waxwing,Bombycilla garrulus,Bombycilla_garrulus,Least Concern,32412233.74,5729656.988,0.176775,17.677452
+22708153,Y,Cedar Waxwing,Bombycilla cedrorum,Bombycilla_cedrorum,Least Concern,14350353.96,3795457.091,0.264485,26.448526
+22708163,Y,American Dipper,Cinclus mexicanus,Cinclus_mexicanus,Least Concern,4910725.255,1586722.055,0.323114,32.311359
+22708385,Y,Varied Thrush,Ixoreus naevius,Ixoreus_naevius,Least Concern,3579279.119,1778699.449,0.496943,49.694349
+22708550,Y,Eastern Bluebird,Sialia sialis,Sialia_sialis,Least Concern,5896220.837,759604.0351,0.128829,12.882897
+22708553,Y,Western Bluebird,Sialia mexicana,Sialia_mexicana,Least Concern,2425886.72,38749.02771,0.015973,1.597314
+22708556,Y,Mountain Bluebird,Sialia currucoides,Sialia_currucoides,Least Concern,7774693.867,2148953.762,0.276404,27.640365
+22708587,Y,Townsend's Solitaire,Myadestes townsendi,Myadestes_townsendi,Least Concern,6029568.558,1848524.903,0.306577,30.657665
+22708655,Y,Veery,Catharus fuscescens,Catharus_fuscescens,Least Concern,16365704.79,1917899.261,0.11719,11.719014
+22708658,Y,Grey-cheeked Thrush,Catharus minimus,Catharus_minimus,Least Concern,17833966.59,6128749.502,0.343656,34.365599
+22708667,Y,Hermit Thrush,Catharus guttatus,Catharus_guttatus,Least Concern,15387547.4,5424107.37,0.3525,35.24998
+22708670,Y,Wood Thrush,Hylocichla mustelina,Hylocichla_mustelina,Least Concern,5235389.174,550311.1096,0.105114,10.51137
+22711013,Y,Grey Catbird,Dumetella carolinensis,Dumetella_carolinensis,Least Concern,8544293.219,1407411.349,0.164719,16.471946
+22711026,Y,Northern Mockingbird,Mimus polyglottos,Mimus_polyglottos,Least Concern,10313160.89,636063.9304,0.061675,6.167497
+22711099,Y,Brown Thrasher,Toxostoma rufum,Toxostoma_rufum,Least Concern,5859120.454,963704.9352,0.164479,16.447945
+22711170,Y,Pygmy Nuthatch,Sitta pygmaea,Sitta_pygmaea,Least Concern,1953882.133,59054.09975,0.030224,3.022398
+22711196,Y,Red-breasted Nuthatch,Sitta canadensis,Sitta_canadensis,Least Concern,12269911.93,4471234.439,0.364406,36.44064
+22711202,Y,White-breasted Nuthatch,Sitta carolinensis,Sitta_carolinensis,Least Concern,9153871.293,1722099.537,0.188128,18.8128
+22711244,Y,American Treecreeper,Certhia americana,Certhia_americana,Least Concern,12159569.04,3380513.698,0.278013,27.801262
+22711332,Y,Rock Wren,Salpinctes obsoletus,Salpinctes_obsoletus,Least Concern,5542754.999,338209.7216,0.061018,6.101834
+22711335,Y,Canyon Wren,Catherpes mexicanus,Catherpes_mexicanus,Least Concern,4298191.95,65265.70213,0.015184,1.518445
+22711374,Y,Marsh Wren,Cistothorus palustris,Cistothorus_palustris,Least Concern,10354706.1,1186442.6,0.11458,11.458004
+22711377,Y,Bewick's Wren,Thryomanes bewickii,Thryomanes_bewickii,Least Concern,3492222.59,29636.51428,0.008486,0.848643
+22711581,Y,Blue-grey Gnatcatcher,Polioptila caerulea,Polioptila_caerulea,Least Concern,7262820.945,118357.6507,0.016296,1.629637
+22711716,Y,Black-capped Chickadee,Poecile atricapillus,Poecile_atricapillus,Least Concern,9078516.137,4484912.936,0.494014,49.401388
+22711724,Y,Mountain Chickadee,Poecile gambeli,Poecile_gambeli,Least Concern,2711121.218,651812.718,0.240422,24.042183
+22711759,Y,Boreal Chickadee,Poecile hudsonicus,Poecile_hudsonicus,Least Concern,7102487.209,5942595.538,0.836692,83.669218
+22711767,Y,Chestnut-backed Chickadee,Poecile rufescens,Poecile_rufescens,Least Concern,958072.0482,356628.1471,0.372235,37.223521
+22711983,Y,Tufted Titmouse,Baeolophus bicolor,Baeolophus_bicolor,Least Concern,2969684.369,21664.5513,0.007295,0.729524
+22712028,Y,American Bushtit,Psaltriparus minimus,Psaltriparus_minimus,Least Concern,2692221.53,26891.21295,0.009988,0.998848
+22712057,Y,Tree Swallow,Tachycineta bicolor,Tachycineta_bicolor,Least Concern,17477835.91,6276210.205,0.359095,35.909538
+22712077,Y,Violet-green Swallow,Tachycineta thalassina,Tachycineta_thalassina,Least Concern,6579567.625,1286123.464,0.195472,19.547234
+22712098,Y,Purple Martin,Progne subis,Progne_subis,Least Concern,21192520.43,810262.8919,0.038233,3.823344
+22712152,Y,Northern Rough-winged Swallow,Stelgidopteryx serripennis,Stelgidopteryx_serripennis,Least Concern,11481259.48,1245202.786,0.108455,10.845524
+22712252,Y,Barn Swallow,Hirundo rustica,Hirundo_rustica,Least Concern,94644876.45,4240333.005,0.044803,4.480256
+22712427,Y,Cliff Swallow,Petrochelidon pyrrhonota,Petrochelidon_pyrrhonota,Least Concern,26656038.27,4067005.768,0.152574,15.257353
+22712567,Y,Ruby-crowned Kinglet,Regulus calendula,Regulus_calendula,Least Concern,14203576.81,6346585.261,0.44683,44.683007
+22712594,Y,Golden-crowned Kinglet,Regulus satrapa,Regulus_satrapa,Least Concern,11552389.32,3803607.112,0.329249,32.924852
+22717434,Y,Horned Lark,Eremophila alpestris,Eremophila_alpestris,Least Concern,44034529.92,9233917.414,0.209697,20.96972
+22718575,Y,Buff-bellied Pipit,Anthus rubescens,Anthus_rubescens,Least Concern,37047158.93,9133833.975,0.246546,24.654614
+22718591,Y,Sprague's Pipit,Anthus spragueii,Anthus_spragueii,Vulnerable,5519811.507,689268.7931,0.124872,12.48718
+22720359,Y,Pine Siskin,Spinus pinus,Spinus_pinus,Least Concern,14061500.16,4823847.477,0.343054,34.305354
+22720407,Y,American Goldfinch,Spinus tristis,Spinus_tristis,Least Concern,10571096.06,2326248.174,0.220057,22.005742
+22720482,Y,Grey-crowned Rosy-Finch,Leucosticte tephrocotis,Leucosticte_tephrocotis,Least Concern,4225620.604,1222192.888,0.289234,28.923394
+22720553,Y,Purple Finch,Haemorhous purpureus,Haemorhous_purpureus,Least Concern,7952948.289,3437804.783,0.432268,43.226797
+22720560,Y,Cassin's Finch,Haemorhous cassinii,Haemorhous_cassinii,Least Concern,2814099.626,167060.5048,0.059366,5.936553
+22720563,Y,House Finch,Haemorhous mexicanus,Haemorhous_mexicanus,Least Concern,10299807.66,1063776.449,0.103281,10.32812
+22720625,Y,Pine Grosbeak,Pinicola enucleator,Pinicola_enucleator,Least Concern,24283511.96,6683965.09,0.275247,27.524705
+22720646,Y,Red Crossbill,Loxia curvirostra,Loxia_curvirostra,Least Concern,29575474.14,4211327.268,0.142393,14.239255
+22720702,Y,Evening Grosbeak,Hesperiphona vespertina,Hesperiphona_vespertina,Vulnerable,9648527.173,2616576.524,0.271189,27.118922
+22721033,Y,Lapland Longspur,Calcarius lapponicus,Calcarius_lapponicus,Least Concern,27580963.32,9371451.635,0.33978,33.977971
+22721037,Y,Smith's Longspur,Calcarius pictus,Calcarius_pictus,Least Concern,6038368.874,3983917.711,0.659767,65.97672
+22721040,Y,Chestnut-collared Longspur,Calcarius ornatus,Calcarius_ornatus,Vulnerable,3251941.616,263268.0179,0.080957,8.095718
+22721043,Y,Snow Bunting,Plectrophenax nivalis,Plectrophenax_nivalis,Least Concern,29204123.67,9723941.223,0.332965,33.296466
+22721049,Y,Lark Bunting,Calamospiza melanocorys,Calamospiza_melanocorys,Least Concern,3695834.932,272234.5489,0.07366,7.365982
+22721058,Y,Song Sparrow,Melospiza melodia,Melospiza_melodia,Least Concern,13004353.87,4535008.889,0.34873,34.873004
+22721064,Y,Lincoln's Sparrow,Melospiza lincolnii,Melospiza_lincolnii,Least Concern,16097608.89,6322595.923,0.392766,39.276615
+22721070,Y,Swamp Sparrow,Melospiza georgiana,Melospiza_georgiana,Least Concern,10367991.42,4453853.267,0.429577,42.957725
+22721082,Y,Harris's Sparrow,Zonotrichia querula,Zonotrichia_querula,Near Threatened,6148467.219,3679560.371,0.598452,59.845165
+22721085,Y,White-throated Sparrow,Zonotrichia albicollis,Zonotrichia_albicollis,Least Concern,11733055.1,5377704.848,0.458338,45.833799
+22721088,Y,White-crowned Sparrow,Zonotrichia leucophrys,Zonotrichia_leucophrys,Least Concern,17967440.74,7852720.206,0.437053,43.70528
+22721091,Y,Golden-crowned Sparrow,Zonotrichia atricapilla,Zonotrichia_atricapilla,Least Concern,2344369.39,910241.7608,0.388267,38.826721
+22721097,Y,Dark-eyed Junco,Junco hyemalis,Junco_hyemalis,Least Concern,16176952.48,6773878.992,0.418736,41.873641
+22721135,Y,Le Conte's Sparrow,Ammospiza leconteii,Ammospiza_leconteii,Least Concern,5593479.102,2443780.92,0.436898,43.689819
+22721138,Y,Henslow's Sparrow,Passerculus henslowii,Passerculus_henslowii,Least Concern,2912785.265,12028.34618,0.004129,0.41295
+22721141,Y,Baird's Sparrow,Passerculus bairdii,Passerculus_bairdii,Least Concern,2235147.683,388753.3392,0.173927,17.392736
+22721144,Y,Grasshopper Sparrow,Ammodramus savannarum,Ammodramus_savannarum,Least Concern,7888213.628,438748.2175,0.055621,5.562073
+22721159,Y,American Tree Sparrow,Passerella arborea,Passerella_arborea,Least Concern,14358240.76,7658066.305,0.533357,53.335687
+22721162,Y,Chipping Sparrow,Spizella passerina,Spizella_passerina,Least Concern,14987719.59,5236416.193,0.34938,34.938045
+22721165,Y,Clay-colored Sparrow,Spizella pallida,Spizella_pallida,Least Concern,7310678.121,2223779.995,0.304182,30.418245
+22721179,Y,Field Sparrow,Spizella pusilla,Spizella_pusilla,Least Concern,4745153.932,162568.726,0.03426,3.425995
+22721188,Y,Vesper Sparrow,Pooecetes gramineus,Pooecetes_gramineus,Least Concern,11093572.81,2162358.017,0.19492,19.491989
+22721191,Y,Lark Sparrow,Chondestes grammacus,Chondestes_grammacus,Least Concern,7065684.156,197020.853,0.027884,2.788419
+22721310,Y,Eastern Towhee,Pipilo erythrophthalmus,Pipilo_erythrophthalmus,Least Concern,3475565.342,266581.3098,0.076702,7.670157
+22721610,Y,Blue-winged Warbler,Vermivora cyanoptera,Vermivora_cyanoptera,Least Concern,3546391.983,32965.18914,0.009295,0.929542
+22721618,Y,Golden-winged Warbler,Vermivora chrysoptera,Vermivora_chrysoptera,Near Threatened,4555706.966,188379.2338,0.04135,4.135016
+22721621,Y,Tennessee Warbler,Leiothlypis peregrina,Leiothlypis_peregrina,Least Concern,12154638.84,4918713.994,0.404678,40.467792
+22721624,Y,Orange-crowned Warbler,Leiothlypis celata,Leiothlypis_celata,Least Concern,15777202.01,5601347.326,0.355028,35.502793
+22721627,Y,Nashville Warbler,Leiothlypis ruficapilla,Leiothlypis_ruficapilla,Least Concern,10359549.7,1884665.235,0.181925,18.19254
+22721639,Y,Northern Parula,Setophaga americana,Setophaga_americana,Least Concern,5430651.08,833332.0031,0.15345,15.344974
+22721657,Y,American Yellow Warbler,Setophaga petechia,Setophaga_petechia,Least Concern,21088824.3,7004649.765,0.33215,33.214985
+22721664,Y,Chestnut-sided Warbler,Setophaga pensylvanica,Setophaga_pensylvanica,Least Concern,7337522.439,1625818.174,0.221576,22.15759
+22721667,Y,Magnolia Warbler,Setophaga magnolia,Setophaga_magnolia,Least Concern,8830371.305,3146406.677,0.356316,35.631646
+22721670,Y,Cape May Warbler,Setophaga tigrina,Setophaga_tigrina,Least Concern,5707589.22,2552706.312,0.447248,44.724773
+22721673,Y,Black-throated Blue Warbler,Setophaga caerulescens,Setophaga_caerulescens,Least Concern,2978095.093,688666.2156,0.231244,23.124386
+22721679,Y,Black-throated Grey Warbler,Setophaga nigrescens,Setophaga_nigrescens,Least Concern,3560154.799,137179.1027,0.038532,3.853178
+22721683,Y,Townsend's Warbler,Setophaga townsendi,Setophaga_townsendi,Least Concern,5311674.275,878102.188,0.165316,16.531552
+22721689,Y,Black-throated Green Warbler,Setophaga virens,Setophaga_virens,Least Concern,8724824.219,2619347.098,0.300218,30.021775
+22721695,Y,Blackburnian Warbler,Setophaga fusca,Setophaga_fusca,Least Concern,8746918.38,1393733.259,0.15934,15.933992
+22721719,Y,Pine Warbler,Setophaga pinus,Setophaga_pinus,Least Concern,2274641.283,332206.173,0.146048,14.604772
+22721731,Y,Palm Warbler,Setophaga palmarum,Setophaga_palmarum,Least Concern,7890463.26,3755072.33,0.4759,47.590011
+22721734,Y,Bay-breasted Warbler,Setophaga castanea,Setophaga_castanea,Least Concern,8431093.797,2701496.786,0.320421,32.042068
+22721737,Y,Blackpoll Warbler,Setophaga striata,Setophaga_striata,Near Threatened,16029117.28,6865007.505,0.428284,42.828357
+22721740,Y,Cerulean Warbler,Setophaga cerulea,Setophaga_cerulea,Near Threatened,4658076.696,130907.8668,0.028103,2.810342
+22721758,Y,Black-and-white Warbler,Mniotilta varia,Mniotilta_varia,Least Concern,12083979.39,3245992.801,0.26862,26.861952
+22721762,Y,American Redstart,Setophaga ruticilla,Setophaga_ruticilla,Least Concern,15135588.1,3424849.443,0.226278,22.627792
+22721765,Y,Prothonotary Warbler,Protonotaria citrea,Protonotaria_citrea,Least Concern,4050397.59,29049.01084,0.007172,0.717189
+22721779,Y,Ovenbird,Seiurus aurocapilla,Seiurus_aurocapilla,Least Concern,8879420.315,2527667.658,0.284666,28.466584
+22721793,Y,Northern Waterthrush,Parkesia noveboracensis,Parkesia_noveboracensis,Least Concern,17656004.95,6283874.991,0.355906,35.590582
+22721818,Y,Connecticut Warbler,Oporornis agilis,Oporornis_agilis,Least Concern,6564965.062,1145955.028,0.174556,17.455615
+22721824,Y,Mourning Warbler,Geothlypis philadelphia,Geothlypis_philadelphia,Least Concern,7175126.345,2082982.657,0.290306,29.030606
+22721830,Y,MacGillivray's Warbler,Geothlypis tolmiei,Geothlypis_tolmiei,Least Concern,5856353.336,930050.0851,0.15881,15.881045
+22721836,Y,Common Yellowthroat,Geothlypis trichas,Geothlypis_trichas,Least Concern,15148127.11,4697258.453,0.310088,31.00884
+22721879,Y,Wilson's Warbler,Cardellina pusilla,Cardellina_pusilla,Least Concern,18217875.21,6839547.183,0.375431,37.543057
+22721882,Y,Canada Warbler,Cardellina canadensis,Cardellina_canadensis,Least Concern,8722746.412,2357365.361,0.270255,27.025495
+22722057,Y,Yellow-breasted Chat,Icteria virens,Icteria_virens,Least Concern,8894028.559,198502.6593,0.022319,2.231864
+22722466,Y,Scarlet Tanager,Piranga olivacea,Piranga_olivacea,Least Concern,6579676.142,294515.7841,0.044761,4.476144
+22722471,Y,Western Tanager,Piranga ludoviciana,Piranga_ludoviciana,Least Concern,7785820.956,2034700.012,0.261334,26.133404
+22723813,Y,Rose-breasted Grosbeak,Pheucticus ludovicianus,Pheucticus_ludovicianus,Least Concern,9302313.558,1889020.234,0.20307,20.306994
+22723816,Y,Black-headed Grosbeak,Pheucticus melanocephalus,Pheucticus_melanocephalus,Least Concern,5971471.946,295732.2347,0.049524,4.952418
+22723819,Y,Northern Cardinal,Cardinalis cardinalis,Cardinalis_cardinalis,Least Concern,5834401.947,133906.1421,0.022951,2.295113
+22723948,Y,Lazuli Bunting,Passerina amoena,Passerina_amoena,Least Concern,4666548.413,218279.4249,0.046775,4.677535
+22723951,Y,Indigo Bunting,Passerina cyanea,Passerina_cyanea,Least Concern,7436062.075,530372.2942,0.071324,7.132435
+22724126,Y,Baltimore Oriole,Icterus galbula,Icterus_galbula,Least Concern,7852438.257,1280916.332,0.163123,16.312339
+22724169,Y,Yellow-headed Blackbird,Xanthocephalus xanthocephalus,Xanthocephalus_xanthocephalus,Least Concern,8088075.369,1457961.522,0.180261,18.026063
+22724191,Y,Red-winged Blackbird,Agelaius phoeniceus,Agelaius_phoeniceus,Least Concern,14132518.43,4708296.021,0.333153,33.315336
+22724256,Y,Western Meadowlark,Sturnella neglecta,Sturnella_neglecta,Least Concern,8667065.518,1269725.385,0.1465,14.650003
+22724320,Y,Common Grackle,Quiscalus quiscula,Quiscalus_quiscula,Near Threatened,8475642.174,2934469.338,0.346224,34.622384
+22724329,Y,Rusty Blackbird,Euphagus carolinus,Euphagus_carolinus,Vulnerable,12261476.7,6468283.945,0.527529,52.752895
+22724332,Y,Brewer's Blackbird,Euphagus cyanocephalus,Euphagus_cyanocephalus,Least Concern,10214151.8,1902972.525,0.186307,18.630744
+22724354,Y,Brown-headed Cowbird,Molothrus ater,Molothrus_ater,Least Concern,12432687.11,2981681.698,0.239826,23.982601
+22724367,Y,Bobolink,Dolichonyx oryzivorus,Dolichonyx_oryzivorus,Least Concern,12536318.25,1292501.63,0.103101,10.310058
+22725044,Y,Redpoll,Acanthis flammea,Acanthis_flammea,Least Concern,42233118.33,9311321.79,0.220474,22.047441
+22725264,Y,Northern Band-tailed Pigeon,Patagioenas fasciata,Patagioenas_fasciata,Least Concern,2745492.518,102202.1735,0.037225,3.722544
+22726404,Y,Yellow-shafted Flicker,Colaptes auratus,Colaptes_auratus,Least Concern,11444884.74,5493229.5,0.479972,47.997246
+22727137,Y,Three-toed Woodpecker,Picoides tridactylus,Picoides_tridactylus,Least Concern,23484641.33,5854839.816,0.249305,24.930506
+22727740,Y,Northern Harrier,Circus hudsonius,Circus_hudsonius,Least Concern,17820836.17,6108876.797,0.342794,34.279406
+22727750,Y,Ruddy Duck,Oxyura jamaicensis,Oxyura_jamaicensis,Least Concern,12305387.62,2743901.772,0.222984,22.298377
+22728182,Y,Green-backed Heron,Butorides striata,Butorides_striata,Least Concern,53955226.49,320517.0117,0.00594,0.594043
+22728393,Y,Nelson's Sparrow,Ammospiza nelsoni,Ammospiza_nelsoni,Least Concern,2904547.738,1257864.735,0.433067,43.306733
+22728467,Y,Bicknell's Thrush,Catharus bicknelli,Catharus_bicknelli,Vulnerable,49188.41208,28634.20505,0.582133,58.213315
+22728944,Y,Two-barred Crossbill,Loxia leucoptera,Loxia_leucoptera,Least Concern,20419095.07,6717470.347,0.32898,32.897983
+22728950,Y,Pelagic Cormorant,Phalacrocorax pelagicus,Phalacrocorax_pelagicus,Least Concern,6582214.645,120209.8547,0.018263,1.826283
+22728956,Y,Northern Bobwhite,Colinus virginianus,Colinus_virginianus,Near Threatened,4364378.331,21218.97714,0.004862,0.486186
+22729123,Y,Bullock's Oriole,Icterus bullockiorum,Icterus_bullockiorum,Least Concern,5157938.613,75676.72857,0.014672,1.467189
+22729867,Y,Wilson's Snipe,Gallinago delicata,Gallinago_delicata,Least Concern,20532475.27,7222347.456,0.351752,35.17524
+22729877,Y,Iceland Gull,Larus glaucoides,Larus_glaucoides,Least Concern,12839115.12,8315978.172,0.647706,64.770649
+22732425,Y,Black Scoter,Melanitta americana,Melanitta_americana,Near Threatened,6239739.409,2095184.86,0.335781,33.578083
+22733619,Y,Cackling Goose,Branta hutchinsii,Branta_hutchinsii,Least Concern,13859813.45,6385572.615,0.460726,46.072573
+22734130,Y,Sharp-shinned Hawk,Accipiter striatus,Accipiter_striatus,Least Concern,21638188.25,5452324.362,0.251977,25.197694
+22734194,Y,White-winged Scoter,Melanitta deglandi,Melanitta_deglandi,Least Concern,6915923.093,4769309.163,0.689613,68.961281
+22734690,Y,Dusky Grouse,Dendragapus obscurus,Dendragapus_obscurus,Least Concern,1525896.956,939842.8384,0.615928,61.592812
+22734695,Y,Sooty Grouse,Dendragapus fuliginosus,Dendragapus_fuliginosus,Least Concern,577347.0194,231075.2898,0.400236,40.02364
+22734705,Y,Brewer's Sparrow,Spizella breweri,Spizella_breweri,Least Concern,5119337.37,821039.8088,0.16038,16.038009
+22735122,Y,Warbling Vireo,Vireo gilvus,Vireo_gilvus,Least Concern,11637376.74,2629627.665,0.225964,22.596395
+22735434,Y,Eastern Meadowlark,Sturnella magna,Sturnella_magna,Near Threatened,7869227.783,597927.4641,0.075983,7.598299
+22736393,Y,Eastern Whip-poor-will,Antrostomus vociferus,Antrostomus_vociferus,Near Threatened,4881161.067,787361.2102,0.161306,16.130613
+45354964,Y,Peregrine Falcon,Falco peregrinus,Falco_peregrinus,Least Concern,92354221.15,9071825.922,0.098229,9.82286
+56003281,Y,Moose,Alces americanus,Alces_americanus,Least Concern,23095832.51,6131799.915,0.265494,26.549378
+61204079,Y,Spruce Grouse,Falcipennis canadensis,Falcipennis_canadensis,Least Concern,6032589.491,5122409.111,0.849123,84.912277
+61752071,Y,Great Horned Owl,Bubo virginianus,Bubo_virginianus,Least Concern,24425604.4,6591051.032,0.269842,26.984188
+61791401,Y,Northern Pygmy-owl,Glaucidium californicum,Glaucidium_californicum,Least Concern,1898659.007,681172.3435,0.358765,35.876497
+62015238,Y,Blackish Oystercatcher,Haematopus ater,Haematopus_ater,Least Concern,668198.5099,71196.76257,0.10655,10.655032
+62030590,Y,Arctic Herring Gull,Larus smithsonianus,Larus_smithsonianus,Least Concern,35296969.27,8205061.356,0.232458,23.245796
+62120280,Y,Common Gallinule,Gallinula galeata,Gallinula_galeata,Least Concern,14684481.66,254653.3847,0.017342,1.734167
+62169677,Y,American Coot,Fulica americana,Fulica_americana,Least Concern,13778068.25,3256657.387,0.236365,23.636531
+65134524,Y,Tube-snout ,Aulorhynchus flavidus,Aulorhynchus_flavidus,Least Concern,613010.6895,155060.5887,0.252949,25.294924
+70207409,Y,Least Weasel,Mustela nivalis,Mustela_nivalis,Least Concern,43166095.35,7734043.531,0.179169,17.91694
+91209505,Y,Spiny Dogfish,Squalus acanthias,Squalus_acanthias,Vulnerable,5974926.597,545349.9184,0.091273,9.127307
+98471199,Y,Pacific Herring,Clupea pallasii,Clupea_pallasii,Data Deficient,5454696.184,325762.7675,0.059722,5.972152
+103772680,Y,Spotted Towhee,Pipilo maculatus,Pipilo_maculatus,Least Concern,5329568.296,570104.4391,0.10697,10.69701
+103779110,Y,Red Fox-sparrow,Passerella iliaca,Passerella_iliaca,Least Concern,12312796.16,6486275.885,0.526791,52.679146
+103780243,Y,Savannah Sparrow,Passerculus sandwichensis,Passerculus_sandwichensis,Least Concern,19177791.49,8005443.251,0.417433,41.743301
+103793298,Y,Orchard Oriole,Icterus spurius,Icterus_spurius,Least Concern,6755940.64,71322.02627,0.010557,1.055694
+103798425,Y,Myrtle Warbler,Setophaga coronata,Setophaga_coronata,Least Concern,15842676.19,6191584.14,0.390817,39.081681
+103815961,Y,Collared Sand Martin,Riparia riparia,Riparia_riparia,Least Concern,71790972.36,5413365.068,0.075405,7.540454
+103881682,Y,Russet-backed Thrush,Catharus ustulatus,Catharus_ustulatus,Least Concern,11036540.92,853303.7748,0.077316,7.731623
+103884879,Y,Pacific Wren,Troglodytes pacificus,Troglodytes_pacificus,Least Concern,2759537.534,986214.7435,0.357384,35.738407
+103886826,Y,House Wren,Troglodytes aedon,Troglodytes_aedon,Least Concern,28995147.96,1219706.062,0.042066,4.206587
+103887005,Y,Sedge Wren,Cistothorus platensis,Cistothorus_platensis,Least Concern,4774566.239,657380.7301,0.137684,13.768386
+103887192,Y,Carolina Wren,Thryothorus ludovicianus,Thryothorus_ludovicianus,Least Concern,3039957.211,34880.04513,0.011474,1.147386
+103889499,Y,American Robin,Turdus migratorius,Turdus_migratorius,Least Concern,17922514.97,7475997.75,0.417129,41.712883
+129511170,Y,Northern Lampfish,Stenobrachius leucopsarus,Stenobrachius_leucopsarus,Least Concern,22123192.16,442022.228,0.01998,1.998004
+129511181,Y,Garnet Lanternfish,Stenobrachius nannochir,Stenobrachius_nannochir,Least Concern,15159758.88,442022.228,0.029158,2.91576
+130286297,Y,California Headlightfish,Diaphus theta,Diaphus_theta,Least Concern,19526092.91,442022.228,0.022638,2.263752
+132438298,Y,Leach's Storm-petrel,Hydrobates leucorhous,Hydrobates_leucorhous,Vulnerable,109971076.1,2059954.65,0.018732,1.873179
+134817215,Y,Common Dolphin,Delphinus delphis,Delphinus_delphis,Least Concern,88876144.57,1437995.115,0.01618,1.617976
+137473074,Y,Pacific Viperfish,Chauliodus macouni,Chauliodus_macouni,Least Concern,30240566.05,442022.2271,0.014617,1.461686
+141375385,Y,Longfin Dragonfish,Tactostoma macropus,Tactostoma_macropus,Least Concern,20278299.14,442022.2271,0.021798,2.17978
+141481252,Y,Kelp Perch,Brachyistius frenatus,Brachyistius_frenatus,Data Deficient,533082.7496,155060.5887,0.290875,29.087527
+141481460,Y,Striped Surfperch,Embiotoca lateralis,Embiotoca_lateralis,Least Concern,405898.6152,155049.3078,0.38199,38.199024
+154632189,Y,Vaux's Swift,Chaetura vauxi,Chaetura_vauxi,Least Concern,3704775.55,543041.3115,0.146579,14.657873
+155115462,Y,Red-eyed Vireo,Vireo olivaceus,Vireo_olivaceus,Least Concern,21659907.59,3362298.309,0.155231,15.523142
+155660662,Y,Eastern Screech-owl,Megascops asio,Megascops_asio,Least Concern,4938942.074,185252.6528,0.037509,3.750857
+158882453,Y,Kelp Greenling,Hexagrammos decagrammus,Hexagrammos_decagrammus,Least Concern,1535904.901,155049.3078,0.10095,10.094981
+158882686,Y,Painted Greenling,Oxylebius pictus,Oxylebius_pictus,Least Concern,590204.4306,155060.5887,0.262724,26.272353
+159099689,Y,Wolf-Eel,Anarrhichthys ocellatus,Anarrhichthys_ocellatus,Least Concern,1017338.56,155060.5888,0.152418,15.241788
+181500967,Y,Great Blue Heron,Ardea herodias,Ardea_herodias,Least Concern,14906645.45,3849422.29,0.258235,25.823532
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,

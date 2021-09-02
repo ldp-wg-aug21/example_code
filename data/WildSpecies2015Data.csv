@@ -1,0 +1,1780 @@
+CODE - CODE,TAXONOMIC GROUP - GROUPE TAXONOMIQUE,ORDER - ORDRE,FAMILY - FAMILLE,SCIENTIFIC NAME - NOM SCIENTIFIQUE,Binomial,ENGLISH COMMON NAME,CA
+GS000494,Fishes - Poissons,Acipenseriformes,Acipenseridae,Acipenser brevirostrum,Acipenser_brevirostrum,NA,N3
+GS000495,Fishes - Poissons,Acipenseriformes,Acipenseridae,Acipenser fulvescens,Acipenser_fulvescens,NA,N3
+GS000496,Fishes - Poissons,Acipenseriformes,Acipenseridae,Acipenser medirostris,Acipenser_medirostris,NA,"NUB,N3N,N3M"
+GS000497,Fishes - Poissons,Acipenseriformes,Acipenseridae,Acipenser oxyrinchus,Acipenser_oxyrinchus,NA,"N3B,NUN,NUM"
+GS000498,Fishes - Poissons,Acipenseriformes,Acipenseridae,Acipenser transmontanus,Acipenser_transmontanus,NA,"N2B,NUN,NUM"
+GS006854,Fishes - Poissons,Albuliformes,Halosauridae,Aldrovandia affinis,Aldrovandia_affinis,NA,NU
+GS006855,Fishes - Poissons,Albuliformes,Halosauridae,Aldrovandia gracilis,Aldrovandia_gracilis,NA,NU
+GS006856,Fishes - Poissons,Albuliformes,Halosauridae,Aldrovandia oleosa,Aldrovandia_oleosa,NA,NU
+GS006857,Fishes - Poissons,Albuliformes,Halosauridae,Aldrovandia phalacra,Aldrovandia_phalacra,NA,N5
+GS006858,Fishes - Poissons,Albuliformes,Halosauridae,Halosauropsis macrochir,Halosauropsis_macrochir,NA,NU
+GS006859,Fishes - Poissons,Albuliformes,Notacanthidae,Lipogenys gillii,Lipogenys_gillii,NA,NU
+GS006860,Fishes - Poissons,Albuliformes,Notacanthidae,Notacanthus bonaparte,Notacanthus_bonaparte,NA,NU
+GS006861,Fishes - Poissons,Albuliformes,Notacanthidae,Notacanthus chemnitzii,Notacanthus_chemnitzii,NA,N5
+GS006862,Fishes - Poissons,Albuliformes,Notacanthidae,Polyacanthonotus challengeri,Polyacanthonotus_challengeri,NA,NU
+GS006863,Fishes - Poissons,Albuliformes,Notacanthidae,Polyacanthonotus rissoanus,Polyacanthonotus_rissoanus,NA,N5
+GS000500,Fishes - Poissons,Amiiformes,Amiidae,Amia calva,Amia_calva,NA,N4N5
+GS000501,Fishes - Poissons,Anguilliformes,Anguillidae,Anguilla rostrata,Anguilla_rostrata,NA,"N2N4N,N2N4M"
+GS006867,Fishes - Poissons,Anguilliformes,Colocongridae,Thalassenchelys coheni,Thalassenchelys_coheni,NA,NU
+GS006870,Fishes - Poissons,Anguilliformes,Congridae,Conger oceanicus,Conger_oceanicus,NA,"N5N,N5M"
+GS006875,Fishes - Poissons,Anguilliformes,Congridae,Xenomystax atrarius,Xenomystax_atrarius,NA,NU
+GS006876,Fishes - Poissons,Anguilliformes,Derichthyidae,Derichthys serpentinus,Derichthys_serpentinus,NA,NU
+GS006877,Fishes - Poissons,Anguilliformes,Derichthyidae,Nessorhamphus ingolfianus,Nessorhamphus_ingolfianus,NA,N5
+GS006882,Fishes - Poissons,Anguilliformes,Nemichthyidae,Avocettina infans,Avocettina_infans,NA,NU
+GS006885,Fishes - Poissons,Anguilliformes,Nemichthyidae,Nemichthys scolopaceus,Nemichthys_scolopaceus,NA,N5
+GS030317,Fishes - Poissons,Anguilliformes,Nettastomatidae,Venefica ocella,Venefica_ocella,NA,NU
+GS006887,Fishes - Poissons,Anguilliformes,Nettastomatidae,Venefica procera,Venefica_procera,NA,NU
+GS030318,Fishes - Poissons,Anguilliformes,Nettastomatidae,Venefica tentaculata,Venefica_tentaculata,NA,NU
+GS006895,Fishes - Poissons,Anguilliformes,Ophichthidae,Ophichthus cruentifer,Ophichthus_cruentifer,NA,NU
+GS006898,Fishes - Poissons,Anguilliformes,Serrivomeridae,Serrivomer beanii,Serrivomer_beanii,NA,N5
+GS006899,Fishes - Poissons,Anguilliformes,Serrivomeridae,Serrivomer jesperseni,Serrivomer_jesperseni,NA,NU
+GS006900,Fishes - Poissons,Anguilliformes,Serrivomeridae,Serrivomer lanceolatoides,Serrivomer_lanceolatoides,NA,N5
+GS006901,Fishes - Poissons,Anguilliformes,Synaphobranchidae,Histiobranchus bathybius,Histiobranchus_bathybius,NA,NU
+GS006902,Fishes - Poissons,Anguilliformes,Synaphobranchidae,Ilyophis brunneus,Ilyophis_brunneus,NA,NU
+GS006903,Fishes - Poissons,Anguilliformes,Synaphobranchidae,Simenchelys parasitica,Simenchelys_parasitica,NA,N5
+GS006904,Fishes - Poissons,Anguilliformes,Synaphobranchidae,Synaphobranchus affinis,Synaphobranchus_affinis,NA,NU
+GS030319,Fishes - Poissons,Anguilliformes,Synaphobranchidae,Synaphobranchus brevidorsalis,Synaphobranchus_brevidorsalis,NA,NU
+GS006905,Fishes - Poissons,Anguilliformes,Synaphobranchidae,Synaphobranchus kaupii,Synaphobranchus_kaupii,NA,N5
+GS007270,Fishes - Poissons,Argentiniformes,Alepocephalidae,Alepocephalus tenebrosus,Alepocephalus_tenebrosus,NA,NU
+GS007280,Fishes - Poissons,Argentiniformes,Alepocephalidae,Talismania bifurcata,Talismania_bifurcata,NA,NU
+GS007288,Fishes - Poissons,Argentiniformes,Microstomatidae,Bathylagus pacificus,Bathylagus_pacificus,NA,NU
+GS007290,Fishes - Poissons,Argentiniformes,Microstomatidae,Leuroglossus schmidti,Leuroglossus_schmidti,NA,N5
+GS007292,Fishes - Poissons,Argentiniformes,Microstomatidae,Lipolagus ochotensis,Lipolagus_ochotensis,NA,NU
+GS007295,Fishes - Poissons,Argentiniformes,Microstomatidae,Nansenia candida,Nansenia_candida,NA,NU
+GS007294,Fishes - Poissons,Argentiniformes,Microstomatidae,Pseudobathylagus milleri,Pseudobathylagus_milleri,NA,NU
+GS007299,Fishes - Poissons,Argentiniformes,Opisthoproctidae,Bathylychnops exilis,Bathylychnops_exilis,NA,NU
+GS007301,Fishes - Poissons,Argentiniformes,Opisthoproctidae,Macropinna microstoma,Macropinna_microstoma,NA,NU
+GS007307,Fishes - Poissons,Argentiniformes,Platytroctidae,Holtbyrnia latifrons,Holtbyrnia_latifrons,NA,NU
+GS007309,Fishes - Poissons,Argentiniformes,Platytroctidae,Maulisia argipalla,Maulisia_argipalla,NA,NU
+GS007314,Fishes - Poissons,Argentiniformes,Platytroctidae,Sagamichthys abei,Sagamichthys_abei,NA,NU
+GS000502,Fishes - Poissons,Atheriniformes,Atherinopsidae,Labidesthes sicculus,Labidesthes_sicculus,NA,N4N5
+GS000503,Fishes - Poissons,Atheriniformes,Atherinopsidae,Menidia menidia,Menidia_menidia,NA,"N5B,N5N,N5M"
+GS006908,Fishes - Poissons,Aulopiformes,Alepisauridae,Alepisaurus brevirostris,Alepisaurus_brevirostris,NA,NU
+GS006909,Fishes - Poissons,Aulopiformes,Alepisauridae,Alepisaurus ferox,Alepisaurus_ferox,NA,"N5N,N5M"
+GS006910,Fishes - Poissons,Aulopiformes,Anotopteridae,Anotopterus nikparini,Anotopterus_nikparini,NA,NU
+GS006911,Fishes - Poissons,Aulopiformes,Anotopteridae,Anotopterus pharao,Anotopterus_pharao,NA,"N5N,N5M"
+GS006912,Fishes - Poissons,Aulopiformes,Chlorophthalmidae,Chlorophthalmus agassizi,Chlorophthalmus_agassizi,NA,N5
+GS006913,Fishes - Poissons,Aulopiformes,Evermannellidae,Coccorella atlantica,Coccorella_atlantica,NA,N5
+GS006915,Fishes - Poissons,Aulopiformes,Evermannellidae,Evermannella balbo,Evermannella_balbo,NA,N5
+GS006916,Fishes - Poissons,Aulopiformes,Evermannellidae,Evermannella melanoderma,Evermannella_melanoderma,NA,N5
+GS006917,Fishes - Poissons,Aulopiformes,Ipnopidae,Bathypterois dubius,Bathypterois_dubius,NA,NU
+GS006921,Fishes - Poissons,Aulopiformes,Ipnopidae,Bathypterois phenax,Bathypterois_phenax,NA,NU
+GS006922,Fishes - Poissons,Aulopiformes,Ipnopidae,Bathypterois quadrifilis,Bathypterois_quadrifilis,NA,NU
+GS006923,Fishes - Poissons,Aulopiformes,Ipnopidae,Bathypterois viridensis,Bathypterois_viridensis,NA,NU
+GS006924,Fishes - Poissons,Aulopiformes,Ipnopidae,Parasudis truculenta,Parasudis_truculenta,NA,N5
+GS006925,Fishes - Poissons,Aulopiformes,Notosudidae,Ahliesaurus berryi,Ahliesaurus_berryi,NA,NU
+GS006926,Fishes - Poissons,Aulopiformes,Notosudidae,Scopelosaurus argenteus,Scopelosaurus_argenteus,NA,NU
+GS006927,Fishes - Poissons,Aulopiformes,Notosudidae,Scopelosaurus harryi,Scopelosaurus_harryi,NA,NU
+GS006928,Fishes - Poissons,Aulopiformes,Notosudidae,Scopelosaurus lepidus,Scopelosaurus_lepidus,NA,"N5N,N5M"
+GS006929,Fishes - Poissons,Aulopiformes,Notosudidae,Scopelosaurus mauli,Scopelosaurus_mauli,NA,NU
+GS006930,Fishes - Poissons,Aulopiformes,Notosudidae,Scopelosaurus smithii,Scopelosaurus_smithii,NA,NU
+GS006931,Fishes - Poissons,Aulopiformes,Omosudidae,Omosudis lowii,Omosudis_lowii,NA,NU
+GS006933,Fishes - Poissons,Aulopiformes,Paralepididae,Arctozenus risso,Arctozenus_risso,NA,N5
+GS006934,Fishes - Poissons,Aulopiformes,Paralepididae,Lestidiops affinis,Lestidiops_affinis,NA,N5
+GS006935,Fishes - Poissons,Aulopiformes,Paralepididae,Lestidiops jayakari,Lestidiops_jayakari,NA,N5
+GS006932,Fishes - Poissons,Aulopiformes,Paralepididae,Lestidiops ringens,Lestidiops_ringens,NA,NU
+GS006936,Fishes - Poissons,Aulopiformes,Paralepididae,Magnisudis atlantica,Magnisudis_atlantica,NA,"N5N,N5M"
+GS006937,Fishes - Poissons,Aulopiformes,Paralepididae,Paralepis brevirostris,Paralepis_brevirostris,NA,NU
+GS006938,Fishes - Poissons,Aulopiformes,Paralepididae,Paralepis coregonoides,Paralepis_coregonoides,NA,"N5N,N5M"
+GS006939,Fishes - Poissons,Aulopiformes,Paralepididae,Paralepis elongata,Paralepis_elongata,NA,NU
+GS006940,Fishes - Poissons,Aulopiformes,Paralepididae,Stemonosudis intermedia,Stemonosudis_intermedia,NA,NU
+GS006941,Fishes - Poissons,Aulopiformes,Paralepididae,Sudis hyalina,Sudis_hyalina,NA,N5
+GS006943,Fishes - Poissons,Aulopiformes,Scopelarchidae,Benthalbella dentata,Benthalbella_dentata,NA,NU
+GS006945,Fishes - Poissons,Aulopiformes,Scopelarchidae,Benthalbella linguidens,Benthalbella_linguidens,NA,NU
+GS006947,Fishes - Poissons,Aulopiformes,Scopelarchidae,Scopelarchus analis,Scopelarchus_analis,NA,NU
+GS006948,Fishes - Poissons,Aulopiformes,Scopelarchidae,Scopelarchus michaelsarsi,Scopelarchus_michaelsarsi,NA,NU
+GS006949,Fishes - Poissons,Aulopiformes,Synodontidae,Bathysaurus ferox,Bathysaurus_ferox,NA,NU
+GS030322,Fishes - Poissons,Aulopiformes ,Synodontidae,Synodus foetens,Synodus_foetens,NA,NU
+GS006956,Fishes - Poissons,Batrachoidiformes,Batrachoididae,Opsanus tau,Opsanus_tau,NA,NU
+GS006957,Fishes - Poissons,Batrachoidiformes,Batrachoididae,Porichthys notatus,Porichthys_notatus,NA,N5
+GS006967,Fishes - Poissons,Beloniformes,Scomberesocidae,Cololabis saira,Cololabis_saira,NA,"NUB,NNRN,NNRM"
+GS006968,Fishes - Poissons,Beloniformes,Scomberesocidae,Scomberesox saurus,Scomberesox_saurus,NA,"N5B,NUN,NNRM"
+GS006970,Fishes - Poissons,Beryciformes,Anoplogastridae,Anoplogaster cornuta,Anoplogaster_cornuta,NA,N5
+GS006971,Fishes - Poissons,Beryciformes,Berycidae,Beryx decadactylus,Beryx_decadactylus,NA,NU
+GS006972,Fishes - Poissons,Beryciformes,Berycidae,Beryx splendens,Beryx_splendens,NA,NU
+GS006974,Fishes - Poissons,Beryciformes,Diretmidae,Diretmus argenteus,Diretmus_argenteus,NA,N5
+GS006990,Fishes - Poissons,Carcharhiniformes,Carcharhinidae,Prionace glauca,Prionace_glauca,NA,"N5N,N5M"
+GS006992,Fishes - Poissons,Carcharhiniformes,Scyliorhinidae,Apristurus brunneus,Apristurus_brunneus,NA,NU
+GS006993,Fishes - Poissons,Carcharhiniformes,Scyliorhinidae,Apristurus laurussonii,Apristurus_laurussonii,NA,NU
+GS006994,Fishes - Poissons,Carcharhiniformes,Scyliorhinidae,Apristurus manis,Apristurus_manis,NA,NU
+GS030323,Fishes - Poissons,Carcharhiniformes,Scyliorhinidae,Apristurus melanoasper,Apristurus_melanoasper,NA,NU
+GS030324,Fishes - Poissons,Carcharhiniformes,Scyliorhinidae,Apristurus microps,Apristurus_microps,NA,NU
+GS006995,Fishes - Poissons,Carcharhiniformes,Scyliorhinidae,Apristurus profundorum,Apristurus_profundorum,NA,NU
+GS006996,Fishes - Poissons,Carcharhiniformes,Scyliorhinidae,Apristurus riveri,Apristurus_riveri,NA,NU
+GS006999,Fishes - Poissons,Carcharhiniformes,Scyliorhinidae,Scyliorhinus retifer,Scyliorhinus_retifer,NA,NU
+GS007002,Fishes - Poissons,Carcharhiniformes,Sphyrnidae,Sphyrna zygaena,Sphyrna_zygaena,NA,"NUN,NUM"
+GS007003,Fishes - Poissons,Carcharhiniformes,Triakidae,Galeorhinus galeus,Galeorhinus_galeus,NA,"N3N,N3M"
+GS007004,Fishes - Poissons,Carcharhiniformes,Triakidae,Mustelus canis,Mustelus_canis,NA,NU
+GS007005,Fishes - Poissons,Chimaeriformes,Chimaeridae,Hydrolagus affinis,Hydrolagus_affinis,NA,NU
+GS007006,Fishes - Poissons,Chimaeriformes,Chimaeridae,Hydrolagus colliei,Hydrolagus_colliei,NA,N5
+GS007008,Fishes - Poissons,Chimaeriformes,Rhinochimaeridae,Harriotta raleighana,Harriotta_raleighana,NA,N5
+GS007009,Fishes - Poissons,Chimaeriformes,Rhinochimaeridae,Rhinochimaera atlantica,Rhinochimaera_atlantica,NA,N5
+GS000505,Fishes - Poissons,Clupeiformes,Clupeidae,Alosa aestivalis,Alosa_aestivalis,NA,"N5B,N5N,N5M"
+GS000506,Fishes - Poissons,Clupeiformes,Clupeidae,Alosa pseudoharengus,Alosa_pseudoharengus,NA,"N5B,N5N,N5M"
+GS000507,Fishes - Poissons,Clupeiformes,Clupeidae,Alosa sapidissima,Alosa_sapidissima,NA,"N5B,N4N5N,N5M"
+GS007011,Fishes - Poissons,Clupeiformes,Clupeidae,Brevoortia tyrannus,Brevoortia_tyrannus,NA,"NUB,NNRN,NNRM"
+GS007012,Fishes - Poissons,Clupeiformes,Clupeidae,Clupea harengus,Clupea_harengus,NA,"N4N5B,NNRN,NNRM"
+GS007013,Fishes - Poissons,Clupeiformes,Clupeidae,Clupea pallasii,Clupea_pallasii,NA,N5
+GS000508,Fishes - Poissons,Clupeiformes,Clupeidae,Dorosoma cepedianum,Dorosoma_cepedianum,NA,N4N5
+GS007016,Fishes - Poissons,Clupeiformes,Clupeidae,Sardinops sagax,Sardinops_sagax,NA,"N2N4B,NNRN,NNRM"
+GS007020,Fishes - Poissons,Clupeiformes,Engraulidae,Engraulis mordax,Engraulis_mordax,NA,NU
+GS000509,Fishes - Poissons,Cypriniformes,Catostomidae,Carpiodes cyprinus,Carpiodes_cyprinus,NA,N5
+GS000510,Fishes - Poissons,Cypriniformes,Catostomidae,Catostomus catostomus,Catostomus_catostomus,NA,N5
+GS000511,Fishes - Poissons,Cypriniformes,Catostomidae,Catostomus columbianus,Catostomus_columbianus,NA,N5
+GS000512,Fishes - Poissons,Cypriniformes,Catostomidae,Catostomus commersonii,Catostomus_commersonii,NA,N5
+GS000513,Fishes - Poissons,Cypriniformes,Catostomidae,Catostomus macrocheilus,Catostomus_macrocheilus,NA,N5
+GS000514,Fishes - Poissons,Cypriniformes,Catostomidae,Catostomus platyrhynchus,Catostomus_platyrhynchus,NA,N5
+GS000516,Fishes - Poissons,Cypriniformes,Catostomidae,Erimyzon sucetta,Erimyzon_sucetta,NA,N2
+GS000517,Fishes - Poissons,Cypriniformes,Catostomidae,Hypentelium nigricans,Hypentelium_nigricans,NA,N4
+GS000518,Fishes - Poissons,Cypriniformes,Catostomidae,Ictiobus cyprinellus,Ictiobus_cyprinellus,NA,N5
+GS000519,Fishes - Poissons,Cypriniformes,Catostomidae,Ictiobus niger,Ictiobus_niger,NA,NU
+GS000520,Fishes - Poissons,Cypriniformes,Catostomidae,Minytrema melanops,Minytrema_melanops,NA,N2
+GS000521,Fishes - Poissons,Cypriniformes,Catostomidae,Moxostoma anisurum,Moxostoma_anisurum,NA,N5
+GS000522,Fishes - Poissons,Cypriniformes,Catostomidae,Moxostoma carinatum,Moxostoma_carinatum,NA,N3
+GS000523,Fishes - Poissons,Cypriniformes,Catostomidae,Moxostoma duquesnei,Moxostoma_duquesnei,NA,N2
+GS000524,Fishes - Poissons,Cypriniformes,Catostomidae,Moxostoma erythrurum,Moxostoma_erythrurum,NA,N4N5
+GS000525,Fishes - Poissons,Cypriniformes,Catostomidae,Moxostoma hubbsi,Moxostoma_hubbsi,NA,N1
+GS000526,Fishes - Poissons,Cypriniformes,Catostomidae,Moxostoma macrolepidotum,Moxostoma_macrolepidotum,NA,N5
+GS000527,Fishes - Poissons,Cypriniformes,Catostomidae,Moxostoma valenciennesi,Moxostoma_valenciennesi,NA,N4N5
+GS000528,Fishes - Poissons,Cypriniformes,Cyprinidae,Acrocheilus alutaceus,Acrocheilus_alutaceus,NA,N3N4
+GS000529,Fishes - Poissons,Cypriniformes,Cyprinidae,Campostoma anomalum,Campostoma_anomalum,NA,N4
+GS000565,Fishes - Poissons,Cypriniformes,Cyprinidae,Chrosomus eos,Chrosomus_eos,NA,N5
+GS000566,Fishes - Poissons,Cypriniformes,Cyprinidae,Chrosomus neogaeus,Chrosomus_neogaeus,NA,N5
+GS000531,Fishes - Poissons,Cypriniformes,Cyprinidae,Clinostomus elongatus,Clinostomus_elongatus,NA,N2
+GS000532,Fishes - Poissons,Cypriniformes,Cyprinidae,Couesius plumbeus,Couesius_plumbeus,NA,N5
+GS000534,Fishes - Poissons,Cypriniformes,Cyprinidae,Cyprinella spiloptera,Cyprinella_spiloptera,NA,N5
+GS000537,Fishes - Poissons,Cypriniformes,Cyprinidae,Exoglossum maxillingua,Exoglossum_maxillingua,NA,N4N5
+GS000538,Fishes - Poissons,Cypriniformes,Cyprinidae,Hybognathus argyritis,Hybognathus_argyritis,NA,N1N2
+GS000539,Fishes - Poissons,Cypriniformes,Cyprinidae,Hybognathus hankinsoni,Hybognathus_hankinsoni,NA,N5
+GS030327,Fishes - Poissons,Cypriniformes,Cyprinidae,Hybognathus placitus,Hybognathus_placitus,NA,N2
+GS000540,Fishes - Poissons,Cypriniformes,Cyprinidae,Hybognathus regius,Hybognathus_regius,NA,N4N5
+GS000541,Fishes - Poissons,Cypriniformes,Cyprinidae,Luxilus chrysocephalus,Luxilus_chrysocephalus,NA,N4
+GS000542,Fishes - Poissons,Cypriniformes,Cyprinidae,Luxilus cornutus,Luxilus_cornutus,NA,N5
+GS000543,Fishes - Poissons,Cypriniformes,Cyprinidae,Lythrurus umbratilis,Lythrurus_umbratilis,NA,N4
+GS000544,Fishes - Poissons,Cypriniformes,Cyprinidae,Macrhybopsis storeriana,Macrhybopsis_storeriana,NA,N5
+GS000545,Fishes - Poissons,Cypriniformes,Cyprinidae,Margariscus margarita,Margariscus_margarita,NA,N5
+GS030328,Fishes - Poissons,Cypriniformes,Cyprinidae,Margariscus nachtriebi,Margariscus_nachtriebi,NA,N5
+GS000546,Fishes - Poissons,Cypriniformes,Cyprinidae,Mylocheilus caurinus,Mylocheilus_caurinus,NA,N5
+GS000547,Fishes - Poissons,Cypriniformes,Cyprinidae,Nocomis biguttatus,Nocomis_biguttatus,NA,N4N5
+GS000548,Fishes - Poissons,Cypriniformes,Cyprinidae,Nocomis micropogon,Nocomis_micropogon,NA,N4
+GS000549,Fishes - Poissons,Cypriniformes,Cyprinidae,Notemigonus crysoleucas,Notemigonus_crysoleucas,NA,N5
+GS000550,Fishes - Poissons,Cypriniformes,Cyprinidae,Notropis anogenus,Notropis_anogenus,NA,N2
+GS000551,Fishes - Poissons,Cypriniformes,Cyprinidae,Notropis atherinoides,Notropis_atherinoides,NA,N5
+GS000552,Fishes - Poissons,Cypriniformes,Cyprinidae,Notropis bifrenatus,Notropis_bifrenatus,NA,N3
+GS000553,Fishes - Poissons,Cypriniformes,Cyprinidae,Notropis blennius,Notropis_blennius,NA,N5
+GS000554,Fishes - Poissons,Cypriniformes,Cyprinidae,Notropis buchanani,Notropis_buchanani,NA,N3
+GS000555,Fishes - Poissons,Cypriniformes,Cyprinidae,Notropis dorsalis,Notropis_dorsalis,NA,N4
+GS000556,Fishes - Poissons,Cypriniformes,Cyprinidae,Notropis heterodon,Notropis_heterodon,NA,N5
+GS000557,Fishes - Poissons,Cypriniformes,Cyprinidae,Notropis heterolepis,Notropis_heterolepis,NA,N5
+GS000558,Fishes - Poissons,Cypriniformes,Cyprinidae,Notropis hudsonius,Notropis_hudsonius,NA,N5
+GS007021,Fishes - Poissons,Cypriniformes,Cyprinidae,Notropis percobromus,Notropis_percobromus,NA,N2
+GS000559,Fishes - Poissons,Cypriniformes,Cyprinidae,Notropis photogenis,Notropis_photogenis,NA,N2N3
+GS000560,Fishes - Poissons,Cypriniformes,Cyprinidae,Notropis rubellus,Notropis_rubellus,NA,N4N5
+GS000561,Fishes - Poissons,Cypriniformes,Cyprinidae,Notropis stramineus,Notropis_stramineus,NA,N5
+GS000562,Fishes - Poissons,Cypriniformes,Cyprinidae,Notropis texanus,Notropis_texanus,NA,N4
+GS000563,Fishes - Poissons,Cypriniformes,Cyprinidae,Notropis volucellus,Notropis_volucellus,NA,N5
+GS000564,Fishes - Poissons,Cypriniformes,Cyprinidae,Opsopoeodus emiliae,Opsopoeodus_emiliae,NA,N2
+GS000567,Fishes - Poissons,Cypriniformes,Cyprinidae,Pimephales notatus,Pimephales_notatus,NA,N5
+GS000568,Fishes - Poissons,Cypriniformes,Cyprinidae,Pimephales promelas,Pimephales_promelas,NA,N5
+GS000569,Fishes - Poissons,Cypriniformes,Cyprinidae,Platygobio gracilis,Platygobio_gracilis,NA,N5
+GS000570,Fishes - Poissons,Cypriniformes,Cyprinidae,Ptychocheilus oregonensis,Ptychocheilus_oregonensis,NA,N5
+GS000571,Fishes - Poissons,Cypriniformes,Cyprinidae,Rhinichthys atratulus,Rhinichthys_atratulus,NA,N5
+GS000572,Fishes - Poissons,Cypriniformes,Cyprinidae,Rhinichthys cataractae,Rhinichthys_cataractae,NA,N5
+GS000573,Fishes - Poissons,Cypriniformes,Cyprinidae,Rhinichthys falcatus,Rhinichthys_falcatus,NA,N4
+GS000574,Fishes - Poissons,Cypriniformes,Cyprinidae,Rhinichthys osculus,Rhinichthys_osculus,NA,N2
+GS000576,Fishes - Poissons,Cypriniformes,Cyprinidae,Rhinichthys umatilla,Rhinichthys_umatilla,NA,N2
+GS000577,Fishes - Poissons,Cypriniformes,Cyprinidae,Richardsonius balteatus,Richardsonius_balteatus,NA,N5
+GS000579,Fishes - Poissons,Cypriniformes,Cyprinidae,Semotilus atromaculatus,Semotilus_atromaculatus,NA,N5
+GS000580,Fishes - Poissons,Cypriniformes,Cyprinidae,Semotilus corporalis,Semotilus_corporalis,NA,N5
+GS000582,Fishes - Poissons,Cyprinodontiformes,Fundulidae,Fundulus diaphanus,Fundulus_diaphanus,NA,N5
+GS000583,Fishes - Poissons,Cyprinodontiformes,Fundulidae,Fundulus heteroclitus,Fundulus_heteroclitus,NA,N5
+GS000584,Fishes - Poissons,Cyprinodontiformes,Fundulidae,Fundulus notatus,Fundulus_notatus,NA,N3
+GS000587,Fishes - Poissons,Esociformes,Esocidae,Esox americanus,Esox_americanus,NA,N4N5
+GS000588,Fishes - Poissons,Esociformes,Esocidae,Esox lucius,Esox_lucius,NA,N5
+GS000589,Fishes - Poissons,Esociformes,Esocidae,Esox masquinongy,Esox_masquinongy,NA,N4N5
+GS000590,Fishes - Poissons,Esociformes,Esocidae,Esox niger,Esox_niger,NA,N3N4
+GS000592,Fishes - Poissons,Esociformes,Umbridae,Umbra limi,Umbra_limi,NA,N5
+GS007027,Fishes - Poissons,Gadiformes,Bregmacerotidae,Bregmaceros mcclellandi,Bregmaceros_mcclellandi,NA,NU
+GS007028,Fishes - Poissons,Gadiformes,Gadidae,Arctogadus glacialis,Arctogadus_glacialis,NA,NU
+GS007029,Fishes - Poissons,Gadiformes,Gadidae,Boreogadus saida,Boreogadus_saida,NA,N5
+GS007030,Fishes - Poissons,Gadiformes,Gadidae,Eleginus gracilis,Eleginus_gracilis,NA,NU
+GS007038,Fishes - Poissons,Gadiformes,Gadidae,Gadus chalcogramma,Gadus_chalcogramma,NA,N5
+GS007031,Fishes - Poissons,Gadiformes,Gadidae,Gadus macrocephalus,Gadus_macrocephalus,NA,N5
+GS007032,Fishes - Poissons,Gadiformes,Gadidae,Gadus morhua,Gadus_morhua,NA,"N2B,NUN,NNRM"
+GS007033,Fishes - Poissons,Gadiformes,Gadidae,Gadus ogac,Gadus_ogac,NA,N5
+GS000593,Fishes - Poissons,Gadiformes,Gadidae,Lota lota,Lota_lota,NA,N5
+GS007034,Fishes - Poissons,Gadiformes,Gadidae,Melanogrammus aeglefinus,Melanogrammus_aeglefinus,NA,"N5B,NNRN,NNRM"
+GS007035,Fishes - Poissons,Gadiformes,Gadidae,Microgadus proximus,Microgadus_proximus,NA,N5
+GS000594,Fishes - Poissons,Gadiformes,Gadidae,Microgadus tomcod,Microgadus_tomcod,NA,"N5B,N5N,N5M"
+GS007036,Fishes - Poissons,Gadiformes,Gadidae,Micromesistius poutassou,Micromesistius_poutassou,NA,N5
+GS007037,Fishes - Poissons,Gadiformes,Gadidae,Pollachius virens,Pollachius_virens,NA,"N5B,NUN,NNRM"
+GS007040,Fishes - Poissons,Gadiformes,Lotidae,Brosme brosme,Brosme_brosme,NA,N4N5
+GS007041,Fishes - Poissons,Gadiformes,Lotidae,Enchelyopus cimbrius,Enchelyopus_cimbrius,NA,N5
+GS007042,Fishes - Poissons,Gadiformes,Lotidae,Gaidropsarus argentatus,Gaidropsarus_argentatus,NA,N5
+GS007043,Fishes - Poissons,Gadiformes,Lotidae,Molva dypterygia,Molva_dypterygia,NA,NU
+GS007044,Fishes - Poissons,Gadiformes,Lotidae,Molva molva,Molva_molva,NA,NU
+GS007047,Fishes - Poissons,Gadiformes,Macrouridae,Coryphaenoides acrolepis,Coryphaenoides_acrolepis,NA,NU
+GS007048,Fishes - Poissons,Gadiformes,Macrouridae,Coryphaenoides armatus,Coryphaenoides_armatus,NA,NU
+GS007049,Fishes - Poissons,Gadiformes,Macrouridae,Coryphaenoides brevibarbis,Coryphaenoides_brevibarbis,NA,NU
+GS007050,Fishes - Poissons,Gadiformes,Macrouridae,Coryphaenoides carapinus,Coryphaenoides_carapinus,NA,NU
+GS007051,Fishes - Poissons,Gadiformes,Macrouridae,Coryphaenoides cinereus,Coryphaenoides_cinereus,NA,NU
+GS007052,Fishes - Poissons,Gadiformes,Macrouridae,Coryphaenoides filifer,Coryphaenoides_filifer,NA,NU
+GS007053,Fishes - Poissons,Gadiformes,Macrouridae,Coryphaenoides guentheri,Coryphaenoides_guentheri,NA,NU
+GS007054,Fishes - Poissons,Gadiformes,Macrouridae,Coryphaenoides leptolepis,Coryphaenoides_leptolepis,NA,NU
+GS007045,Fishes - Poissons,Gadiformes,Macrouridae,Coryphaenoides pectoralis,Coryphaenoides_pectoralis,NA,NU
+GS007055,Fishes - Poissons,Gadiformes,Macrouridae,Coryphaenoides rupestris,Coryphaenoides_rupestris,NA,N3
+GS007056,Fishes - Poissons,Gadiformes,Macrouridae,Coryphaenoides yaquinae,Coryphaenoides_yaquinae,NA,NU
+GS007057,Fishes - Poissons,Gadiformes,Macrouridae,Macrourus berglax,Macrourus_berglax,NA,N3
+GS007058,Fishes - Poissons,Gadiformes,Macrouridae,Malacocephalus occidentalis,Malacocephalus_occidentalis,NA,N4N5
+GS007059,Fishes - Poissons,Gadiformes,Macrouridae,Nezumia aequalis,Nezumia_aequalis,NA,NU
+GS007060,Fishes - Poissons,Gadiformes,Macrouridae,Nezumia bairdii,Nezumia_bairdii,NA,N4N5
+GS007061,Fishes - Poissons,Gadiformes,Macrouridae,Nezumia sclerorhynchus,Nezumia_sclerorhynchus,NA,NU
+GS007062,Fishes - Poissons,Gadiformes,Macrouridae,Nezumia stelgidolepis,Nezumia_stelgidolepis,NA,NU
+GS007063,Fishes - Poissons,Gadiformes,Macrouridae,Trachyrincus murrayi,Trachyrincus_murrayi,NA,NU
+GS007065,Fishes - Poissons,Gadiformes,Melanonidae,Melanonus zugmayeri,Melanonus_zugmayeri,NA,N5
+GS007067,Fishes - Poissons,Gadiformes,Merlucciidae,Merluccius albidus,Merluccius_albidus,NA,N5
+GS007068,Fishes - Poissons,Gadiformes,Merlucciidae,Merluccius bilinearis,Merluccius_bilinearis,NA,"N5B,NUN,NNRM"
+GS007069,Fishes - Poissons,Gadiformes,Merlucciidae,Merluccius productus,Merluccius_productus,NA,"N5B,NNRN,NNRM"
+GS007070,Fishes - Poissons,Gadiformes,Moridae,Antimora microlepis,Antimora_microlepis,NA,NU
+GS007071,Fishes - Poissons,Gadiformes,Moridae,Antimora rostrata,Antimora_rostrata,NA,N5
+GS007072,Fishes - Poissons,Gadiformes,Moridae,Gadella imberbis,Gadella_imberbis,NA,NU
+GS007074,Fishes - Poissons,Gadiformes,Moridae,Halargyreus johnsonii,Halargyreus_johnsonii,NA,NU
+GS007075,Fishes - Poissons,Gadiformes,Moridae,Laemonema barbatulum,Laemonema_barbatulum,NA,N5
+GS007076,Fishes - Poissons,Gadiformes,Moridae,Laemonema goodebeanorum,Laemonema_goodebeanorum,NA,NU
+GS007077,Fishes - Poissons,Gadiformes,Moridae,Laemonema melanurum,Laemonema_melanurum,NA,NU
+GS007078,Fishes - Poissons,Gadiformes,Moridae,Lepidion eques,Lepidion_eques,NA,NU
+GS007080,Fishes - Poissons,Gadiformes,Phycidae,Gaidropsarus ensis,Gaidropsarus_ensis,NA,N5
+GS007081,Fishes - Poissons,Gadiformes,Phycidae,Phycis chesteri,Phycis_chesteri,NA,N5
+GS007082,Fishes - Poissons,Gadiformes,Phycidae,Urophycis chuss,Urophycis_chuss,NA,"N5B,NUN,NNRM"
+GS007083,Fishes - Poissons,Gadiformes,Phycidae,Urophycis regia,Urophycis_regia,NA,NU
+GS007084,Fishes - Poissons,Gadiformes,Phycidae,Urophycis tenuis,Urophycis_tenuis,NA,"N2B,NUN,NNRM"
+GS030335,Fishes - Poissons,Gadiformes ,Macrouridae,Gadomus longifilis,Gadomus_longifilis,NA,NU
+GS007085,Fishes - Poissons,Gasterosteiformes,Aulorhynchidae,Aulorhynchus flavidus,Aulorhynchus_flavidus,NA,N5
+GS000595,Fishes - Poissons,Gasterosteiformes,Gasterosteidae,Apeltes quadracus,Apeltes_quadracus,NA,N5
+GS000596,Fishes - Poissons,Gasterosteiformes,Gasterosteidae,Culaea inconstans,Culaea_inconstans,NA,N5
+GS000597,Fishes - Poissons,Gasterosteiformes,Gasterosteidae,Gasterosteus aculeatus,Gasterosteus_aculeatus,NA,"N5B,N5N,N5M"
+GS000607,Fishes - Poissons,Gasterosteiformes,Gasterosteidae,Gasterosteus wheatlandi,Gasterosteus_wheatlandi,NA,N5
+GS000608,Fishes - Poissons,Gasterosteiformes,Gasterosteidae,Pungitius pungitius,Pungitius_pungitius,NA,"N5B,N5N,N5M"
+GS007092,Fishes - Poissons,Gasterosteiformes,Syngnathidae,Syngnathus fuscus,Syngnathus_fuscus,NA,N5
+GS007093,Fishes - Poissons,Gasterosteiformes,Syngnathidae,Syngnathus leptorhynchus,Syngnathus_leptorhynchus,NA,N5
+GS007096,Fishes - Poissons,Hexanchiformes,Hexanchidae,Hexanchus griseus,Hexanchus_griseus,NA,"N3B,N3M"
+GS007097,Fishes - Poissons,Hexanchiformes,Hexanchidae,Notorynchus cepedianus,Notorynchus_cepedianus,NA,NU
+GS000609,Fishes - Poissons,Hiodontiformes,Hiodontidae,Hiodon alosoides,Hiodon_alosoides,NA,N5
+GS000610,Fishes - Poissons,Hiodontiformes,Hiodontidae,Hiodon tergisus,Hiodon_tergisus,NA,N5
+GS007099,Fishes - Poissons,Lamniformes,Alopiidae,Alopias vulpinus,Alopias_vulpinus,NA,"N3B,NUN,NUM"
+GS007100,Fishes - Poissons,Lamniformes,Cetorhinidae,Cetorhinus maximus,Cetorhinus_maximus,NA,N3M
+GS007101,Fishes - Poissons,Lamniformes,Lamnidae,Carcharodon carcharias,Carcharodon_carcharias,NA,"NUN,NUM"
+GS007102,Fishes - Poissons,Lamniformes,Lamnidae,Isurus oxyrinchus,Isurus_oxyrinchus,NA,"N2N,N2M"
+GS007104,Fishes - Poissons,Lamniformes,Lamnidae,Lamna ditropis,Lamna_ditropis,NA,"NUN,NUM"
+GS007105,Fishes - Poissons,Lamniformes,Lamnidae,Lamna nasus,Lamna_nasus,NA,"NUB,N2N,N2M"
+GS007106,Fishes - Poissons,Lamniformes,Odontaspididae,Carcharias taurus,Carcharias_taurus,NA,NU
+GS007110,Fishes - Poissons,Lampriformes,Trachipteridae,Trachipterus altivelis,Trachipterus_altivelis,NA,NU
+GS000611,Fishes - Poissons,Lepisosteiformes,Lepisosteidae,Lepisosteus oculatus,Lepisosteus_oculatus,NA,N1
+GS000612,Fishes - Poissons,Lepisosteiformes,Lepisosteidae,Lepisosteus osseus,Lepisosteus_osseus,NA,N4N5
+GS007114,Fishes - Poissons,Lophiiformes,Caulophrynidae,Caulophryne jordani,Caulophryne_jordani,NA,NU
+GS007115,Fishes - Poissons,Lophiiformes,Ceratiidae,Ceratias holboelli,Ceratias_holboelli,NA,N5
+GS007117,Fishes - Poissons,Lophiiformes,Ceratiidae,Cryptopsaras couesii,Cryptopsaras_couesii,NA,N5
+GS007120,Fishes - Poissons,Lophiiformes,Chaunacidae,Chaunax stigmaeus,Chaunax_stigmaeus,NA,NU
+GS007123,Fishes - Poissons,Lophiiformes,Gigantactinidae,Gigantactis vanhoeffeni,Gigantactis_vanhoeffeni,NA,NU
+GS007124,Fishes - Poissons,Lophiiformes,Himantolophidae,Himantolophus albinares,Himantolophus_albinares,NA,NU
+GS007125,Fishes - Poissons,Lophiiformes,Himantolophidae,Himantolophus groenlandicus,Himantolophus_groenlandicus,NA,NU
+GS007126,Fishes - Poissons,Lophiiformes,Himantolophidae,Himantolophus mauli,Himantolophus_mauli,NA,NU
+GS007127,Fishes - Poissons,Lophiiformes,Linophrynidae,Haplophryne mollis,Haplophryne_mollis,NA,NU
+GS007128,Fishes - Poissons,Lophiiformes,Linophrynidae,Linophryne algibarbata,Linophryne_algibarbata,NA,NU
+GS030336,Fishes - Poissons,Lophiiformes,Linophrynidae,Linophryne bicornis,Linophryne_bicornis,NA,NU
+GS007129,Fishes - Poissons,Lophiiformes,Linophrynidae,Linophryne coronata,Linophryne_coronata,NA,NU
+GS007131,Fishes - Poissons,Lophiiformes,Linophrynidae,Linophryne macrodon,Linophryne_macrodon,NA,NU
+GS007132,Fishes - Poissons,Lophiiformes,Lophiidae,Lophius americanus,Lophius_americanus,NA,N4N5
+GS007133,Fishes - Poissons,Lophiiformes,Melanocetidae,Melanocetus johnsonii,Melanocetus_johnsonii,NA,NU
+GS007134,Fishes - Poissons,Lophiiformes,Melanocetidae,Melanocetus murrayi,Melanocetus_murrayi,NA,NU
+GS007135,Fishes - Poissons,Lophiiformes,Ogcocphalidae,Dibranchus atlanticus,Dibranchus_atlanticus,NA,N5
+GS007137,Fishes - Poissons,Lophiiformes,Oneirodidae,Chaenophryne longiceps,Chaenophryne_longiceps,NA,NU
+GS007138,Fishes - Poissons,Lophiiformes,Oneirodidae,Chaenophryne melanorhabdus,Chaenophryne_melanorhabdus,NA,NU
+GS007139,Fishes - Poissons,Lophiiformes,Oneirodidae,Danaphryne nigrifilis,Danaphryne_nigrifilis,NA,NU
+GS007140,Fishes - Poissons,Lophiiformes,Oneirodidae,Dolopichthys allector,Dolopichthys_allector,NA,NU
+GS007142,Fishes - Poissons,Lophiiformes,Oneirodidae,Leptacanthichthys gracilispinis,Leptacanthichthys_gracilispinis,NA,NU
+GS007143,Fishes - Poissons,Lophiiformes,Oneirodidae,Lophodolos acanthognathus,Lophodolos_acanthognathus,NA,NU
+GS007144,Fishes - Poissons,Lophiiformes,Oneirodidae,Microlophichthys microlophus,Microlophichthys_microlophus,NA,NU
+GS030337,Fishes - Poissons,Lophiiformes,Oneirodidae,Oneirodes acanthias,Oneirodes_acanthias,NA,NU
+GS007145,Fishes - Poissons,Lophiiformes,Oneirodidae,Oneirodes bulbosus,Oneirodes_bulbosus,NA,NU
+GS007147,Fishes - Poissons,Lophiiformes,Oneirodidae,Oneirodes epithales,Oneirodes_epithales,NA,NU
+GS007148,Fishes - Poissons,Lophiiformes,Oneirodidae,Oneirodes eschrichtii,Oneirodes_eschrichtii,NA,NU
+GS007149,Fishes - Poissons,Lophiiformes,Oneirodidae,Oneirodes macrosteus,Oneirodes_macrosteus,NA,NU
+GS007151,Fishes - Poissons,Lophiiformes,Oneirodidae,Oneirodes thompsoni,Oneirodes_thompsoni,NA,NU
+GS007153,Fishes - Poissons,Lophiiformes,Oneirodidae,Spiniphryne gladisfenae,Spiniphryne_gladisfenae,NA,NU
+GS007154,Fishes - Poissons,Lophiiformes,Thaumatichthyidae,Lasiognathus beebei,Lasiognathus_beebei,NA,NU
+GS007158,Fishes - Poissons,Myctophiformes,Myctophidae,Benthosema glaciale,Benthosema_glaciale,NA,N5
+GS007159,Fishes - Poissons,Myctophiformes,Myctophidae,Benthosema suborbitale,Benthosema_suborbitale,NA,N5
+GS007160,Fishes - Poissons,Myctophiformes,Myctophidae,Bolinichthys indicus,Bolinichthys_indicus,NA,N5
+GS007161,Fishes - Poissons,Myctophiformes,Myctophidae,Bolinichthys photothorax,Bolinichthys_photothorax,NA,N5
+GS007162,Fishes - Poissons,Myctophiformes,Myctophidae,Bolinichthys supralateralis,Bolinichthys_supralateralis,NA,N5
+GS007163,Fishes - Poissons,Myctophiformes,Myctophidae,Centrobranchus nigroocellatus,Centrobranchus_nigroocellatus,NA,NU
+GS007164,Fishes - Poissons,Myctophiformes,Myctophidae,Ceratoscopelus maderensis,Ceratoscopelus_maderensis,NA,"N5B,NUN,NNRM"
+GS007165,Fishes - Poissons,Myctophiformes,Myctophidae,Ceratoscopelus townsendi,Ceratoscopelus_townsendi,NA,NU
+GS007166,Fishes - Poissons,Myctophiformes,Myctophidae,Ceratoscopelus warmingii,Ceratoscopelus_warmingii,NA,N5
+GS007167,Fishes - Poissons,Myctophiformes,Myctophidae,Diaphus bertelseni,Diaphus_bertelseni,NA,NU
+GS007168,Fishes - Poissons,Myctophiformes,Myctophidae,Diaphus brachycephalus,Diaphus_brachycephalus,NA,N5
+GS007169,Fishes - Poissons,Myctophiformes,Myctophidae,Diaphus dumerilii,Diaphus_dumerilii,NA,"N5N,N5M"
+GS007170,Fishes - Poissons,Myctophiformes,Myctophidae,Diaphus effulgens,Diaphus_effulgens,NA,N5
+GS007173,Fishes - Poissons,Myctophiformes,Myctophidae,Diaphus holti,Diaphus_holti,NA,NU
+GS007174,Fishes - Poissons,Myctophiformes,Myctophidae,Diaphus lucidus,Diaphus_lucidus,NA,N5
+GS007176,Fishes - Poissons,Myctophiformes,Myctophidae,Diaphus metopoclampus,Diaphus_metopoclampus,NA,N5
+GS007177,Fishes - Poissons,Myctophiformes,Myctophidae,Diaphus mollis,Diaphus_mollis,NA,N5
+GS007178,Fishes - Poissons,Myctophiformes,Myctophidae,Diaphus perspicillatus,Diaphus_perspicillatus,NA,"N5N,N5M"
+GS007179,Fishes - Poissons,Myctophiformes,Myctophidae,Diaphus rafinesquii,Diaphus_rafinesquii,NA,"N5N,N5M"
+GS007182,Fishes - Poissons,Myctophiformes,Myctophidae,Diaphus taaningi,Diaphus_taaningi,NA,NU
+GS007183,Fishes - Poissons,Myctophiformes,Myctophidae,Diaphus termophilus,Diaphus_termophilus,NA,NU
+GS007184,Fishes - Poissons,Myctophiformes,Myctophidae,Diaphus theta,Diaphus_theta,NA,N5
+GS007185,Fishes - Poissons,Myctophiformes,Myctophidae,Diogenichthys atlanticus,Diogenichthys_atlanticus,NA,N5
+GS007186,Fishes - Poissons,Myctophiformes,Myctophidae,Electrona risso,Electrona_risso,NA,"NUN,NUM"
+GS007187,Fishes - Poissons,Myctophiformes,Myctophidae,Gonichthys cocco,Gonichthys_cocco,NA,"N5N,N5M"
+GS007188,Fishes - Poissons,Myctophiformes,Myctophidae,Hygophum benoiti,Hygophum_benoiti,NA,"N5N,N5M"
+GS007189,Fishes - Poissons,Myctophiformes,Myctophidae,Hygophum hygomii,Hygophum_hygomii,NA,"N5N,N5M"
+GS007191,Fishes - Poissons,Myctophiformes,Myctophidae,Hygophum reinhardtii,Hygophum_reinhardtii,NA,N5
+GS007192,Fishes - Poissons,Myctophiformes,Myctophidae,Hygophum taaningi,Hygophum_taaningi,NA,N5
+GS007193,Fishes - Poissons,Myctophiformes,Myctophidae,Lampadena anomala,Lampadena_anomala,NA,NU
+GS007194,Fishes - Poissons,Myctophiformes,Myctophidae,Lampadena chavesi,Lampadena_chavesi,NA,NU
+GS030338,Fishes - Poissons,Myctophiformes,Myctophidae,Lampadena luminosa,Lampadena_luminosa,NA,NU
+GS007195,Fishes - Poissons,Myctophiformes,Myctophidae,Lampadena speculigera,Lampadena_speculigera,NA,"N5N,N5M"
+GS007196,Fishes - Poissons,Myctophiformes,Myctophidae,Lampadena urophaos,Lampadena_urophaos,NA,NU
+GS007197,Fishes - Poissons,Myctophiformes,Myctophidae,Lampanyctus alatus,Lampanyctus_alatus,NA,N5
+GS007198,Fishes - Poissons,Myctophiformes,Myctophidae,Lampanyctus crocodilus,Lampanyctus_crocodilus,NA,"N5N,N5M"
+GS007199,Fishes - Poissons,Myctophiformes,Myctophidae,Lampanyctus festivus,Lampanyctus_festivus,NA,N5
+GS007200,Fishes - Poissons,Myctophiformes,Myctophidae,Lampanyctus intricarius,Lampanyctus_intricarius,NA,NU
+GS030339,Fishes - Poissons,Myctophiformes,Myctophidae,Lampanyctus jordani,Lampanyctus_jordani,NA,NU
+GS007201,Fishes - Poissons,Myctophiformes,Myctophidae,Lampanyctus macdonaldi,Lampanyctus_macdonaldi,NA,N5
+GS007202,Fishes - Poissons,Myctophiformes,Myctophidae,Lampanyctus nobilis,Lampanyctus_nobilis,NA,NU
+GS007203,Fishes - Poissons,Myctophiformes,Myctophidae,Lampanyctus photonotus,Lampanyctus_photonotus,NA,N5
+GS007204,Fishes - Poissons,Myctophiformes,Myctophidae,Lampanyctus pusillus,Lampanyctus_pusillus,NA,"N5N,N5M"
+GS007206,Fishes - Poissons,Myctophiformes,Myctophidae,Lepidophanes gaussi,Lepidophanes_gaussi,NA,N5
+GS007207,Fishes - Poissons,Myctophiformes,Myctophidae,Lepidophanes guentheri,Lepidophanes_guentheri,NA,N5
+GS007208,Fishes - Poissons,Myctophiformes,Myctophidae,Lobianchia dofleini,Lobianchia_dofleini,NA,"N5N,N5M"
+GS007209,Fishes - Poissons,Myctophiformes,Myctophidae,Lobianchia gemellarii,Lobianchia_gemellarii,NA,"N5N,N5M"
+GS007210,Fishes - Poissons,Myctophiformes,Myctophidae,Loweina rara,Loweina_rara,NA,NU
+GS007211,Fishes - Poissons,Myctophiformes,Myctophidae,Myctophum affine,Myctophum_affine,NA,N5
+GS007212,Fishes - Poissons,Myctophiformes,Myctophidae,Myctophum asperum,Myctophum_asperum,NA,NU
+GS007213,Fishes - Poissons,Myctophiformes,Myctophidae,Myctophum nitidulum,Myctophum_nitidulum,NA,NU
+GS007215,Fishes - Poissons,Myctophiformes,Myctophidae,Myctophum punctatum,Myctophum_punctatum,NA,"N5N,N5M"
+GS007216,Fishes - Poissons,Myctophiformes,Myctophidae,Myctophum selenops,Myctophum_selenops,NA,N5
+GS007217,Fishes - Poissons,Myctophiformes,Myctophidae,Nannobrachium atrum,Nannobrachium_atrum,NA,N5
+GS007218,Fishes - Poissons,Myctophiformes,Myctophidae,Nannobrachium cuprarium,Nannobrachium_cuprarium,NA,NU
+GS007219,Fishes - Poissons,Myctophiformes,Myctophidae,Nannobrachium lineatum,Nannobrachium_lineatum,NA,N5
+GS007220,Fishes - Poissons,Myctophiformes,Myctophidae,Nannobrachium regale,Nannobrachium_regale,NA,N5
+GS007221,Fishes - Poissons,Myctophiformes,Myctophidae,Nannobrachium ritteri,Nannobrachium_ritteri,NA,N5
+GS007222,Fishes - Poissons,Myctophiformes,Myctophidae,Notolychnus valdiviae,Notolychnus_valdiviae,NA,N5
+GS007223,Fishes - Poissons,Myctophiformes,Myctophidae,Notoscopelus bolini,Notoscopelus_bolini,NA,NU
+GS007224,Fishes - Poissons,Myctophiformes,Myctophidae,Notoscopelus caudispinosus,Notoscopelus_caudispinosus,NA,N5
+GS007225,Fishes - Poissons,Myctophiformes,Myctophidae,Notoscopelus elongatus,Notoscopelus_elongatus,NA,"NUN,NUM"
+GS007226,Fishes - Poissons,Myctophiformes,Myctophidae,Notoscopelus japonicus,Notoscopelus_japonicus,NA,NU
+GS030340,Fishes - Poissons,Myctophiformes,Myctophidae,Notoscopelus kroyeri,Notoscopelus_kroyeri,NA,"N5B,NUN,NUM"
+GS007227,Fishes - Poissons,Myctophiformes,Myctophidae,Notoscopelus resplendens,Notoscopelus_resplendens,NA,"N5N,N5M"
+GS007228,Fishes - Poissons,Myctophiformes,Myctophidae,Protomyctophum arcticum,Protomyctophum_arcticum,NA,N5
+GS007229,Fishes - Poissons,Myctophiformes,Myctophidae,Protomyctophum crockeri,Protomyctophum_crockeri,NA,NU
+GS007230,Fishes - Poissons,Myctophiformes,Myctophidae,Protomyctophum thompsoni,Protomyctophum_thompsoni,NA,N5
+GS007231,Fishes - Poissons,Myctophiformes,Myctophidae,Stenobrachius leucopsarus,Stenobrachius_leucopsarus,NA,N5
+GS007232,Fishes - Poissons,Myctophiformes,Myctophidae,Stenobrachius nannochir,Stenobrachius_nannochir,NA,N5
+GS007233,Fishes - Poissons,Myctophiformes,Myctophidae,Symbolophorus californiensis,Symbolophorus_californiensis,NA,NU
+GS007235,Fishes - Poissons,Myctophiformes,Myctophidae,Symbolophorus veranyi,Symbolophorus_veranyi,NA,N5
+GS007236,Fishes - Poissons,Myctophiformes,Myctophidae,Taaningichthys bathyphilus,Taaningichthys_bathyphilus,NA,N5
+GS007237,Fishes - Poissons,Myctophiformes,Myctophidae,Taaningichthys minimus,Taaningichthys_minimus,NA,NU
+GS007238,Fishes - Poissons,Myctophiformes,Myctophidae,Tarletonbeania crenularis,Tarletonbeania_crenularis,NA,NU
+GS007239,Fishes - Poissons,Myctophiformes,Myctophidae,Tarletonbeania taylori,Tarletonbeania_taylori,NA,NU
+GS007240,Fishes - Poissons,Myctophiformes,Neoscopelidae,Neoscopelus macrolepidotus,Neoscopelus_macrolepidotus,NA,NU
+GS030341,Fishes - Poissons,Myctophiformes,Neoscopelidae,Scopelengys tristis,Scopelengys_tristis,NA,NU
+GS007243,Fishes - Poissons,Myliobatiformes,Dasyatidae,Pteroplatytrygon violacea,Pteroplatytrygon_violacea,NA,"NUN,NUM"
+GS007247,Fishes - Poissons,Myxiniformes,Myxinidae,Eptatretus deani,Eptatretus_deani,NA,NU
+GS007248,Fishes - Poissons,Myxiniformes,Myxinidae,Eptatretus stoutii,Eptatretus_stoutii,NA,N5
+GS007249,Fishes - Poissons,Myxiniformes,Myxinidae,Myxine glutinosa,Myxine_glutinosa,NA,N5
+GS007251,Fishes - Poissons,Ophidiiformes,Bythitidae,Brosmophycis marginata,Brosmophycis_marginata,NA,NU
+GS007252,Fishes - Poissons,Ophidiiformes,Bythitidae,Bythites fuscus,Bythites_fuscus,NA,NU
+GS030342,Fishes - Poissons,Ophidiiformes,Bythitidae,Cataetyx laticeps,Cataetyx_laticeps,NA,NU
+GS007253,Fishes - Poissons,Ophidiiformes,Bythitidae,Thalassobathia pelagica,Thalassobathia_pelagica,NA,NU
+GS030343,Fishes - Poissons,Ophidiiformes,Ophidiidae,Acanthonus armatus,Acanthonus_armatus,NA,NU
+GS030344,Fishes - Poissons,Ophidiiformes,Ophidiidae,Barathrites parri,Barathrites_parri,NA,NU
+GS007256,Fishes - Poissons,Ophidiiformes,Ophidiidae,Bassogigas gillii,Bassogigas_gillii,NA,NU
+GS030346,Fishes - Poissons,Ophidiiformes,Ophidiidae,Chilara taylori,Chilara_taylori,NA,NU
+GS007258,Fishes - Poissons,Ophidiiformes,Ophidiidae,Dicrolene introniger,Dicrolene_introniger,NA,N5
+GS007259,Fishes - Poissons,Ophidiiformes,Ophidiidae,Lepophidium profundorum,Lepophidium_profundorum,NA,N5
+GS007260,Fishes - Poissons,Ophidiiformes,Ophidiidae,Monomitopus agassizii,Monomitopus_agassizii,NA,NU
+GS007266,Fishes - Poissons,Ophidiiformes,Ophidiidae,Spectrunculus grandis,Spectrunculus_grandis,NA,NU
+GS007268,Fishes - Poissons,Osmeriformes,Alepocephalidae,Alepocephalus agassizii,Alepocephalus_agassizii,NA,N5
+GS007269,Fishes - Poissons,Osmeriformes,Alepocephalidae,Alepocephalus bairdii,Alepocephalus_bairdii,NA,N5
+GS007271,Fishes - Poissons,Osmeriformes,Alepocephalidae,Bajacalifornia megalops,Bajacalifornia_megalops,NA,NU
+GS030347,Fishes - Poissons,Osmeriformes,Alepocephalidae,Narcetes stomias,Narcetes_stomias,NA,NU
+GS007275,Fishes - Poissons,Osmeriformes,Alepocephalidae,Photostylus pycnopterus,Photostylus_pycnopterus,NA,NU
+GS007277,Fishes - Poissons,Osmeriformes,Alepocephalidae,Rouleina attrita,Rouleina_attrita,NA,N5
+GS007278,Fishes - Poissons,Osmeriformes,Alepocephalidae,Rouleina maderensis,Rouleina_maderensis,NA,NU
+GS007281,Fishes - Poissons,Osmeriformes,Alepocephalidae,Xenodermichthys copei,Xenodermichthys_copei,NA,N5
+GS007282,Fishes - Poissons,Osmeriformes,Argentinidae,Argentina silus,Argentina_silus,NA,N5
+GS007283,Fishes - Poissons,Osmeriformes,Argentinidae,Argentina striata,Argentina_striata,NA,NU
+GS007286,Fishes - Poissons,Osmeriformes,Bathylagidae,Bathylagichthys greyae,Bathylagichthys_greyae,NA,NU
+GS007287,Fishes - Poissons,Osmeriformes,Bathylagidae,Bathylagus euryops,Bathylagus_euryops,NA,N5
+GS007289,Fishes - Poissons,Osmeriformes,Bathylagidae,Dolicholagus longirostris,Dolicholagus_longirostris,NA,N5
+GS007293,Fishes - Poissons,Osmeriformes,Bathylagidae,Melanolagus bericoides,Melanolagus_bericoides,NA,N5
+GS007297,Fishes - Poissons,Osmeriformes,Microstomatidae,Nansenia groenlandica,Nansenia_groenlandica,NA,NU
+GS007298,Fishes - Poissons,Osmeriformes,Microstomatidae,Nansenia oblita,Nansenia_oblita,NA,NU
+GS007302,Fishes - Poissons,Osmeriformes,Osmeridae,Allosmerus elongatus,Allosmerus_elongatus,NA,NU
+GS007303,Fishes - Poissons,Osmeriformes,Osmeridae,Hypomesus pretiosus,Hypomesus_pretiosus,NA,NU
+GS007304,Fishes - Poissons,Osmeriformes,Osmeridae,Mallotus villosus,Mallotus_villosus,NA,"N4N5B,N4N5M"
+GS007305,Fishes - Poissons,Osmeriformes,Osmeridae,Spirinchus starksi,Spirinchus_starksi,NA,NU
+GS000667,Fishes - Poissons,Osmeriformes,Osmeridae,Spirinchus thaleichthys,Spirinchus_thaleichthys,NA,"N4B,NUN,NUM"
+GS000668,Fishes - Poissons,Osmeriformes,Osmeridae,Thaleichthys pacificus,Thaleichthys_pacificus,NA,"N2N3B,N2N,N2M"
+GS007306,Fishes - Poissons,Osmeriformes,Platytroctidae,Holtbyrnia anomala,Holtbyrnia_anomala,NA,NU
+GS007308,Fishes - Poissons,Osmeriformes,Platytroctidae,Holtbyrnia macrops,Holtbyrnia_macrops,NA,NU
+GS030348,Fishes - Poissons,Osmeriformes,Platytroctidae,Maulisia mauli,Maulisia_mauli,NA,NU
+GS030349,Fishes - Poissons,Osmeriformes,Platytroctidae,Maulisia microlepis,Maulisia_microlepis,NA,NU
+GS007311,Fishes - Poissons,Osmeriformes,Platytroctidae,Mentodus rostratus,Mentodus_rostratus,NA,NU
+GS007312,Fishes - Poissons,Osmeriformes,Platytroctidae,Normichthys operosus,Normichthys_operosus,NA,N5
+GS007313,Fishes - Poissons,Osmeriformes,Platytroctidae,Platytroctes apus,Platytroctes_apus,NA,NU
+GS007318,Fishes - Poissons,Perciformes,Acropomatidae,Synagrops bellus,Synagrops_bellus,NA,N5
+GS007320,Fishes - Poissons,Perciformes,Acropomatidae,Synagrops spinosus,Synagrops_spinosus,NA,NU
+GS007321,Fishes - Poissons,Perciformes,Ammodytidae,Ammodytes americanus,Ammodytes_americanus,NA,N5
+GS007322,Fishes - Poissons,Perciformes,Ammodytidae,Ammodytes dubius,Ammodytes_dubius,NA,N5
+GS007323,Fishes - Poissons,Perciformes,Ammodytidae,Ammodytes hexapterus,Ammodytes_hexapterus,NA,N5
+GS007324,Fishes - Poissons,Perciformes,Anarhichadidae,Anarhichas denticulatus,Anarhichas_denticulatus,NA,N2
+GS007325,Fishes - Poissons,Perciformes,Anarhichadidae,Anarhichas lupus,Anarhichas_lupus,NA,N3
+GS007326,Fishes - Poissons,Perciformes,Anarhichadidae,Anarhichas minor,Anarhichas_minor,NA,N2
+GS007327,Fishes - Poissons,Perciformes,Anarhichadidae,Anarhichas orientalis,Anarhichas_orientalis,NA,NU
+GS007328,Fishes - Poissons,Perciformes,Anarhichadidae,Anarrhichthys ocellatus,Anarrhichthys_ocellatus,NA,N5
+GS007332,Fishes - Poissons,Perciformes,Ariommatidae,Ariomma bondi,Ariomma_bondi,NA,NU
+GS007333,Fishes - Poissons,Perciformes,Ariommatidae,Ariomma melanum,Ariomma_melanum,NA,NU
+GS007336,Fishes - Poissons,Perciformes,Bathymasteridae,Bathymaster caeruleofasciatus,Bathymaster_caeruleofasciatus,NA,NU
+GS007337,Fishes - Poissons,Perciformes,Bathymasteridae,Bathymaster signatus,Bathymaster_signatus,NA,NU
+GS007338,Fishes - Poissons,Perciformes,Bathymasteridae,Ronquilus jordani,Ronquilus_jordani,NA,NU
+GS007343,Fishes - Poissons,Perciformes,Bramidae,Pterycombus brama,Pterycombus_brama,NA,"NUN,NUM"
+GS007345,Fishes - Poissons,Perciformes,Bramidae,Taractichthys longipinnis,Taractichthys_longipinnis,NA,NU
+GS007347,Fishes - Poissons,Perciformes,Callionymidae,Foetorepus agassizii,Foetorepus_agassizii,NA,N5
+GS007366,Fishes - Poissons,Perciformes,Carangidae,Trachurus symmetricus,Trachurus_symmetricus,NA,"N5N,N5M"
+GS007367,Fishes - Poissons,Perciformes,Caristiidae,Caristius groenlandicus,Caristius_groenlandicus,NA,NU
+GS000614,Fishes - Poissons,Perciformes,Centrarchidae,Ambloplites rupestris,Ambloplites_rupestris,NA,N5
+GS000615,Fishes - Poissons,Perciformes,Centrarchidae,Lepomis auritus,Lepomis_auritus,NA,N4
+GS000616,Fishes - Poissons,Perciformes,Centrarchidae,Lepomis cyanellus,Lepomis_cyanellus,NA,N4
+GS000617,Fishes - Poissons,Perciformes,Centrarchidae,Lepomis gibbosus,Lepomis_gibbosus,NA,N5
+GS000618,Fishes - Poissons,Perciformes,Centrarchidae,Lepomis gulosus,Lepomis_gulosus,NA,N1
+GS000620,Fishes - Poissons,Perciformes,Centrarchidae,Lepomis macrochirus,Lepomis_macrochirus,NA,N5
+GS000621,Fishes - Poissons,Perciformes,Centrarchidae,Lepomis peltastes,Lepomis_peltastes,NA,N3
+GS000622,Fishes - Poissons,Perciformes,Centrarchidae,Micropterus dolomieu,Micropterus_dolomieu,NA,N5
+GS000623,Fishes - Poissons,Perciformes,Centrarchidae,Micropterus salmoides,Micropterus_salmoides,NA,N5
+GS000624,Fishes - Poissons,Perciformes,Centrarchidae,Pomoxis annularis,Pomoxis_annularis,NA,N4N5
+GS000625,Fishes - Poissons,Perciformes,Centrarchidae,Pomoxis nigromaculatus,Pomoxis_nigromaculatus,NA,N5
+GS007371,Fishes - Poissons,Perciformes,Centrolophidae,Icichthys lockingtoni,Icichthys_lockingtoni,NA,NU
+GS007375,Fishes - Poissons,Perciformes,Chiasmodontidae,Chiasmodon niger,Chiasmodon_niger,NA,N5
+GS030351,Fishes - Poissons,Perciformes,Chiasmodontidae,Kali indica,Kali_indica,NA,NU
+GS007378,Fishes - Poissons,Perciformes,Clinidae,Gibbonsia metzi,Gibbonsia_metzi,NA,NU
+GS007379,Fishes - Poissons,Perciformes,Clinidae,Gibbonsia montereyensis,Gibbonsia_montereyensis,NA,NU
+GS007382,Fishes - Poissons,Perciformes,Coryphaenidae,Coryphaena hippurus,Coryphaena_hippurus,NA,"NUN,NUM"
+GS007383,Fishes - Poissons,Perciformes,Cryptacanthodidae,Cryptacanthodes aleutensis,Cryptacanthodes_aleutensis,NA,NU
+GS007384,Fishes - Poissons,Perciformes,Cryptacanthodidae,Cryptacanthodes giganteus,Cryptacanthodes_giganteus,NA,NU
+GS007385,Fishes - Poissons,Perciformes,Cryptacanthodidae,Cryptacanthodes maculatus,Cryptacanthodes_maculatus,NA,N5
+GS007391,Fishes - Poissons,Perciformes,Embiotocidae,Amphistichus rhodoterus,Amphistichus_rhodoterus,NA,NU
+GS007392,Fishes - Poissons,Perciformes,Embiotocidae,Brachyistius frenatus,Brachyistius_frenatus,NA,N5
+GS007393,Fishes - Poissons,Perciformes,Embiotocidae,Cymatogaster aggregata,Cymatogaster_aggregata,NA,N5
+GS007398,Fishes - Poissons,Perciformes,Embiotocidae,Damalichthys vacca,Damalichthys_vacca,NA,N5
+GS007394,Fishes - Poissons,Perciformes,Embiotocidae,Embiotoca lateralis,Embiotoca_lateralis,NA,N5
+GS007396,Fishes - Poissons,Perciformes,Embiotocidae,Hyperprosopon ellipticum,Hyperprosopon_ellipticum,NA,NU
+GS007397,Fishes - Poissons,Perciformes,Embiotocidae,Phanerodon furcatus,Phanerodon_furcatus,NA,NU
+GS007404,Fishes - Poissons,Perciformes,Gempylidae,Diplospinus multistriatus,Diplospinus_multistriatus,NA,N5
+GS007406,Fishes - Poissons,Perciformes,Gempylidae,Lepidocybium flavobrunneum,Lepidocybium_flavobrunneum,NA,NU
+GS007407,Fishes - Poissons,Perciformes,Gempylidae,Nealotus tripes,Nealotus_tripes,NA,N5
+GS007409,Fishes - Poissons,Perciformes,Gempylidae,Nesiarchus nasutus,Nesiarchus_nasutus,NA,NU
+GS007410,Fishes - Poissons,Perciformes,Gempylidae,Ruvettus pretiosus,Ruvettus_pretiosus,NA,NU
+GS007411,Fishes - Poissons,Perciformes,Gobiesocidae,Gobiesox maeandricus,Gobiesox_maeandricus,NA,NU
+GS007412,Fishes - Poissons,Perciformes,Gobiesocidae,Rimicola muscarum,Rimicola_muscarum,NA,NU
+GS007413,Fishes - Poissons,Perciformes,Gobiidae,Clevelandia ios,Clevelandia_ios,NA,NU
+GS007415,Fishes - Poissons,Perciformes,Gobiidae,Lepidogobius lepidus,Lepidogobius_lepidus,NA,NU
+GS007416,Fishes - Poissons,Perciformes,Gobiidae,Rhinogobiops nicholsii,Rhinogobiops_nicholsii,NA,NU
+GS007417,Fishes - Poissons,Perciformes,Icosteidae,Icosteus aenigmaticus,Icosteus_aenigmaticus,NA,NU
+GS007418,Fishes - Poissons,Perciformes,Istiophoridae,Makaira nigricans,Makaira_nigricans,NA,N3
+GS007419,Fishes - Poissons,Perciformes,Istiophoridae,Tetrapturus albidus,Tetrapturus_albidus,NA,"N3N,N3M"
+GS007421,Fishes - Poissons,Perciformes,Kyphosidae,Medialuna californiensis,Medialuna_californiensis,NA,NU
+GS007422,Fishes - Poissons,Perciformes,Labridae,Lachnolaimus maximus,Lachnolaimus_maximus,NA,NU
+GS007424,Fishes - Poissons,Perciformes,Labridae,Tautogolabrus adspersus,Tautogolabrus_adspersus,NA,N5
+GS007431,Fishes - Poissons,Perciformes,Malacanthidae,Lopholatilus chamaeleonticeps,Lopholatilus_chamaeleonticeps,NA,NU
+GS000631,Fishes - Poissons,Perciformes,Moronidae,Morone americana,Morone_americana,NA,N5
+GS000632,Fishes - Poissons,Perciformes,Moronidae,Morone chrysops,Morone_chrysops,NA,N4N5
+GS000633,Fishes - Poissons,Perciformes,Moronidae,Morone saxatilis,Morone_saxatilis,NA,"N4B,N3N,N4M"
+GS007434,Fishes - Poissons,Perciformes,Nomeidae,Cubiceps gracilis,Cubiceps_gracilis,NA,NU
+GS030353,Fishes - Poissons,Perciformes,Percichthyidae,Howella atlantica,Howella_atlantica,NA,NU
+GS007440,Fishes - Poissons,Perciformes,Percichthyidae,Howella sherborni,Howella_sherborni,NA,N5
+GS000634,Fishes - Poissons,Perciformes,Percidae,Ammocrypta pellucida,Ammocrypta_pellucida,NA,N2
+GS000635,Fishes - Poissons,Perciformes,Percidae,Etheostoma blennioides,Etheostoma_blennioides,NA,N4
+GS000636,Fishes - Poissons,Perciformes,Percidae,Etheostoma caeruleum,Etheostoma_caeruleum,NA,N4N5
+GS000637,Fishes - Poissons,Perciformes,Percidae,Etheostoma exile,Etheostoma_exile,NA,N5
+GS000638,Fishes - Poissons,Perciformes,Percidae,Etheostoma flabellare,Etheostoma_flabellare,NA,N5
+GS000639,Fishes - Poissons,Perciformes,Percidae,Etheostoma microperca,Etheostoma_microperca,NA,N4
+GS000640,Fishes - Poissons,Perciformes,Percidae,Etheostoma nigrum,Etheostoma_nigrum,NA,N5
+GS000641,Fishes - Poissons,Perciformes,Percidae,Etheostoma olmstedi,Etheostoma_olmstedi,NA,N5
+GS000643,Fishes - Poissons,Perciformes,Percidae,Perca flavescens,Perca_flavescens,NA,N5
+GS000644,Fishes - Poissons,Perciformes,Percidae,Percina caprodes,Percina_caprodes,NA,N5
+GS000645,Fishes - Poissons,Perciformes,Percidae,Percina copelandi,Percina_copelandi,NA,N3
+GS000646,Fishes - Poissons,Perciformes,Percidae,Percina maculata,Percina_maculata,NA,N5
+GS000647,Fishes - Poissons,Perciformes,Percidae,Percina shumardi,Percina_shumardi,NA,N5
+GS000648,Fishes - Poissons,Perciformes,Percidae,Sander canadensis,Sander_canadensis,NA,N5
+GS000649,Fishes - Poissons,Perciformes,Percidae,Sander vitreus,Sander_vitreus,NA,N5
+GS007441,Fishes - Poissons,Perciformes,Pholidae,Apodichthys flavidus,Apodichthys_flavidus,NA,NU
+GS007442,Fishes - Poissons,Perciformes,Pholidae,Apodichthys fucorum,Apodichthys_fucorum,NA,NU
+GS007443,Fishes - Poissons,Perciformes,Pholidae,Pholis clemensi,Pholis_clemensi,NA,NU
+GS007444,Fishes - Poissons,Perciformes,Pholidae,Pholis fasciata,Pholis_fasciata,NA,N5
+GS007445,Fishes - Poissons,Perciformes,Pholidae,Pholis gunnellus,Pholis_gunnellus,NA,N5
+GS007446,Fishes - Poissons,Perciformes,Pholidae,Pholis laeta,Pholis_laeta,NA,NU
+GS007447,Fishes - Poissons,Perciformes,Pholidae,Pholis ornata,Pholis_ornata,NA,NU
+GS007448,Fishes - Poissons,Perciformes,Pholidae,Pholis schultzi,Pholis_schultzi,NA,NU
+GS007458,Fishes - Poissons,Perciformes,Ptilichthyidae,Ptilichthys goodei,Ptilichthys_goodei,NA,NU
+GS000650,Fishes - Poissons,Perciformes,Sciaenidae,Aplodinotus grunniens,Aplodinotus_grunniens,NA,N5
+GS007469,Fishes - Poissons,Perciformes,Scombridae,Acanthocybium solandri,Acanthocybium_solandri,NA,NU
+GS007476,Fishes - Poissons,Perciformes,Scombridae,Scomber japonicus,Scomber_japonicus,NA,"N5N,N5M"
+GS007477,Fishes - Poissons,Perciformes,Scombridae,Scomber scombrus,Scomber_scombrus,NA,"N3B,NNRN,NNRM"
+GS007480,Fishes - Poissons,Perciformes,Scombridae,Thunnus alalunga,Thunnus_alalunga,NA,"N5N,N5M"
+GS007481,Fishes - Poissons,Perciformes,Scombridae,Thunnus albacares,Thunnus_albacares,NA,"N3N,N3M"
+GS007483,Fishes - Poissons,Perciformes,Scombridae,Thunnus obesus,Thunnus_obesus,NA,"N3N,N3M"
+GS007485,Fishes - Poissons,Perciformes,Scombridae,Thunnus thynnus,Thunnus_thynnus,NA,"N3N,N3M"
+GS007487,Fishes - Poissons,Perciformes,Scytalinidae,Scytalina cerdale,Scytalina_cerdale,NA,NU
+GS007488,Fishes - Poissons,Perciformes,Serranidae,Anthias nicholsi,Anthias_nicholsi,NA,NU
+GS007500,Fishes - Poissons,Perciformes,Stichaeidae,Acantholumpenus mackayi,Acantholumpenus_mackayi,NA,NU
+GS007502,Fishes - Poissons,Perciformes,Stichaeidae,Anisarchus medius,Anisarchus_medius,NA,N5
+GS007503,Fishes - Poissons,Perciformes,Stichaeidae,Anoplarchus insignis,Anoplarchus_insignis,NA,NU
+GS007504,Fishes - Poissons,Perciformes,Stichaeidae,Anoplarchus purpurescens,Anoplarchus_purpurescens,NA,NU
+GS007505,Fishes - Poissons,Perciformes,Stichaeidae,Bryozoichthys marjorius,Bryozoichthys_marjorius,NA,NU
+GS007506,Fishes - Poissons,Perciformes,Stichaeidae,Chirolophis ascanii,Chirolophis_ascanii,NA,NU
+GS007507,Fishes - Poissons,Perciformes,Stichaeidae,Chirolophis decoratus,Chirolophis_decoratus,NA,NU
+GS007508,Fishes - Poissons,Perciformes,Stichaeidae,Chirolophis nugator,Chirolophis_nugator,NA,NU
+GS007509,Fishes - Poissons,Perciformes,Stichaeidae,Chirolophis tarsodes,Chirolophis_tarsodes,NA,NU
+GS007510,Fishes - Poissons,Perciformes,Stichaeidae,Eumesogrammus praecisus,Eumesogrammus_praecisus,NA,N5
+GS007511,Fishes - Poissons,Perciformes,Stichaeidae,Leptoclinus maculatus,Leptoclinus_maculatus,NA,N5
+GS007512,Fishes - Poissons,Perciformes,Stichaeidae,Lumpenella longirostris,Lumpenella_longirostris,NA,NU
+GS007501,Fishes - Poissons,Perciformes,Stichaeidae,Lumpenopsis hypochroma,Lumpenopsis_hypochroma,NA,NU
+GS007513,Fishes - Poissons,Perciformes,Stichaeidae,Lumpenus fabricii,Lumpenus_fabricii,NA,N5
+GS007514,Fishes - Poissons,Perciformes,Stichaeidae,Lumpenus lampretaeformis,Lumpenus_lampretaeformis,NA,N5
+GS007515,Fishes - Poissons,Perciformes,Stichaeidae,Lumpenus sagitta,Lumpenus_sagitta,NA,NU
+GS007516,Fishes - Poissons,Perciformes,Stichaeidae,Phytichthys chirus,Phytichthys_chirus,NA,NU
+GS007517,Fishes - Poissons,Perciformes,Stichaeidae,Plectobranchus evides,Plectobranchus_evides,NA,NU
+GS007518,Fishes - Poissons,Perciformes,Stichaeidae,Poroclinus rothrocki,Poroclinus_rothrocki,NA,NU
+GS007519,Fishes - Poissons,Perciformes,Stichaeidae,Stichaeus punctatus,Stichaeus_punctatus,NA,N5
+GS007520,Fishes - Poissons,Perciformes,Stichaeidae,Ulvaria subbifurcata,Ulvaria_subbifurcata,NA,N5
+GS007521,Fishes - Poissons,Perciformes,Stichaeidae,Xiphister atropurpureus,Xiphister_atropurpureus,NA,NU
+GS007522,Fishes - Poissons,Perciformes,Stichaeidae,Xiphister mucosus,Xiphister_mucosus,NA,NU
+GS007525,Fishes - Poissons,Perciformes,Stromateidae,Peprilus triacanthus,Peprilus_triacanthus,NA,N5
+GS007527,Fishes - Poissons,Perciformes,Tetragonuridae,Tetragonurus cuvieri,Tetragonurus_cuvieri,NA,NU
+GS007531,Fishes - Poissons,Perciformes,Trichiuridae,Aphanopus carbo,Aphanopus_carbo,NA,NU
+GS007532,Fishes - Poissons,Perciformes,Trichiuridae,Benthodesmus pacificus,Benthodesmus_pacificus,NA,NU
+GS007533,Fishes - Poissons,Perciformes,Trichiuridae,Benthodesmus simonyi,Benthodesmus_simonyi,NA,N5
+GS007537,Fishes - Poissons,Perciformes,Trichodontidae,Trichodon trichodon,Trichodon_trichodon,NA,NU
+GS007538,Fishes - Poissons,Perciformes,Xiphiidae,Xiphias gladius,Xiphias_gladius,NA,"N5N,N5M"
+GS007539,Fishes - Poissons,Perciformes,Zaproridae,Zaprora silenus,Zaprora_silenus,NA,NU
+GS007540,Fishes - Poissons,Perciformes,Zoarcidae,Bothrocara brunneum,Bothrocara_brunneum,NA,N5
+GS007541,Fishes - Poissons,Perciformes,Zoarcidae,Bothrocara molle,Bothrocara_molle,NA,NU
+GS007542,Fishes - Poissons,Perciformes,Zoarcidae,Bothrocara pusillum,Bothrocara_pusillum,NA,NU
+GS007543,Fishes - Poissons,Perciformes,Zoarcidae,Derepodichthys alepidotus,Derepodichthys_alepidotus,NA,NU
+GS007544,Fishes - Poissons,Perciformes,Zoarcidae,Gymnelus barsukovi,Gymnelus_barsukovi,NA,NU
+GS007545,Fishes - Poissons,Perciformes,Zoarcidae,Gymnelus hemifasciatus,Gymnelus_hemifasciatus,NA,NU
+GS007546,Fishes - Poissons,Perciformes,Zoarcidae,Gymnelus retrodorsalis,Gymnelus_retrodorsalis,NA,NU
+GS007547,Fishes - Poissons,Perciformes,Zoarcidae,Gymnelus viridis,Gymnelus_viridis,NA,N5
+GS007549,Fishes - Poissons,Perciformes,Zoarcidae,Lycenchelys camchatica,Lycenchelys_camchatica,NA,NU
+GS007550,Fishes - Poissons,Perciformes,Zoarcidae,Lycenchelys crotalinus,Lycenchelys_crotalinus,NA,NU
+GS007551,Fishes - Poissons,Perciformes,Zoarcidae,Lycenchelys jordani,Lycenchelys_jordani,NA,NU
+GS007552,Fishes - Poissons,Perciformes,Zoarcidae,Lycenchelys kolthoffi,Lycenchelys_kolthoffi,NA,NU
+GS007553,Fishes - Poissons,Perciformes,Zoarcidae,Lycenchelys micropora,Lycenchelys_micropora,NA,NU
+GS007554,Fishes - Poissons,Perciformes,Zoarcidae,Lycenchelys muraena,Lycenchelys_muraena,NA,NU
+GS007555,Fishes - Poissons,Perciformes,Zoarcidae,Lycenchelys paxillus,Lycenchelys_paxillus,NA,N5
+GS007556,Fishes - Poissons,Perciformes,Zoarcidae,Lycenchelys sarsii,Lycenchelys_sarsii,NA,NU
+GS007557,Fishes - Poissons,Perciformes,Zoarcidae,Lycenchelys verrillii,Lycenchelys_verrillii,NA,N5
+GS007558,Fishes - Poissons,Perciformes,Zoarcidae,Lycodapus dermatinus,Lycodapus_dermatinus,NA,NU
+GS007559,Fishes - Poissons,Perciformes,Zoarcidae,Lycodapus endemoscotus,Lycodapus_endemoscotus,NA,NU
+GS007560,Fishes - Poissons,Perciformes,Zoarcidae,Lycodapus fierasfer,Lycodapus_fierasfer,NA,NU
+GS007561,Fishes - Poissons,Perciformes,Zoarcidae,Lycodapus mandibularis,Lycodapus_mandibularis,NA,NU
+GS007562,Fishes - Poissons,Perciformes,Zoarcidae,Lycodapus pachysoma,Lycodapus_pachysoma,NA,NU
+GS007563,Fishes - Poissons,Perciformes,Zoarcidae,Lycodapus parviceps,Lycodapus_parviceps,NA,NU
+GS007564,Fishes - Poissons,Perciformes,Zoarcidae,Lycodapus psarostomatus,Lycodapus_psarostomatus,NA,NU
+GS007565,Fishes - Poissons,Perciformes,Zoarcidae,Lycodes adolfi,Lycodes_adolfi,NA,NU
+GS007566,Fishes - Poissons,Perciformes,Zoarcidae,Lycodes brevipes,Lycodes_brevipes,NA,NU
+GS007567,Fishes - Poissons,Perciformes,Zoarcidae,Lycodes cortezianus,Lycodes_cortezianus,NA,NU
+GS007568,Fishes - Poissons,Perciformes,Zoarcidae,Lycodes diapterus,Lycodes_diapterus,NA,NU
+GS007569,Fishes - Poissons,Perciformes,Zoarcidae,Lycodes esmarkii,Lycodes_esmarkii,NA,N5
+GS007570,Fishes - Poissons,Perciformes,Zoarcidae,Lycodes eudipleurostictus,Lycodes_eudipleurostictus,NA,N5
+GS007571,Fishes - Poissons,Perciformes,Zoarcidae,Lycodes frigidus,Lycodes_frigidus,NA,NU
+GS007572,Fishes - Poissons,Perciformes,Zoarcidae,Lycodes jugoricus,Lycodes_jugoricus,NA,NU
+GS007573,Fishes - Poissons,Perciformes,Zoarcidae,Lycodes lavalaei,Lycodes_lavalaei,NA,N5
+GS007574,Fishes - Poissons,Perciformes,Zoarcidae,Lycodes luetkenii,Lycodes_luetkenii,NA,NU
+GS007575,Fishes - Poissons,Perciformes,Zoarcidae,Lycodes marisalbi,Lycodes_marisalbi,NA,NU
+GS007576,Fishes - Poissons,Perciformes,Zoarcidae,Lycodes mcallisteri,Lycodes_mcallisteri,NA,NU
+GS007577,Fishes - Poissons,Perciformes,Zoarcidae,Lycodes mucosus,Lycodes_mucosus,NA,N5
+GS007578,Fishes - Poissons,Perciformes,Zoarcidae,Lycodes paamiuti,Lycodes_paamiuti,NA,NU
+GS007579,Fishes - Poissons,Perciformes,Zoarcidae,Lycodes pacificus,Lycodes_pacificus,NA,N5
+GS007580,Fishes - Poissons,Perciformes,Zoarcidae,Lycodes palearis,Lycodes_palearis,NA,NU
+GS007581,Fishes - Poissons,Perciformes,Zoarcidae,Lycodes pallidus,Lycodes_pallidus,NA,N5
+GS007582,Fishes - Poissons,Perciformes,Zoarcidae,Lycodes polaris,Lycodes_polaris,NA,N5
+GS007583,Fishes - Poissons,Perciformes,Zoarcidae,Lycodes reticulatus,Lycodes_reticulatus,NA,N5
+GS007584,Fishes - Poissons,Perciformes,Zoarcidae,Lycodes rossi,Lycodes_rossi,NA,N5
+GS007585,Fishes - Poissons,Perciformes,Zoarcidae,Lycodes sagittarius,Lycodes_sagittarius,NA,NU
+GS007586,Fishes - Poissons,Perciformes,Zoarcidae,Lycodes seminudus,Lycodes_seminudus,NA,NU
+GS007587,Fishes - Poissons,Perciformes,Zoarcidae,Lycodes squamiventer,Lycodes_squamiventer,NA,NU
+GS007588,Fishes - Poissons,Perciformes,Zoarcidae,Lycodes terraenovae,Lycodes_terraenovae,NA,N5
+GS030354,Fishes - Poissons,Perciformes,Zoarcidae,Lycodes turneri,Lycodes_turneri,NA,NU
+GS007589,Fishes - Poissons,Perciformes,Zoarcidae,Lycodes vahlii,Lycodes_vahlii,NA,N5
+GS007590,Fishes - Poissons,Perciformes,Zoarcidae,Lycodonus mirabilis,Lycodonus_mirabilis,NA,N5
+GS007591,Fishes - Poissons,Perciformes,Zoarcidae,Melanostigma atlanticum,Melanostigma_atlanticum,NA,N5
+GS007592,Fishes - Poissons,Perciformes,Zoarcidae,Melanostigma pammelas,Melanostigma_pammelas,NA,NU
+GS007593,Fishes - Poissons,Perciformes,Zoarcidae,Pachycara bulbiceps,Pachycara_bulbiceps,NA,NU
+GS007594,Fishes - Poissons,Perciformes,Zoarcidae,Pachycara gymninium,Pachycara_gymninium,NA,NU
+GS007595,Fishes - Poissons,Perciformes,Zoarcidae,Pachycara lepinium,Pachycara_lepinium,NA,NU
+GS007596,Fishes - Poissons,Perciformes,Zoarcidae,Taranetzella lyoderma,Taranetzella_lyoderma,NA,NU
+GS007597,Fishes - Poissons,Perciformes,Zoarcidae,Zoarces americanus,Zoarces_americanus,NA,N5
+GS000651,Fishes - Poissons,Percopsiformes,Percopsidae,Percopsis omiscomaycus,Percopsis_omiscomaycus,NA,N5
+GS000658,Fishes - Poissons,Petromyzontiformes,Petromyzontidae,Entosphenus macrostomus,Entosphenus_macrostomus,NA,N1N2
+GS000660,Fishes - Poissons,Petromyzontiformes,Petromyzontidae,Entosphenus tridentatus,Entosphenus_tridentatus,NA,"N5B,N5N,N5M"
+GS000652,Fishes - Poissons,Petromyzontiformes,Petromyzontidae,Ichthyomyzon castaneus,Ichthyomyzon_castaneus,NA,NU
+GS000653,Fishes - Poissons,Petromyzontiformes,Petromyzontidae,Ichthyomyzon fossor,Ichthyomyzon_fossor,NA,N3
+GS000654,Fishes - Poissons,Petromyzontiformes,Petromyzontidae,Ichthyomyzon unicuspis,Ichthyomyzon_unicuspis,NA,N3
+GS000656,Fishes - Poissons,Petromyzontiformes,Petromyzontidae,Lampetra ayresii,Lampetra_ayresii,NA,"N4B,N5N,N5M"
+GS000659,Fishes - Poissons,Petromyzontiformes,Petromyzontidae,Lampetra richardsoni,Lampetra_richardsoni,NA,N4
+GS000655,Fishes - Poissons,Petromyzontiformes,Petromyzontidae,Lethenteron appendix,Lethenteron_appendix,NA,N3N4
+GS000657,Fishes - Poissons,Petromyzontiformes,Petromyzontidae,Lethenteron camtschaticum,Lethenteron_camtschaticum,NA,"N4N5B,NUN,NUM"
+GS000661,Fishes - Poissons,Petromyzontiformes,Petromyzontidae,Petromyzon marinus,Petromyzon_marinus,NA,"N5B,N5N,N5M"
+GS007602,Fishes - Poissons,Pleuronectiformes,Bothidae,Monolene sessilicauda,Monolene_sessilicauda,NA,NU
+GS007605,Fishes - Poissons,Pleuronectiformes,Cynoglossidae,Symphurus billykrietei,Symphurus_billykrietei,NA,N5
+GS007608,Fishes - Poissons,Pleuronectiformes,Paralichthyidae,Citharichthys arctifrons,Citharichthys_arctifrons,NA,N5
+GS007611,Fishes - Poissons,Pleuronectiformes,Paralichthyidae,Citharichthys sordidus,Citharichthys_sordidus,NA,N5
+GS007613,Fishes - Poissons,Pleuronectiformes,Paralichthyidae,Citharichthys stigmaeus,Citharichthys_stigmaeus,NA,N5
+GS007618,Fishes - Poissons,Pleuronectiformes,Paralichthyidae,Paralichthys oblongus,Paralichthys_oblongus,NA,N5
+GS007620,Fishes - Poissons,Pleuronectiformes,Pleuronectidae,Atheresthes stomias,Atheresthes_stomias,NA,N5
+GS007621,Fishes - Poissons,Pleuronectiformes,Pleuronectidae,Clidoderma asperrimum,Clidoderma_asperrimum,NA,NU
+GS007622,Fishes - Poissons,Pleuronectiformes,Pleuronectidae,Embassichthys bathybius,Embassichthys_bathybius,NA,NU
+GS007623,Fishes - Poissons,Pleuronectiformes,Pleuronectidae,Eopsetta jordani,Eopsetta_jordani,NA,N5
+GS007624,Fishes - Poissons,Pleuronectiformes,Pleuronectidae,Glyptocephalus cynoglossus,Glyptocephalus_cynoglossus,NA,N3
+GS007625,Fishes - Poissons,Pleuronectiformes,Pleuronectidae,Glyptocephalus zachirus,Glyptocephalus_zachirus,NA,N5
+GS007626,Fishes - Poissons,Pleuronectiformes,Pleuronectidae,Hippoglossoides elassodon,Hippoglossoides_elassodon,NA,N5
+GS007627,Fishes - Poissons,Pleuronectiformes,Pleuronectidae,Hippoglossoides platessoides,Hippoglossoides_platessoides,NA,N4N5
+GS007628,Fishes - Poissons,Pleuronectiformes,Pleuronectidae,Hippoglossoides robustus,Hippoglossoides_robustus,NA,NU
+GS007629,Fishes - Poissons,Pleuronectiformes,Pleuronectidae,Hippoglossus hippoglossus,Hippoglossus_hippoglossus,NA,"N5B,NNRN,NNRM"
+GS007630,Fishes - Poissons,Pleuronectiformes,Pleuronectidae,Hippoglossus stenolepis,Hippoglossus_stenolepis,NA,"N5B,NNRN,NNRM"
+GS007631,Fishes - Poissons,Pleuronectiformes,Pleuronectidae,Isopsetta isolepis,Isopsetta_isolepis,NA,N5
+GS007632,Fishes - Poissons,Pleuronectiformes,Pleuronectidae,Lepidopsetta bilineata,Lepidopsetta_bilineata,NA,N5
+GS007633,Fishes - Poissons,Pleuronectiformes,Pleuronectidae,Lepidopsetta polyxystra,Lepidopsetta_polyxystra,NA,NU
+GS007634,Fishes - Poissons,Pleuronectiformes,Pleuronectidae,Limanda aspera,Limanda_aspera,NA,NU
+GS007635,Fishes - Poissons,Pleuronectiformes,Pleuronectidae,Limanda ferruginea,Limanda_ferruginea,NA,N5
+GS007636,Fishes - Poissons,Pleuronectiformes,Pleuronectidae,Limanda proboscidea,Limanda_proboscidea,NA,NU
+GS007637,Fishes - Poissons,Pleuronectiformes,Pleuronectidae,Lyopsetta exilis,Lyopsetta_exilis,NA,N5
+GS007638,Fishes - Poissons,Pleuronectiformes,Pleuronectidae,Microstomus pacificus,Microstomus_pacificus,NA,N5
+GS007639,Fishes - Poissons,Pleuronectiformes,Pleuronectidae,Parophrys vetulus,Parophrys_vetulus,NA,"N5B,NNRN,NNRM"
+GS007640,Fishes - Poissons,Pleuronectiformes,Pleuronectidae,Platichthys stellatus,Platichthys_stellatus,NA,N5
+GS007641,Fishes - Poissons,Pleuronectiformes,Pleuronectidae,Pleuronectes glacialis,Pleuronectes_glacialis,NA,NU
+GS007642,Fishes - Poissons,Pleuronectiformes,Pleuronectidae,Pleuronectes putnami,Pleuronectes_putnami,NA,N5
+GS007643,Fishes - Poissons,Pleuronectiformes,Pleuronectidae,Pleuronichthys coenosus,Pleuronichthys_coenosus,NA,NU
+GS007644,Fishes - Poissons,Pleuronectiformes,Pleuronectidae,Pleuronichthys decurrens,Pleuronichthys_decurrens,NA,N5
+GS007645,Fishes - Poissons,Pleuronectiformes,Pleuronectidae,Psettichthys melanostictus,Psettichthys_melanostictus,NA,N5
+GS007646,Fishes - Poissons,Pleuronectiformes,Pleuronectidae,Pseudopleuronectes americanus,Pseudopleuronectes_americanus,NA,N5
+GS007647,Fishes - Poissons,Pleuronectiformes,Pleuronectidae,Reinhardtius hippoglossoides,Reinhardtius_hippoglossoides,NA,"N5B,NUN,N4N5M"
+GS007649,Fishes - Poissons,Pleuronectiformes,Scophthalmidae,Scophthalmus aquosus,Scophthalmus_aquosus,NA,N5
+GS007650,Fishes - Poissons,Polymixiiformes,Polymixiidae,Polymixia lowei,Polymixia_lowei,NA,N5
+GS007656,Fishes - Poissons,Rajiformes,Arhynchobatidae,Bathyraja abyssicola,Bathyraja_abyssicola,NA,NU
+GS007658,Fishes - Poissons,Rajiformes,Arhynchobatidae,Bathyraja interrupta,Bathyraja_interrupta,NA,N5
+GS007663,Fishes - Poissons,Rajiformes,Arhynchobatidae,Bathyraja trachura,Bathyraja_trachura,NA,NU
+GS007652,Fishes - Poissons,Rajiformes,Rajidae,Amblyraja badia,Amblyraja_badia,NA,NU
+GS007653,Fishes - Poissons,Rajiformes,Rajidae,Amblyraja hyperborea,Amblyraja_hyperborea,NA,NU
+GS007654,Fishes - Poissons,Rajiformes,Rajidae,Amblyraja jenseni,Amblyraja_jenseni,NA,N5
+GS007655,Fishes - Poissons,Rajiformes,Rajidae,Amblyraja radiata,Amblyraja_radiata,NA,N3
+GS007661,Fishes - Poissons,Rajiformes,Rajidae,Bathyraja richardsoni,Bathyraja_richardsoni,NA,NU
+GS007662,Fishes - Poissons,Rajiformes,Rajidae,Bathyraja spinicauda,Bathyraja_spinicauda,NA,N3
+GS007665,Fishes - Poissons,Rajiformes,Rajidae,Dipturus laevis,Dipturus_laevis,NA,N4N5
+GS007666,Fishes - Poissons,Rajiformes,Rajidae,Dipturus linteus,Dipturus_linteus,NA,NU
+GS007668,Fishes - Poissons,Rajiformes,Rajidae,Leucoraja erinacea,Leucoraja_erinacea,NA,N5
+GS007670,Fishes - Poissons,Rajiformes,Rajidae,Leucoraja ocellata,Leucoraja_ocellata,NA,"N2B,NUN,NNRM"
+GS007671,Fishes - Poissons,Rajiformes,Rajidae,Malacoraja senta,Malacoraja_senta,NA,N3
+GS007672,Fishes - Poissons,Rajiformes,Rajidae,Malacoraja spinacidermis,Malacoraja_spinacidermis,NA,NU
+GS007673,Fishes - Poissons,Rajiformes,Rajidae,Raja binoculata,Raja_binoculata,NA,N5
+GS007674,Fishes - Poissons,Rajiformes,Rajidae,Raja eglanteria,Raja_eglanteria,NA,"NUB,NUN,NUM"
+GS007676,Fishes - Poissons,Rajiformes,Rajidae,Raja rhina,Raja_rhina,NA,N5
+GS007678,Fishes - Poissons,Rajiformes,Rajidae,Rajella bathyphila,Rajella_bathyphila,NA,NU
+GS007679,Fishes - Poissons,Rajiformes,Rajidae,Rajella bigelowi,Rajella_bigelowi,NA,NU
+GS007680,Fishes - Poissons,Rajiformes,Rajidae,Rajella fyllae,Rajella_fyllae,NA,N5
+GS030358,Fishes - Poissons,Saccopharyngiformes,Cyematidae,Cyema atrum,Cyema_atrum,NA,NU
+GS007681,Fishes - Poissons,Saccopharyngiformes,Eurypharyngidae,Eurypharynx pelecanoides,Eurypharynx_pelecanoides,NA,N5
+GS007682,Fishes - Poissons,Saccopharyngiformes,Saccopharyngidae,Saccopharynx ampullaceus,Saccopharynx_ampullaceus,NA,NU
+GS000663,Fishes - Poissons,Salmoniformes,Osmeridae,Hypomesus olidus,Hypomesus_olidus,NA,NU
+GS000664,Fishes - Poissons,Salmoniformes,Osmeridae,Osmerus mordax,Osmerus_mordax,NA,"N5B,N5N,N5M"
+GS000669,Fishes - Poissons,Salmoniformes,Salmonidae,Coregonus artedi,Coregonus_artedi,NA,"N5B,N5N,NUM"
+GS000670,Fishes - Poissons,Salmoniformes,Salmonidae,Coregonus autumnalis,Coregonus_autumnalis,NA,"N3B,N3N,N3M"
+GS000671,Fishes - Poissons,Salmoniformes,Salmonidae,Coregonus clupeaformis,Coregonus_clupeaformis,NA,"N5B,N5N,N5M"
+GS000672,Fishes - Poissons,Salmoniformes,Salmonidae,Coregonus hoyi,Coregonus_hoyi,NA,N4
+GS000673,Fishes - Poissons,Salmoniformes,Salmonidae,Coregonus huntsmani,Coregonus_huntsmani,NA,N1
+GS000675,Fishes - Poissons,Salmoniformes,Salmonidae,Coregonus kiyi,Coregonus_kiyi,NA,N3
+GS000676,Fishes - Poissons,Salmoniformes,Salmonidae,Coregonus laurettae,Coregonus_laurettae,NA,"N3B,N3M"
+GS030360,Fishes - Poissons,Salmoniformes,Salmonidae,Coregonus lavaretus,Coregonus_lavaretus,NA,NU
+GS000677,Fishes - Poissons,Salmoniformes,Salmonidae,Coregonus nasus,Coregonus_nasus,NA,"N5B,N5N,N5M"
+GS000678,Fishes - Poissons,Salmoniformes,Salmonidae,Coregonus nigripinnis,Coregonus_nigripinnis,NA,NU
+GS030361,Fishes - Poissons,Salmoniformes,Salmonidae,Coregonus nipigon,Coregonus_nipigon,NA,NU
+GS000681,Fishes - Poissons,Salmoniformes,Salmonidae,Coregonus sardinella,Coregonus_sardinella,NA,"N5B,N5N,N5M"
+GS000685,Fishes - Poissons,Salmoniformes,Salmonidae,Coregonus zenithicus,Coregonus_zenithicus,NA,N2
+GS000687,Fishes - Poissons,Salmoniformes,Salmonidae,Oncorhynchus clarkii,Oncorhynchus_clarkii,NA,"N4N5B,N5N,N5M"
+GS000688,Fishes - Poissons,Salmoniformes,Salmonidae,Oncorhynchus gorbuscha,Oncorhynchus_gorbuscha,NA,"N5B,N5N,N5M"
+GS000689,Fishes - Poissons,Salmoniformes,Salmonidae,Oncorhynchus keta,Oncorhynchus_keta,NA,"N5B,N5N,N5M"
+GS000690,Fishes - Poissons,Salmoniformes,Salmonidae,Oncorhynchus kisutch,Oncorhynchus_kisutch,NA,"N4N5B,N5N,N5M"
+GS000691,Fishes - Poissons,Salmoniformes,Salmonidae,Oncorhynchus mykiss,Oncorhynchus_mykiss,NA,"N5B,N5N,N5M"
+GS000692,Fishes - Poissons,Salmoniformes,Salmonidae,Oncorhynchus nerka,Oncorhynchus_nerka,NA,"N4N5B,N5N,N5M"
+GS000693,Fishes - Poissons,Salmoniformes,Salmonidae,Oncorhynchus tshawytscha,Oncorhynchus_tshawytscha,NA,"N4N5B,N5N,N5M"
+GS000694,Fishes - Poissons,Salmoniformes,Salmonidae,Prosopium coulterii,Prosopium_coulterii,NA,N5
+GS000695,Fishes - Poissons,Salmoniformes,Salmonidae,Prosopium cylindraceum,Prosopium_cylindraceum,NA,"N5B,N5N,N5M"
+GS000696,Fishes - Poissons,Salmoniformes,Salmonidae,Prosopium williamsoni,Prosopium_williamsoni,NA,N5
+GS000697,Fishes - Poissons,Salmoniformes,Salmonidae,Salmo salar,Salmo_salar,NA,"N4N5B,NUN,NUM"
+GS000698,Fishes - Poissons,Salmoniformes,Salmonidae,Salmo trutta,Salmo_trutta,NA,"NUN,NUM"
+GS000699,Fishes - Poissons,Salmoniformes,Salmonidae,Salvelinus alpinus,Salvelinus_alpinus,NA,"N5B,N5N,N5M"
+GS000700,Fishes - Poissons,Salmoniformes,Salmonidae,Salvelinus confluentus,Salvelinus_confluentus,NA,"N3B,N5N,N5M"
+GS000701,Fishes - Poissons,Salmoniformes,Salmonidae,Salvelinus fontinalis,Salvelinus_fontinalis,NA,"N5B,N5N,N5M"
+GS000702,Fishes - Poissons,Salmoniformes,Salmonidae,Salvelinus malma,Salvelinus_malma,NA,"N4N5B,N5N,N5M"
+GS000703,Fishes - Poissons,Salmoniformes,Salmonidae,Salvelinus namaycush,Salvelinus_namaycush,NA,N5
+GS000704,Fishes - Poissons,Salmoniformes,Salmonidae,Stenodus leucichthys,Stenodus_leucichthys,NA,"N4N5B,N5N,N5M"
+GS000705,Fishes - Poissons,Salmoniformes,Salmonidae,Thymallus arcticus,Thymallus_arcticus,NA,N5
+GS007683,Fishes - Poissons,Scorpaeniformes,Agonidae,Agonopsis vulsa,Agonopsis_vulsa,NA,NU
+GS007684,Fishes - Poissons,Scorpaeniformes,Agonidae,Anoplagonus inermis,Anoplagonus_inermis,NA,NU
+GS007685,Fishes - Poissons,Scorpaeniformes,Agonidae,Aspidophoroides monopterygius,Aspidophoroides_monopterygius,NA,N5
+GS030362,Fishes - Poissons,Scorpaeniformes,Agonidae,Aspidophoroides olrikii,Aspidophoroides_olrikii,NA,NU
+GS007686,Fishes - Poissons,Scorpaeniformes,Agonidae,Bathyagonus alascanus,Bathyagonus_alascanus,NA,NU
+GS007687,Fishes - Poissons,Scorpaeniformes,Agonidae,Bathyagonus infraspinatus,Bathyagonus_infraspinatus,NA,NU
+GS007688,Fishes - Poissons,Scorpaeniformes,Agonidae,Bathyagonus nigripinnis,Bathyagonus_nigripinnis,NA,NU
+GS007689,Fishes - Poissons,Scorpaeniformes,Agonidae,Bathyagonus pentacanthus,Bathyagonus_pentacanthus,NA,NU
+GS007690,Fishes - Poissons,Scorpaeniformes,Agonidae,Bothragonus swanii,Bothragonus_swanii,NA,NU
+GS007691,Fishes - Poissons,Scorpaeniformes,Agonidae,Chesnonia verrucosa,Chesnonia_verrucosa,NA,NU
+GS007692,Fishes - Poissons,Scorpaeniformes,Agonidae,Hypsagonus mozinoi,Hypsagonus_mozinoi,NA,NU
+GS007693,Fishes - Poissons,Scorpaeniformes,Agonidae,Hypsagonus quadricornis,Hypsagonus_quadricornis,NA,NU
+GS007694,Fishes - Poissons,Scorpaeniformes,Agonidae,Leptagonus decagonus,Leptagonus_decagonus,NA,N5
+GS007696,Fishes - Poissons,Scorpaeniformes,Agonidae,Odontopyxis trispinosa,Odontopyxis_trispinosa,NA,NU
+GS007697,Fishes - Poissons,Scorpaeniformes,Agonidae,Pallasina barbata,Pallasina_barbata,NA,NU
+GS007698,Fishes - Poissons,Scorpaeniformes,Agonidae,Podothecus accipenserinus,Podothecus_accipenserinus,NA,N5
+GS007695,Fishes - Poissons,Scorpaeniformes,Agonidae,Sarritor frenatus,Sarritor_frenatus,NA,NU
+GS007699,Fishes - Poissons,Scorpaeniformes,Agonidae,Stellerina xyosterna,Stellerina_xyosterna,NA,NU
+GS007700,Fishes - Poissons,Scorpaeniformes,Agonidae,Ulcina olrikii,Ulcina_olrikii,NA,N5
+GS007701,Fishes - Poissons,Scorpaeniformes,Agonidae,Xeneretmus latifrons,Xeneretmus_latifrons,NA,NU
+GS007702,Fishes - Poissons,Scorpaeniformes,Agonidae,Xeneretmus leiops,Xeneretmus_leiops,NA,NU
+GS007703,Fishes - Poissons,Scorpaeniformes,Agonidae,Xeneretmus triacanthus,Xeneretmus_triacanthus,NA,NU
+GS007704,Fishes - Poissons,Scorpaeniformes,Anoplopomatidae,Anoplopoma fimbria,Anoplopoma_fimbria,NA,"N5B,NNRN,NNRM"
+GS007705,Fishes - Poissons,Scorpaeniformes,Anoplopomatidae,Erilepis zonifer,Erilepis_zonifer,NA,NU
+GS007706,Fishes - Poissons,Scorpaeniformes,Cottidae,Artediellus atlanticus,Artediellus_atlanticus,NA,N5
+GS007707,Fishes - Poissons,Scorpaeniformes,Cottidae,Artediellus scaber,Artediellus_scaber,NA,NU
+GS007708,Fishes - Poissons,Scorpaeniformes,Cottidae,Artediellus uncinatus,Artediellus_uncinatus,NA,N5
+GS007709,Fishes - Poissons,Scorpaeniformes,Cottidae,Artedius fenestralis,Artedius_fenestralis,NA,NU
+GS007710,Fishes - Poissons,Scorpaeniformes,Cottidae,Artedius harringtoni,Artedius_harringtoni,NA,NU
+GS007711,Fishes - Poissons,Scorpaeniformes,Cottidae,Artedius lateralis,Artedius_lateralis,NA,NU
+GS007712,Fishes - Poissons,Scorpaeniformes,Cottidae,Ascelichthys rhodorus,Ascelichthys_rhodorus,NA,NU
+GS007713,Fishes - Poissons,Scorpaeniformes,Cottidae,Asemichthys taylori,Asemichthys_taylori,NA,NU
+GS007714,Fishes - Poissons,Scorpaeniformes,Cottidae,Chitonotus pugetensis,Chitonotus_pugetensis,NA,NU
+GS007715,Fishes - Poissons,Scorpaeniformes,Cottidae,Clinocottus acuticeps,Clinocottus_acuticeps,NA,NU
+GS007716,Fishes - Poissons,Scorpaeniformes,Cottidae,Clinocottus embryum,Clinocottus_embryum,NA,NU
+GS007717,Fishes - Poissons,Scorpaeniformes,Cottidae,Clinocottus globiceps,Clinocottus_globiceps,NA,NU
+GS000706,Fishes - Poissons,Scorpaeniformes,Cottidae,Cottus aleuticus,Cottus_aleuticus,NA,N5
+GS000707,Fishes - Poissons,Scorpaeniformes,Cottidae,Cottus asper,Cottus_asper,NA,N5
+GS000708,Fishes - Poissons,Scorpaeniformes,Cottidae,Cottus bairdii,Cottus_bairdii,NA,N5
+GS000709,Fishes - Poissons,Scorpaeniformes,Cottidae,Cottus cognatus,Cottus_cognatus,NA,N5
+GS000710,Fishes - Poissons,Scorpaeniformes,Cottidae,Cottus confusus,Cottus_confusus,NA,N2N3
+GS007718,Fishes - Poissons,Scorpaeniformes,Cottidae,Cottus hubbsi,Cottus_hubbsi,NA,N3
+GS000711,Fishes - Poissons,Scorpaeniformes,Cottidae,Cottus rhotheus,Cottus_rhotheus,NA,N4
+GS000712,Fishes - Poissons,Scorpaeniformes,Cottidae,Cottus ricei,Cottus_ricei,NA,N5
+GS007719,Fishes - Poissons,Scorpaeniformes,Cottidae,Enophrys bison,Enophrys_bison,NA,NU
+GS007720,Fishes - Poissons,Scorpaeniformes,Cottidae,Enophrys lucasi,Enophrys_lucasi,NA,NU
+GS007721,Fishes - Poissons,Scorpaeniformes,Cottidae,Gymnocanthus galeatus,Gymnocanthus_galeatus,NA,NU
+GS007722,Fishes - Poissons,Scorpaeniformes,Cottidae,Gymnocanthus tricuspis,Gymnocanthus_tricuspis,NA,N5
+GS007723,Fishes - Poissons,Scorpaeniformes,Cottidae,Hemilepidotus hemilepidotus,Hemilepidotus_hemilepidotus,NA,NU
+GS007724,Fishes - Poissons,Scorpaeniformes,Cottidae,Hemilepidotus spinosus,Hemilepidotus_spinosus,NA,NU
+GS007725,Fishes - Poissons,Scorpaeniformes,Cottidae,Icelinus borealis,Icelinus_borealis,NA,NU
+GS007726,Fishes - Poissons,Scorpaeniformes,Cottidae,Icelinus burchami,Icelinus_burchami,NA,NU
+GS007727,Fishes - Poissons,Scorpaeniformes,Cottidae,Icelinus filamentosus,Icelinus_filamentosus,NA,NU
+GS007728,Fishes - Poissons,Scorpaeniformes,Cottidae,Icelinus fimbriatus,Icelinus_fimbriatus,NA,NU
+GS007729,Fishes - Poissons,Scorpaeniformes,Cottidae,Icelinus tenuis,Icelinus_tenuis,NA,NU
+GS007730,Fishes - Poissons,Scorpaeniformes,Cottidae,Icelus bicornis,Icelus_bicornis,NA,N5
+GS007731,Fishes - Poissons,Scorpaeniformes,Cottidae,Icelus spatula,Icelus_spatula,NA,N5
+GS007732,Fishes - Poissons,Scorpaeniformes,Cottidae,Icelus spiniger,Icelus_spiniger,NA,NU
+GS007733,Fishes - Poissons,Scorpaeniformes,Cottidae,Jordania zonope,Jordania_zonope,NA,NU
+GS007734,Fishes - Poissons,Scorpaeniformes,Cottidae,Leptocottus armatus,Leptocottus_armatus,NA,"N5B,NNRN,NNRM"
+GS007736,Fishes - Poissons,Scorpaeniformes,Cottidae,Myoxocephalus aenaeus,Myoxocephalus_aenaeus,NA,N5
+GS007737,Fishes - Poissons,Scorpaeniformes,Cottidae,Myoxocephalus octodecemspinosus,Myoxocephalus_octodecemspinosus,NA,N5
+GS007738,Fishes - Poissons,Scorpaeniformes,Cottidae,Myoxocephalus polyacanthocephalus,Myoxocephalus_polyacanthocephalus,NA,NU
+GS000714,Fishes - Poissons,Scorpaeniformes,Cottidae,Myoxocephalus quadricornis,Myoxocephalus_quadricornis,NA,"N5B,NNRN,NNRM"
+GS007739,Fishes - Poissons,Scorpaeniformes,Cottidae,Myoxocephalus scorpioides,Myoxocephalus_scorpioides,NA,N5
+GS007740,Fishes - Poissons,Scorpaeniformes,Cottidae,Myoxocephalus scorpius,Myoxocephalus_scorpius,NA,N5
+GS000715,Fishes - Poissons,Scorpaeniformes,Cottidae,Myoxocephalus thompsonii,Myoxocephalus_thompsonii,NA,N5
+GS007741,Fishes - Poissons,Scorpaeniformes,Cottidae,Oligocottus maculosus,Oligocottus_maculosus,NA,NU
+GS007742,Fishes - Poissons,Scorpaeniformes,Cottidae,Oligocottus rimensis,Oligocottus_rimensis,NA,NU
+GS007743,Fishes - Poissons,Scorpaeniformes,Cottidae,Oligocottus snyderi,Oligocottus_snyderi,NA,NU
+GS007744,Fishes - Poissons,Scorpaeniformes,Cottidae,Paricelinus hopliticus,Paricelinus_hopliticus,NA,NU
+GS007745,Fishes - Poissons,Scorpaeniformes,Cottidae,Radulinus asprellus,Radulinus_asprellus,NA,NU
+GS007746,Fishes - Poissons,Scorpaeniformes,Cottidae,Radulinus boleoides,Radulinus_boleoides,NA,NU
+GS007747,Fishes - Poissons,Scorpaeniformes,Cottidae,Ruscarius meanyi,Ruscarius_meanyi,NA,NU
+GS007748,Fishes - Poissons,Scorpaeniformes,Cottidae,Scorpaenichthys marmoratus,Scorpaenichthys_marmoratus,NA,NU
+GS007749,Fishes - Poissons,Scorpaeniformes,Cottidae,Synchirus gilli,Synchirus_gilli,NA,NU
+GS007750,Fishes - Poissons,Scorpaeniformes,Cottidae,Triglops macellus,Triglops_macellus,NA,NU
+GS007751,Fishes - Poissons,Scorpaeniformes,Cottidae,Triglops murrayi,Triglops_murrayi,NA,N5
+GS007752,Fishes - Poissons,Scorpaeniformes,Cottidae,Triglops nybelini,Triglops_nybelini,NA,N5
+GS007753,Fishes - Poissons,Scorpaeniformes,Cottidae,Triglops pingelii,Triglops_pingelii,NA,N5
+GS030363,Fishes - Poissons,Scorpaeniformes,Cottidae,Zesticelus profundorum,Zesticelus_profundorum,NA,NU
+GS007754,Fishes - Poissons,Scorpaeniformes,Cyclopteridae,Aptocyclus ventricosus,Aptocyclus_ventricosus,NA,"NUN,NUM"
+GS007755,Fishes - Poissons,Scorpaeniformes,Cyclopteridae,Cyclopteropsis jordani,Cyclopteropsis_jordani,NA,NU
+GS030364,Fishes - Poissons,Scorpaeniformes,Cyclopteridae,Cyclopteropsis mcalpini,Cyclopteropsis_mcalpini,NA,NU
+GS007756,Fishes - Poissons,Scorpaeniformes,Cyclopteridae,Cyclopterus lumpus,Cyclopterus_lumpus,NA,N5
+GS007757,Fishes - Poissons,Scorpaeniformes,Cyclopteridae,Eumicrotremus derjugini,Eumicrotremus_derjugini,NA,NU
+GS007758,Fishes - Poissons,Scorpaeniformes,Cyclopteridae,Eumicrotremus orbis,Eumicrotremus_orbis,NA,NU
+GS007759,Fishes - Poissons,Scorpaeniformes,Cyclopteridae,Eumicrotremus spinosus,Eumicrotremus_spinosus,NA,N5
+GS007760,Fishes - Poissons,Scorpaeniformes,Cyclopteridae,Eumicrotremus terraenovae,Eumicrotremus_terraenovae,NA,NU
+GS007761,Fishes - Poissons,Scorpaeniformes,Dactylopteridae,Dactylopterus volitans,Dactylopterus_volitans,NA,NU
+GS007762,Fishes - Poissons,Scorpaeniformes,Hemitripteridae,Blepsias bilobus,Blepsias_bilobus,NA,NU
+GS007763,Fishes - Poissons,Scorpaeniformes,Hemitripteridae,Blepsias cirrhosus,Blepsias_cirrhosus,NA,NU
+GS007764,Fishes - Poissons,Scorpaeniformes,Hemitripteridae,Hemitripterus americanus,Hemitripterus_americanus,NA,N5
+GS007765,Fishes - Poissons,Scorpaeniformes,Hemitripteridae,Hemitripterus bolini,Hemitripterus_bolini,NA,NU
+GS007766,Fishes - Poissons,Scorpaeniformes,Hemitripteridae,Nautichthys oculofasciatus,Nautichthys_oculofasciatus,NA,NU
+GS007767,Fishes - Poissons,Scorpaeniformes,Hemitripteridae,Nautichthys robustus,Nautichthys_robustus,NA,NU
+GS007768,Fishes - Poissons,Scorpaeniformes,Hexagrammidae,Hexagrammos decagrammus,Hexagrammos_decagrammus,NA,N5
+GS007769,Fishes - Poissons,Scorpaeniformes,Hexagrammidae,Hexagrammos lagocephalus,Hexagrammos_lagocephalus,NA,NU
+GS007770,Fishes - Poissons,Scorpaeniformes,Hexagrammidae,Hexagrammos octogrammus,Hexagrammos_octogrammus,NA,NU
+GS007771,Fishes - Poissons,Scorpaeniformes,Hexagrammidae,Hexagrammos stelleri,Hexagrammos_stelleri,NA,N5
+GS007772,Fishes - Poissons,Scorpaeniformes,Hexagrammidae,Ophiodon elongatus,Ophiodon_elongatus,NA,"N5B,NNRN,NNRM"
+GS007773,Fishes - Poissons,Scorpaeniformes,Hexagrammidae,Oxylebius pictus,Oxylebius_pictus,NA,N5
+GS007775,Fishes - Poissons,Scorpaeniformes,Hexagrammidae,Zaniolepis latipinnis,Zaniolepis_latipinnis,NA,NU
+GS007776,Fishes - Poissons,Scorpaeniformes,Liparidae,Acantholiparis caecus,Acantholiparis_caecus,NA,NU
+GS007777,Fishes - Poissons,Scorpaeniformes,Liparidae,Acantholiparis opercularis,Acantholiparis_opercularis,NA,NU
+GS030365,Fishes - Poissons,Scorpaeniformes,Liparidae,Careproctus colletti,Careproctus_colletti,NA,NU
+GS007778,Fishes - Poissons,Scorpaeniformes,Liparidae,Careproctus cypselurus,Careproctus_cypselurus,NA,NU
+GS030366,Fishes - Poissons,Scorpaeniformes,Liparidae,Careproctus furcellus,Careproctus_furcellus,NA,NU
+GS007779,Fishes - Poissons,Scorpaeniformes,Liparidae,Careproctus gilberti,Careproctus_gilberti,NA,NU
+GS007780,Fishes - Poissons,Scorpaeniformes,Liparidae,Careproctus longipinnis,Careproctus_longipinnis,NA,NU
+GS007781,Fishes - Poissons,Scorpaeniformes,Liparidae,Careproctus melanurus,Careproctus_melanurus,NA,NU
+GS030367,Fishes - Poissons,Scorpaeniformes,Liparidae,Careproctus micropus,Careproctus_micropus,NA,NU
+GS007782,Fishes - Poissons,Scorpaeniformes,Liparidae,Careproctus oregonensis,Careproctus_oregonensis,NA,NU
+GS007783,Fishes - Poissons,Scorpaeniformes,Liparidae,Careproctus ovigerus,Careproctus_ovigerus,NA,NU
+GS007784,Fishes - Poissons,Scorpaeniformes,Liparidae,Careproctus ranula,Careproctus_ranula,NA,N5
+GS007785,Fishes - Poissons,Scorpaeniformes,Liparidae,Careproctus reinhardti,Careproctus_reinhardti,NA,NU
+GS007786,Fishes - Poissons,Scorpaeniformes,Liparidae,Elassodiscus caudatus,Elassodiscus_caudatus,NA,NU
+GS030368,Fishes - Poissons,Scorpaeniformes,Liparidae,Elassodiscus tremebundus,Elassodiscus_tremebundus,NA,NU
+GS007787,Fishes - Poissons,Scorpaeniformes,Liparidae,Liparis atlanticus,Liparis_atlanticus,NA,N5
+GS007788,Fishes - Poissons,Scorpaeniformes,Liparidae,Liparis callyodon,Liparis_callyodon,NA,NU
+GS007789,Fishes - Poissons,Scorpaeniformes,Liparidae,Liparis coheni,Liparis_coheni,NA,N5
+GS007790,Fishes - Poissons,Scorpaeniformes,Liparidae,Liparis cyclopus,Liparis_cyclopus,NA,NU
+GS007791,Fishes - Poissons,Scorpaeniformes,Liparidae,Liparis dennyi,Liparis_dennyi,NA,NU
+GS007792,Fishes - Poissons,Scorpaeniformes,Liparidae,Liparis fabricii,Liparis_fabricii,NA,N5
+GS007793,Fishes - Poissons,Scorpaeniformes,Liparidae,Liparis florae,Liparis_florae,NA,NU
+GS007794,Fishes - Poissons,Scorpaeniformes,Liparidae,Liparis fucensis,Liparis_fucensis,NA,NU
+GS007795,Fishes - Poissons,Scorpaeniformes,Liparidae,Liparis gibbus,Liparis_gibbus,NA,N5
+GS007796,Fishes - Poissons,Scorpaeniformes,Liparidae,Liparis greeni,Liparis_greeni,NA,NU
+GS007797,Fishes - Poissons,Scorpaeniformes,Liparidae,Liparis inquilinus,Liparis_inquilinus,NA,N5
+GS030369,Fishes - Poissons,Scorpaeniformes,Liparidae,Liparis liparis,Liparis_liparis,NA,NU
+GS007798,Fishes - Poissons,Scorpaeniformes,Liparidae,Liparis mucosus,Liparis_mucosus,NA,NU
+GS007799,Fishes - Poissons,Scorpaeniformes,Liparidae,Liparis pulchellus,Liparis_pulchellus,NA,NU
+GS007800,Fishes - Poissons,Scorpaeniformes,Liparidae,Liparis rutteri,Liparis_rutteri,NA,NU
+GS007801,Fishes - Poissons,Scorpaeniformes,Liparidae,Liparis tunicatus,Liparis_tunicatus,NA,N5
+GS007802,Fishes - Poissons,Scorpaeniformes,Liparidae,Lipariscus nanus,Lipariscus_nanus,NA,NU
+GS007803,Fishes - Poissons,Scorpaeniformes,Liparidae,Nectoliparis pelagicus,Nectoliparis_pelagicus,NA,NU
+GS007804,Fishes - Poissons,Scorpaeniformes,Liparidae,Osteodiscus cascadiae,Osteodiscus_cascadiae,NA,NU
+GS007805,Fishes - Poissons,Scorpaeniformes,Liparidae,Paraliparis bathybius,Paraliparis_bathybius,NA,NU
+GS007806,Fishes - Poissons,Scorpaeniformes,Liparidae,Paraliparis calidus,Paraliparis_calidus,NA,N5
+GS007807,Fishes - Poissons,Scorpaeniformes,Liparidae,Paraliparis cephalus,Paraliparis_cephalus,NA,NU
+GS007808,Fishes - Poissons,Scorpaeniformes,Liparidae,Paraliparis copei,Paraliparis_copei,NA,N5
+GS007809,Fishes - Poissons,Scorpaeniformes,Liparidae,Paraliparis deani,Paraliparis_deani,NA,NU
+GS007810,Fishes - Poissons,Scorpaeniformes,Liparidae,Paraliparis garmani,Paraliparis_garmani,NA,NU
+GS007811,Fishes - Poissons,Scorpaeniformes,Liparidae,Paraliparis latifrons,Paraliparis_latifrons,NA,NU
+GS007812,Fishes - Poissons,Scorpaeniformes,Liparidae,Paraliparis melanobranchus,Paraliparis_melanobranchus,NA,NU
+GS007813,Fishes - Poissons,Scorpaeniformes,Liparidae,Paraliparis paucidens,Paraliparis_paucidens,NA,NU
+GS007814,Fishes - Poissons,Scorpaeniformes,Liparidae,Paraliparis pectoralis,Paraliparis_pectoralis,NA,NU
+GS007815,Fishes - Poissons,Scorpaeniformes,Liparidae,Paraliparis rosaceus,Paraliparis_rosaceus,NA,NU
+GS030371,Fishes - Poissons,Scorpaeniformes,Liparidae,Paraliparis ulochir,Paraliparis_ulochir,NA,NU
+GS007816,Fishes - Poissons,Scorpaeniformes,Liparidae,Paraliparis vaillanti,Paraliparis_vaillanti,NA,NU
+GS007819,Fishes - Poissons,Scorpaeniformes,Liparidae,Psednos harteli,Psednos_harteli,NA,NU
+GS007821,Fishes - Poissons,Scorpaeniformes,Liparidae,Rhinoliparis attenuatus,Rhinoliparis_attenuatus,NA,NU
+GS007822,Fishes - Poissons,Scorpaeniformes,Liparidae,Rhodichthys regina,Rhodichthys_regina,NA,NU
+GS007823,Fishes - Poissons,Scorpaeniformes,Peristediidae,Peristedion gracile,Peristedion_gracile,NA,NU
+GS007825,Fishes - Poissons,Scorpaeniformes,Psychrolutidae,Cottunculus microps,Cottunculus_microps,NA,N5
+GS007826,Fishes - Poissons,Scorpaeniformes,Psychrolutidae,Cottunculus thomsonii,Cottunculus_thomsonii,NA,N5
+GS007827,Fishes - Poissons,Scorpaeniformes,Psychrolutidae,Dasycottus setiger,Dasycottus_setiger,NA,NU
+GS007735,Fishes - Poissons,Scorpaeniformes,Psychrolutidae,Malacocottus aleuticus,Malacocottus_aleuticus,NA,NU
+GS007828,Fishes - Poissons,Scorpaeniformes,Psychrolutidae,Malacocottus kincaidi,Malacocottus_kincaidi,NA,NU
+GS007829,Fishes - Poissons,Scorpaeniformes,Psychrolutidae,Malacocottus zonurus,Malacocottus_zonurus,NA,NU
+GS007830,Fishes - Poissons,Scorpaeniformes,Psychrolutidae,Psychrolutes paradoxus,Psychrolutes_paradoxus,NA,NU
+GS007831,Fishes - Poissons,Scorpaeniformes,Psychrolutidae,Psychrolutes phrictus,Psychrolutes_phrictus,NA,NU
+GS007832,Fishes - Poissons,Scorpaeniformes,Psychrolutidae,Psychrolutes sigalutes,Psychrolutes_sigalutes,NA,NU
+GS007833,Fishes - Poissons,Scorpaeniformes,Rhamphocottidae,Rhamphocottus richardsonii,Rhamphocottus_richardsonii,NA,NU
+GS007835,Fishes - Poissons,Scorpaeniformes,Scorpaenidae,Sebastes aleutianus,Sebastes_aleutianus,NA,N3
+GS007836,Fishes - Poissons,Scorpaeniformes,Scorpaenidae,Sebastes alutus,Sebastes_alutus,NA,N3
+GS007837,Fishes - Poissons,Scorpaeniformes,Scorpaenidae,Sebastes auriculatus,Sebastes_auriculatus,NA,NU
+GS007838,Fishes - Poissons,Scorpaeniformes,Scorpaenidae,Sebastes aurora,Sebastes_aurora,NA,NU
+GS007839,Fishes - Poissons,Scorpaeniformes,Scorpaenidae,Sebastes babcocki,Sebastes_babcocki,NA,N3
+GS007840,Fishes - Poissons,Scorpaeniformes,Scorpaenidae,Sebastes borealis,Sebastes_borealis,NA,N3
+GS007841,Fishes - Poissons,Scorpaeniformes,Scorpaenidae,Sebastes brevispinis,Sebastes_brevispinis,NA,N3
+GS007842,Fishes - Poissons,Scorpaeniformes,Scorpaenidae,Sebastes caurinus,Sebastes_caurinus,NA,N3
+GS007844,Fishes - Poissons,Scorpaeniformes,Scorpaenidae,Sebastes ciliatus,Sebastes_ciliatus,NA,NU
+GS007845,Fishes - Poissons,Scorpaeniformes,Scorpaenidae,Sebastes crameri,Sebastes_crameri,NA,N3
+GS007846,Fishes - Poissons,Scorpaeniformes,Scorpaenidae,Sebastes diploproa,Sebastes_diploproa,NA,N5
+GS007847,Fishes - Poissons,Scorpaeniformes,Scorpaenidae,Sebastes elongatus,Sebastes_elongatus,NA,N5
+GS007848,Fishes - Poissons,Scorpaeniformes,Scorpaenidae,Sebastes emphaeus,Sebastes_emphaeus,NA,NU
+GS007849,Fishes - Poissons,Scorpaeniformes,Scorpaenidae,Sebastes entomelas,Sebastes_entomelas,NA,N3
+GS007850,Fishes - Poissons,Scorpaeniformes,Scorpaenidae,Sebastes fasciatus,Sebastes_fasciatus,NA,N4
+GS007851,Fishes - Poissons,Scorpaeniformes,Scorpaenidae,Sebastes flavidus,Sebastes_flavidus,NA,N3
+GS007852,Fishes - Poissons,Scorpaeniformes,Scorpaenidae,Sebastes goodei,Sebastes_goodei,NA,NU
+GS007853,Fishes - Poissons,Scorpaeniformes,Scorpaenidae,Sebastes helvomaculatus,Sebastes_helvomaculatus,NA,NU
+GS007854,Fishes - Poissons,Scorpaeniformes,Scorpaenidae,Sebastes jordani,Sebastes_jordani,NA,NU
+GS007855,Fishes - Poissons,Scorpaeniformes,Scorpaenidae,Sebastes maliger,Sebastes_maliger,NA,N1N2
+GS007856,Fishes - Poissons,Scorpaeniformes,Scorpaenidae,Sebastes melanops,Sebastes_melanops,NA,NU
+GS030372,Fishes - Poissons,Scorpaeniformes,Scorpaenidae,Sebastes melanostictus,Sebastes_melanostictus,NA,N3
+GS007857,Fishes - Poissons,Scorpaeniformes,Scorpaenidae,Sebastes melanostomus,Sebastes_melanostomus,NA,NU
+GS007858,Fishes - Poissons,Scorpaeniformes,Scorpaenidae,Sebastes mentella,Sebastes_mentella,NA,N2
+GS007859,Fishes - Poissons,Scorpaeniformes,Scorpaenidae,Sebastes miniatus,Sebastes_miniatus,NA,NU
+GS007860,Fishes - Poissons,Scorpaeniformes,Scorpaenidae,Sebastes mystinus,Sebastes_mystinus,NA,NU
+GS007861,Fishes - Poissons,Scorpaeniformes,Scorpaenidae,Sebastes nebulosus,Sebastes_nebulosus,NA,N3
+GS007862,Fishes - Poissons,Scorpaeniformes,Scorpaenidae,Sebastes nigrocinctus,Sebastes_nigrocinctus,NA,N3
+GS007863,Fishes - Poissons,Scorpaeniformes,Scorpaenidae,Sebastes norvegicus,Sebastes_norvegicus,NA,NU
+GS007864,Fishes - Poissons,Scorpaeniformes,Scorpaenidae,Sebastes paucispinis,Sebastes_paucispinis,NA,N1N2
+GS007865,Fishes - Poissons,Scorpaeniformes,Scorpaenidae,Sebastes pinniger,Sebastes_pinniger,NA,N2
+GS007867,Fishes - Poissons,Scorpaeniformes,Scorpaenidae,Sebastes proriger,Sebastes_proriger,NA,N5
+GS007868,Fishes - Poissons,Scorpaeniformes,Scorpaenidae,Sebastes reedi,Sebastes_reedi,NA,N2
+GS007869,Fishes - Poissons,Scorpaeniformes,Scorpaenidae,Sebastes ruberrimus,Sebastes_ruberrimus,NA,N3
+GS007871,Fishes - Poissons,Scorpaeniformes,Scorpaenidae,Sebastes saxicola,Sebastes_saxicola,NA,NU
+GS007872,Fishes - Poissons,Scorpaeniformes,Scorpaenidae,Sebastes variabilis,Sebastes_variabilis,NA,NU
+GS007873,Fishes - Poissons,Scorpaeniformes,Scorpaenidae,Sebastes variegatus,Sebastes_variegatus,NA,NU
+GS007874,Fishes - Poissons,Scorpaeniformes,Scorpaenidae,Sebastes wilsoni,Sebastes_wilsoni,NA,NU
+GS007875,Fishes - Poissons,Scorpaeniformes,Scorpaenidae,Sebastes zacentrus,Sebastes_zacentrus,NA,NU
+GS007876,Fishes - Poissons,Scorpaeniformes,Scorpaenidae,Sebastolobus alascanus,Sebastolobus_alascanus,NA,N3
+GS007877,Fishes - Poissons,Scorpaeniformes,Scorpaenidae,Sebastolobus altivelis,Sebastolobus_altivelis,NA,N3
+GS007878,Fishes - Poissons,Scorpaeniformes,Sebastidae,Helicolenus dactylopterus,Helicolenus_dactylopterus,NA,N5
+GS030373,Fishes - Poissons,Scorpaeniformes,Triglidae,Prionotus alatus,Prionotus_alatus,NA,NU
+GS030374,Fishes - Poissons,Scorpaeniformes ,Psychrolutidae,Cottunculus sadko,Cottunculus_sadko,NA,NU
+GS000716,Fishes - Poissons,Siluriformes,Ictaluridae,Ameiurus melas,Ameiurus_melas,NA,N5
+GS000717,Fishes - Poissons,Siluriformes,Ictaluridae,Ameiurus natalis,Ameiurus_natalis,NA,N4N5
+GS000718,Fishes - Poissons,Siluriformes,Ictaluridae,Ameiurus nebulosus,Ameiurus_nebulosus,NA,N5
+GS000719,Fishes - Poissons,Siluriformes,Ictaluridae,Ictalurus punctatus,Ictalurus_punctatus,NA,N5
+GS000720,Fishes - Poissons,Siluriformes,Ictaluridae,Noturus flavus,Noturus_flavus,NA,N5
+GS000721,Fishes - Poissons,Siluriformes,Ictaluridae,Noturus gyrinus,Noturus_gyrinus,NA,N5
+GS000722,Fishes - Poissons,Siluriformes,Ictaluridae,Noturus insignis,Noturus_insignis,NA,NU
+GS000723,Fishes - Poissons,Siluriformes,Ictaluridae,Noturus miurus,Noturus_miurus,NA,N3
+GS000724,Fishes - Poissons,Siluriformes,Ictaluridae,Noturus stigmosus,Noturus_stigmosus,NA,N1
+GS000725,Fishes - Poissons,Siluriformes,Ictaluridae,Pylodictis olivaris,Pylodictis_olivaris,NA,NU
+GS007883,Fishes - Poissons,Squaliformes,Dalatiidae,Centroscyllium fabricii,Centroscyllium_fabricii,NA,N5
+GS007884,Fishes - Poissons,Squaliformes,Dalatiidae,Centroscymnus coelolepis,Centroscymnus_coelolepis,NA,NU
+GS007886,Fishes - Poissons,Squaliformes,Dalatiidae,Etmopterus gracilispinis,Etmopterus_gracilispinis,NA,NU
+GS007887,Fishes - Poissons,Squaliformes,Dalatiidae,Etmopterus princeps,Etmopterus_princeps,NA,N4
+GS007888,Fishes - Poissons,Squaliformes,Dalatiidae,Somniosus microcephalus,Somniosus_microcephalus,NA,N4N5
+GS007890,Fishes - Poissons,Squaliformes,Dalatiidae,Squaliolus laticaudus,Squaliolus_laticaudus,NA,NU
+GS007889,Fishes - Poissons,Squaliformes,Somniosidae,Somniosus pacificus,Somniosus_pacificus,NA,NU
+GS007892,Fishes - Poissons,Squaliformes,Squalidae,Squalus acanthias,Squalus_acanthias,NA,"N5B,NUN,NNRM"
+GS030375,Fishes - Poissons,Squaliformes,Squalidae,Squalus suckleyi,Squalus_suckleyi,NA,"N5B,NNRN,NNRM"
+GS030376,Fishes - Poissons,Squaliformes ,Etmopteridae,Etmopterus spinax,Etmopterus_spinax,NA,NU
+GS007893,Fishes - Poissons,Stephanoberyciformes,Barbourisiidae,Barbourisia rufa,Barbourisia_rufa,NA,NU
+GS007894,Fishes - Poissons,Stephanoberyciformes,Cetomimidae,Cetostoma regani,Cetostoma_regani,NA,NU
+GS007896,Fishes - Poissons,Stephanoberyciformes,Melamphaidae,Melamphaes longivelis,Melamphaes_longivelis,NA,NU
+GS007900,Fishes - Poissons,Stephanoberyciformes,Melamphaidae,Melamphaes simus,Melamphaes_simus,NA,NU
+GS007901,Fishes - Poissons,Stephanoberyciformes,Melamphaidae,Melamphaes suborbitalis,Melamphaes_suborbitalis,NA,N5
+GS007902,Fishes - Poissons,Stephanoberyciformes,Melamphaidae,Melamphaes typhlops,Melamphaes_typhlops,NA,N5
+GS007903,Fishes - Poissons,Stephanoberyciformes,Melamphaidae,Poromitra capito,Poromitra_capito,NA,N5
+GS007904,Fishes - Poissons,Stephanoberyciformes,Melamphaidae,Poromitra crassiceps,Poromitra_crassiceps,NA,NU
+GS007905,Fishes - Poissons,Stephanoberyciformes,Melamphaidae,Poromitra megalops,Poromitra_megalops,NA,NU
+GS030377,Fishes - Poissons,Stephanoberyciformes,Melamphaidae,Poromitra nigriceps,Poromitra_nigriceps,NA,NU
+GS007906,Fishes - Poissons,Stephanoberyciformes,Melamphaidae,Scopeloberyx opisthopterus,Scopeloberyx_opisthopterus,NA,N5
+GS007907,Fishes - Poissons,Stephanoberyciformes,Melamphaidae,Scopeloberyx robustus,Scopeloberyx_robustus,NA,NU
+GS007909,Fishes - Poissons,Stephanoberyciformes,Melamphaidae,Scopelogadus beanii,Scopelogadus_beanii,NA,N5
+GS007910,Fishes - Poissons,Stephanoberyciformes,Melamphaidae,Scopelogadus mizolepis,Scopelogadus_mizolepis,NA,NU
+GS007895,Fishes - Poissons,Stephanoberyciformes,Melamphaidae ,Melamphaes lugubris,Melamphaes_lugubris,NA,NU
+GS007911,Fishes - Poissons,Stephanoberyciformes,Rondeletiidae,Rondeletia loricata,Rondeletia_loricata,NA,NU
+GS007912,Fishes - Poissons,Stomiiformes,Gonostomatidae,Bonapartia pedaliota,Bonapartia_pedaliota,NA,NU
+GS007913,Fishes - Poissons,Stomiiformes,Gonostomatidae,Cyclothone acclinidens,Cyclothone_acclinidens,NA,NU
+GS007914,Fishes - Poissons,Stomiiformes,Gonostomatidae,Cyclothone alba,Cyclothone_alba,NA,NU
+GS007915,Fishes - Poissons,Stomiiformes,Gonostomatidae,Cyclothone atraria,Cyclothone_atraria,NA,NU
+GS007916,Fishes - Poissons,Stomiiformes,Gonostomatidae,Cyclothone braueri,Cyclothone_braueri,NA,N5
+GS007917,Fishes - Poissons,Stomiiformes,Gonostomatidae,Cyclothone microdon,Cyclothone_microdon,NA,N5
+GS007918,Fishes - Poissons,Stomiiformes,Gonostomatidae,Cyclothone pallida,Cyclothone_pallida,NA,NU
+GS007919,Fishes - Poissons,Stomiiformes,Gonostomatidae,Cyclothone pseudopallida,Cyclothone_pseudopallida,NA,NU
+GS007920,Fishes - Poissons,Stomiiformes,Gonostomatidae,Cyclothone signata,Cyclothone_signata,NA,NU
+GS007921,Fishes - Poissons,Stomiiformes,Gonostomatidae,Diplophos taenia,Diplophos_taenia,NA,NU
+GS007922,Fishes - Poissons,Stomiiformes,Gonostomatidae,Gonostoma atlanticum,Gonostoma_atlanticum,NA,NU
+GS007923,Fishes - Poissons,Stomiiformes,Gonostomatidae,Gonostoma bathyphilum,Gonostoma_bathyphilum,NA,NU
+GS007925,Fishes - Poissons,Stomiiformes,Gonostomatidae,Gonostoma elongatum,Gonostoma_elongatum,NA,N5
+GS007927,Fishes - Poissons,Stomiiformes,Gonostomatidae,Margrethia obtusirostra,Margrethia_obtusirostra,NA,N5
+GS007928,Fishes - Poissons,Stomiiformes,Phosichthyidae,Ichthyococcus elongatus,Ichthyococcus_elongatus,NA,NU
+GS007929,Fishes - Poissons,Stomiiformes,Phosichthyidae,Ichthyococcus ovatus,Ichthyococcus_ovatus,NA,NU
+GS007930,Fishes - Poissons,Stomiiformes,Phosichthyidae,Pollichthys mauli,Pollichthys_mauli,NA,N5
+GS007932,Fishes - Poissons,Stomiiformes,Phosichthyidae,Polymetme thaeocoryla,Polymetme_thaeocoryla,NA,NU
+GS007933,Fishes - Poissons,Stomiiformes,Phosichthyidae,Vinciguerria attenuata,Vinciguerria_attenuata,NA,N5
+GS007934,Fishes - Poissons,Stomiiformes,Phosichthyidae,Vinciguerria nimbaria,Vinciguerria_nimbaria,NA,N5
+GS007935,Fishes - Poissons,Stomiiformes,Phosichthyidae,Vinciguerria poweriae,Vinciguerria_poweriae,NA,N5
+GS007936,Fishes - Poissons,Stomiiformes,Sternoptychidae,Argyropelecus aculeatus,Argyropelecus_aculeatus,NA,N5
+GS007937,Fishes - Poissons,Stomiiformes,Sternoptychidae,Argyropelecus affinis,Argyropelecus_affinis,NA,NU
+GS007938,Fishes - Poissons,Stomiiformes,Sternoptychidae,Argyropelecus gigas,Argyropelecus_gigas,NA,N5
+GS007939,Fishes - Poissons,Stomiiformes,Sternoptychidae,Argyropelecus hemigymnus,Argyropelecus_hemigymnus,NA,N5
+GS007941,Fishes - Poissons,Stomiiformes,Sternoptychidae,Argyropelecus olfersii,Argyropelecus_olfersii,NA,NU
+GS007942,Fishes - Poissons,Stomiiformes,Sternoptychidae,Argyropelecus sladeni,Argyropelecus_sladeni,NA,NU
+GS007943,Fishes - Poissons,Stomiiformes,Sternoptychidae,Danaphos oculatus,Danaphos_oculatus,NA,NU
+GS007945,Fishes - Poissons,Stomiiformes,Sternoptychidae,Maurolicus weitzmani,Maurolicus_weitzmani,NA,N5
+GS007946,Fishes - Poissons,Stomiiformes,Sternoptychidae,Polyipnus asteroides,Polyipnus_asteroides,NA,NU
+GS007947,Fishes - Poissons,Stomiiformes,Sternoptychidae,Polyipnus clarus,Polyipnus_clarus,NA,N5
+GS007948,Fishes - Poissons,Stomiiformes,Sternoptychidae,Sternoptyx diaphana,Sternoptyx_diaphana,NA,N5
+GS007949,Fishes - Poissons,Stomiiformes,Sternoptychidae,Sternoptyx pseudobscura,Sternoptyx_pseudobscura,NA,NU
+GS007950,Fishes - Poissons,Stomiiformes,Sternoptychidae,Valenciennellus tripunctulatus,Valenciennellus_tripunctulatus,NA,N5
+GS007954,Fishes - Poissons,Stomiiformes,Stomiidae,Aristostomias scintillans,Aristostomias_scintillans,NA,NU
+GS007955,Fishes - Poissons,Stomiiformes,Stomiidae,Aristostomias tittmanni,Aristostomias_tittmanni,NA,NU
+GS007961,Fishes - Poissons,Stomiiformes,Stomiidae,Astronesthes niger,Astronesthes_niger,NA,NU
+GS007965,Fishes - Poissons,Stomiiformes,Stomiidae,Bathophilus flemingi,Bathophilus_flemingi,NA,NU
+GS007969,Fishes - Poissons,Stomiiformes,Stomiidae,Bathophilus vaillanti,Bathophilus_vaillanti,NA,NU
+GS007970,Fishes - Poissons,Stomiiformes,Stomiidae,Borostomias antarcticus,Borostomias_antarcticus,NA,N5
+GS007971,Fishes - Poissons,Stomiiformes,Stomiidae,Chauliodus danae,Chauliodus_danae,NA,N5
+GS007972,Fishes - Poissons,Stomiiformes,Stomiidae,Chauliodus macouni,Chauliodus_macouni,NA,N5
+GS007973,Fishes - Poissons,Stomiiformes,Stomiidae,Chauliodus sloani,Chauliodus_sloani,NA,N5
+GS007974,Fishes - Poissons,Stomiiformes,Stomiidae,Chirostomias pliopterus,Chirostomias_pliopterus,NA,NU
+GS007975,Fishes - Poissons,Stomiiformes,Stomiidae,Echiostoma barbatum,Echiostoma_barbatum,NA,NU
+GS030379,Fishes - Poissons,Stomiiformes,Stomiidae,Eustomias bibulbosus,Eustomias_bibulbosus,NA,NU
+GS007978,Fishes - Poissons,Stomiiformes,Stomiidae,Eustomias borealis,Eustomias_borealis,NA,NU
+GS007983,Fishes - Poissons,Stomiiformes,Stomiidae,Eustomias filifer,Eustomias_filifer,NA,NU
+GS030380,Fishes - Poissons,Stomiiformes,Stomiidae,Eustomias jimcraddocki,Eustomias_jimcraddocki,NA,NU
+GS007987,Fishes - Poissons,Stomiiformes,Stomiidae,Eustomias obscurus,Eustomias_obscurus,NA,NU
+GS030381,Fishes - Poissons,Stomiiformes,Stomiidae,Eustomias satterleei,Eustomias_satterleei,NA,NU
+GS007989,Fishes - Poissons,Stomiiformes,Stomiidae,Eustomias schmidti,Eustomias_schmidti,NA,NU
+GS007992,Fishes - Poissons,Stomiiformes,Stomiidae,Flagellostomias boureei,Flagellostomias_boureei,NA,NU
+GS007994,Fishes - Poissons,Stomiiformes,Stomiidae,Idiacanthus antrostomus,Idiacanthus_antrostomus,NA,NU
+GS007995,Fishes - Poissons,Stomiiformes,Stomiidae,Idiacanthus fasciola,Idiacanthus_fasciola,NA,N5
+GS030383,Fishes - Poissons,Stomiiformes,Stomiidae,Leptostomias gladiator,Leptostomias_gladiator,NA,NU
+GS007996,Fishes - Poissons,Stomiiformes,Stomiidae,Malacosteus niger,Malacosteus_niger,NA,N5
+GS007997,Fishes - Poissons,Stomiiformes,Stomiidae,Melanostomias bartonbeani,Melanostomias_bartonbeani,NA,N5
+GS007998,Fishes - Poissons,Stomiiformes,Stomiidae,Melanostomias valdiviae,Melanostomias_valdiviae,NA,NU
+GS007999,Fishes - Poissons,Stomiiformes,Stomiidae,Neonesthes capensis,Neonesthes_capensis,NA,NU
+GS008000,Fishes - Poissons,Stomiiformes,Stomiidae,Opostomias mitsuii,Opostomias_mitsuii,NA,NU
+GS008001,Fishes - Poissons,Stomiiformes,Stomiidae,Pachystomias microdon,Pachystomias_microdon,NA,NU
+GS008003,Fishes - Poissons,Stomiiformes,Stomiidae,Photonectes margarita,Photonectes_margarita,NA,N5
+GS008005,Fishes - Poissons,Stomiiformes,Stomiidae,Photostomias guernei,Photostomias_guernei,NA,N5
+GS008009,Fishes - Poissons,Stomiiformes,Stomiidae,Stomias boa,Stomias_boa,NA,N5
+GS008010,Fishes - Poissons,Stomiiformes,Stomiidae,Stomias brevibarbatus,Stomias_brevibarbatus,NA,NU
+GS008012,Fishes - Poissons,Stomiiformes,Stomiidae,Tactostoma macropus,Tactostoma_macropus,NA,N5
+GS008013,Fishes - Poissons,Stomiiformes,Stomiidae,Trigonolampa miriceps,Trigonolampa_miriceps,NA,NU
+GS008019,Fishes - Poissons,Tetraodontiformes,Molidae,Mola mola,Mola_mola,NA,"N5N,N5M"
+GS008021,Fishes - Poissons,Tetraodontiformes,Monocanthidae,Aluterus scriptus,Aluterus_scriptus,NA,NU
+GS008027,Fishes - Poissons,Torpediniformes,Torpedinidae,Torpedo nobiliana,Torpedo_nobiliana,NA,N5
+GS008033,Fishes - Poissons,Zeiformes,Oreosomatidae,Allocyttus folletti,Allocyttus_folletti,NA,NU
+GS008035,Fishes - Poissons,Zeiformes,Zeidae,Zenopsis conchifera,Zenopsis_conchifera,NA,N5
+GS008036,Amphibians - Amphibiens,Anura,Ascaphidae,Ascaphus montanus,Ascaphus_montanus,Rocky Mountain Tailed Frog,N2
+GS000726,Amphibians - Amphibiens,Anura,Ascaphidae,Ascaphus truei,Ascaphus_truei,Coastal Tailed Frog,N3N4
+GS000727,Amphibians - Amphibiens,Anura,Bufonidae,Anaxyrus americanus,Anaxyrus_americanus,American Toad,N5
+GS000728,Amphibians - Amphibiens,Anura,Bufonidae,Anaxyrus boreas,Anaxyrus_boreas,Western Toad,N3N4
+GS000729,Amphibians - Amphibiens,Anura,Bufonidae,Anaxyrus cognatus,Anaxyrus_cognatus,Great Plains Toad,N3
+GS000730,Amphibians - Amphibiens,Anura,Bufonidae,Anaxyrus fowleri,Anaxyrus_fowleri,Fowler's Toad,N2
+GS000731,Amphibians - Amphibiens,Anura,Bufonidae,Anaxyrus hemiophrys,Anaxyrus_hemiophrys,Canadian Toad,N5
+GS000733,Amphibians - Amphibiens,Anura,Hylidae,Hyla chrysoscelis,Hyla_chrysoscelis,Cope's Grey Treefrog,N4
+GS000734,Amphibians - Amphibiens,Anura,Hylidae,Hyla versicolor,Hyla_versicolor,Grey Treefrog,N5
+GS000735,Amphibians - Amphibiens,Anura,Hylidae,Pseudacris crucifer,Pseudacris_crucifer,Spring Peeper,N5
+GS000736,Amphibians - Amphibiens,Anura,Hylidae,Pseudacris maculata,Pseudacris_maculata,Boreal Chorus Frog,N5
+GS000737,Amphibians - Amphibiens,Anura,Hylidae,Pseudacris regilla,Pseudacris_regilla,Pacific Treefrog,N5
+GS000738,Amphibians - Amphibiens,Anura,Hylidae,Pseudacris triseriata,Pseudacris_triseriata,Western Chorus Frog,N4N5
+GS000739,Amphibians - Amphibiens,Anura,Pelobatidae,Spea bombifrons,Spea_bombifrons,Plains Spadefoot,N3N4
+GS000740,Amphibians - Amphibiens,Anura,Pelobatidae,Spea intermontana,Spea_intermontana,Great Basin Spadefoot,N3
+GS000742,Amphibians - Amphibiens,Anura,Ranidae,Lithobates catesbeianus,Lithobates_catesbeianus,American Bullfrog,N5
+GS000743,Amphibians - Amphibiens,Anura,Ranidae,Lithobates clamitans,Lithobates_clamitans,Green Frog,N5
+GS000745,Amphibians - Amphibiens,Anura,Ranidae,Lithobates palustris,Lithobates_palustris,Pickerel Frog,N5
+GS000746,Amphibians - Amphibiens,Anura,Ranidae,Lithobates pipiens,Lithobates_pipiens,Northern Leopard Frog,N5
+GS000748,Amphibians - Amphibiens,Anura,Ranidae,Lithobates septentrionalis,Lithobates_septentrionalis,Mink Frog,N5
+GS000749,Amphibians - Amphibiens,Anura,Ranidae,Lithobates sylvaticus,Lithobates_sylvaticus,Wood Frog,N5
+GS000741,Amphibians - Amphibiens,Anura,Ranidae,Rana aurora,Rana_aurora,Northern Red-legged Frog,N3N4
+GS000744,Amphibians - Amphibiens,Anura,Ranidae,Rana luteiventris,Rana_luteiventris,Columbia Spotted Frog,N4
+GS000747,Amphibians - Amphibiens,Anura,Ranidae,Rana pretiosa,Rana_pretiosa,Oregon Spotted Frog,N1
+GS000750,Amphibians - Amphibiens,Caudata,Ambystomatidae,Ambystoma gracile,Ambystoma_gracile,Northwestern Salamander,N4N5
+GS000751,Amphibians - Amphibiens,Caudata,Ambystomatidae,Ambystoma jeffersonianum,Ambystoma_jeffersonianum,Jefferson Salamander,N2
+GS000752,Amphibians - Amphibiens,Caudata,Ambystomatidae,Ambystoma laterale,Ambystoma_laterale,Blue-spotted Salamander,N5
+GS000753,Amphibians - Amphibiens,Caudata,Ambystomatidae,Ambystoma macrodactylum,Ambystoma_macrodactylum,Long-toed Salamander,N4N5
+GS000754,Amphibians - Amphibiens,Caudata,Ambystomatidae,Ambystoma maculatum,Ambystoma_maculatum,Spotted Salamander,N5
+GS013459,Amphibians - Amphibiens,Caudata,Ambystomatidae,Ambystoma mavortium,Ambystoma_mavortium,Western Tiger Salamander,N5
+GS000755,Amphibians - Amphibiens,Caudata,Ambystomatidae,Ambystoma texanum,Ambystoma_texanum,Small-mouthed Salamander,N1
+GS000756,Amphibians - Amphibiens,Caudata,Ambystomatidae,Ambystoma tigrinum,Ambystoma_tigrinum,Eastern Tiger Salamander,N3?
+GS000757,Amphibians - Amphibiens,Caudata,Dicamptodontidae,Dicamptodon tenebrosus,Dicamptodon_tenebrosus,Coastal Giant Salamander,N2
+GS000758,Amphibians - Amphibiens,Caudata,Plethodontidae,Aneides vagrans,Aneides_vagrans,Wandering Salamander,N3N4
+GS000759,Amphibians - Amphibiens,Caudata,Plethodontidae,Desmognathus fuscus,Desmognathus_fuscus,Northern Dusky Salamander,N4
+GS000760,Amphibians - Amphibiens,Caudata,Plethodontidae,Desmognathus ochrophaeus,Desmognathus_ochrophaeus,Allegheny Mountain Dusky Salamander,N2N3
+GS000761,Amphibians - Amphibiens,Caudata,Plethodontidae,Ensatina eschscholtzii,Ensatina_eschscholtzii,Ensatina,N4
+GS000762,Amphibians - Amphibiens,Caudata,Plethodontidae,Eurycea bislineata,Eurycea_bislineata,Northern Two-lined Salamander,N5
+GS000763,Amphibians - Amphibiens,Caudata,Plethodontidae,Gyrinophilus porphyriticus,Gyrinophilus_porphyriticus,Spring Salamander,N3
+GS000764,Amphibians - Amphibiens,Caudata,Plethodontidae,Hemidactylium scutatum,Hemidactylium_scutatum,Four-toed Salamander,N4N5
+GS000765,Amphibians - Amphibiens,Caudata,Plethodontidae,Plethodon cinereus,Plethodon_cinereus,Eastern Red-backed Salamander,N5
+GS000766,Amphibians - Amphibiens,Caudata,Plethodontidae,Plethodon idahoensis,Plethodon_idahoensis,Coeur d'Alene Salamander,N4
+GS000767,Amphibians - Amphibiens,Caudata,Plethodontidae,Plethodon vehiculum,Plethodon_vehiculum,Western Red-backed Salamander,N4
+GS000768,Amphibians - Amphibiens,Caudata,Proteidae,Necturus maculosus,Necturus_maculosus,Mudpuppy,N4N5
+GS000769,Amphibians - Amphibiens,Caudata,Salamandridae,Notophthalmus viridescens,Notophthalmus_viridescens,Eastern Newt,N5
+GS000770,Amphibians - Amphibiens,Caudata,Salamandridae,Taricha granulosa,Taricha_granulosa,Rough-skinned Newt,N4N5
+GS000771,Reptiles - Reptiles,Squamata,Anguidae,Elgaria coerulea,Elgaria_coerulea,Northern Alligator Lizard,N4
+GS000772,Reptiles - Reptiles,Squamata,Boidae,Charina bottae,Charina_bottae,Northern Rubber Boa,N4
+GS000773,Reptiles - Reptiles,Squamata,Colubridae,Coluber constrictor,Coluber_constrictor,North American Racer,N3
+GS000774,Reptiles - Reptiles,Squamata,Colubridae,Contia tenuis,Contia_tenuis,Common Sharp-tailed Snake,N1N2
+GS000775,Reptiles - Reptiles,Squamata,Colubridae,Diadophis punctatus,Diadophis_punctatus,Ring-necked Snake,N5
+GS000778,Reptiles - Reptiles,Squamata,Colubridae,Heterodon nasicus,Heterodon_nasicus,Plains Hog-nosed Snake,N2N3
+GS000779,Reptiles - Reptiles,Squamata,Colubridae,Heterodon platirhinos,Heterodon_platirhinos,Eastern Hog-nosed Snake,N3
+GS000780,Reptiles - Reptiles,Squamata,Colubridae,Hypsiglena chlorophaea,Hypsiglena_chlorophaea,Desert Nightsnake,N1
+GS000781,Reptiles - Reptiles,Squamata,Colubridae,Lampropeltis triangulum,Lampropeltis_triangulum,Milksnake,N3
+GS000783,Reptiles - Reptiles,Squamata,Colubridae,Nerodia sipedon,Nerodia_sipedon,Common Watersnake,N5
+GS000782,Reptiles - Reptiles,Squamata,Colubridae,Opheodrys vernalis,Opheodrys_vernalis,Smooth Greensnake,N5
+GS000776,Reptiles - Reptiles,Squamata,Colubridae,Pantherophis spiloides,Pantherophis_spiloides,Grey Ratsnake,N3
+GS000777,Reptiles - Reptiles,Squamata,Colubridae,Pantherophis vulpinus,Pantherophis_vulpinus,Eastern Foxsnake,N3
+GS000784,Reptiles - Reptiles,Squamata,Colubridae,Pituophis catenifer,Pituophis_catenifer,Gophersnake,N4N5
+GS000785,Reptiles - Reptiles,Squamata,Colubridae,Regina septemvittata,Regina_septemvittata,Queensnake,N2
+GS000786,Reptiles - Reptiles,Squamata,Colubridae,Storeria dekayi,Storeria_dekayi,Dekay's Brownsnake,N5
+GS000787,Reptiles - Reptiles,Squamata,Colubridae,Storeria occipitomaculata,Storeria_occipitomaculata,Red-bellied Snake,N5
+GS000788,Reptiles - Reptiles,Squamata,Colubridae,Thamnophis butleri,Thamnophis_butleri,Butler's Gartersnake,N2
+GS000789,Reptiles - Reptiles,Squamata,Colubridae,Thamnophis elegans,Thamnophis_elegans,Terrestrial Gartersnake,N5
+GS000790,Reptiles - Reptiles,Squamata,Colubridae,Thamnophis ordinoides,Thamnophis_ordinoides,Northwestern Gartersnake,N4
+GS000791,Reptiles - Reptiles,Squamata,Colubridae,Thamnophis radix,Thamnophis_radix,Plains Gartersnake,N5
+GS000792,Reptiles - Reptiles,Squamata,Colubridae,Thamnophis sauritus,Thamnophis_sauritus,Eastern Ribbonsnake,N3
+GS000793,Reptiles - Reptiles,Squamata,Colubridae,Thamnophis sirtalis,Thamnophis_sirtalis,Common Gartersnake,N5
+GS000796,Reptiles - Reptiles,Squamata,Phrynosomatidae,Phrynosoma hernandesi,Phrynosoma_hernandesi,Greater Short-horned Lizard,N2
+GS000797,Reptiles - Reptiles,Squamata,Scincidae,Plestiodon fasciatus,Plestiodon_fasciatus,Common Five-lined Skink,N3
+GS000798,Reptiles - Reptiles,Squamata,Scincidae,Plestiodon septentrionalis,Plestiodon_septentrionalis,Prairie Skink,N1
+GS000799,Reptiles - Reptiles,Squamata,Scincidae,Plestiodon skiltonianus,Plestiodon_skiltonianus,Western Skink,N3
+GS000801,Reptiles - Reptiles,Squamata,Viperidae,Crotalus oreganus,Crotalus_oreganus,Western Rattlesnake,N3
+GS013460,Reptiles - Reptiles,Squamata,Viperidae,Crotalus viridis,Crotalus_viridis,Prairie Rattlesnake,N3N4
+GS000802,Reptiles - Reptiles,Squamata,Viperidae,Sistrurus catenatus,Sistrurus_catenatus,Massasauga,N3
+GS000803,Reptiles - Reptiles,Testudines,Cheloniidae,Caretta caretta,Caretta_caretta,Loggerhead Sea Turtle,"N1N,N1M"
+GS000804,Reptiles - Reptiles,Testudines,Cheloniidae,Chelonia mydas,Chelonia_mydas,Green Sea Turtle,"NUN,NUM"
+GS000805,Reptiles - Reptiles,Testudines,Cheloniidae,Lepidochelys kempii,Lepidochelys_kempii,Kemp's Ridley Sea Turtle,"NUN,NUM"
+GS000806,Reptiles - Reptiles,Testudines,Chelydridae,Chelydra serpentina,Chelydra_serpentina,Snapping Turtle,N4
+GS000807,Reptiles - Reptiles,Testudines,Dermochelyidae,Dermochelys coriacea,Dermochelys_coriacea,Leatherback Sea Turtle,"N1N,N1M"
+GS000808,Reptiles - Reptiles,Testudines,Emydidae,Chrysemys picta,Chrysemys_picta,Painted Turtle,N5
+GS000809,Reptiles - Reptiles,Testudines,Emydidae,Clemmys guttata,Clemmys_guttata,Spotted Turtle,N2
+GS000812,Reptiles - Reptiles,Testudines,Emydidae,Emydoidea blandingii,Emydoidea_blandingii,Blanding's Turtle,N3
+GS000810,Reptiles - Reptiles,Testudines,Emydidae,Glyptemys insculpta,Glyptemys_insculpta,Wood Turtle,N3
+GS000813,Reptiles - Reptiles,Testudines,Emydidae,Graptemys geographica,Graptemys_geographica,Northern Map Turtle,N3
+GS000815,Reptiles - Reptiles,Testudines,Kinosternidae,Sternotherus odoratus,Sternotherus_odoratus,Eastern Musk Turtle,N3
+GS000816,Reptiles - Reptiles,Testudines,Trionychidae,Apalone spinifera,Apalone_spinifera,Spiny Softshell,N2
+GS000817,Birds - Oiseaux,Anseriformes,Anatidae,Aix sponsa,Aix_sponsa,Wood Duck,"N5B,N4N5N,N5M"
+GS000818,Birds - Oiseaux,Anseriformes,Anatidae,Anas acuta,Anas_acuta,Northern Pintail,"N5B,N5N,N5M"
+GS000819,Birds - Oiseaux,Anseriformes,Anatidae,Anas americana,Anas_americana,American Wigeon,"N5B,N5N,N5M"
+GS000820,Birds - Oiseaux,Anseriformes,Anatidae,Anas clypeata,Anas_clypeata,Northern Shoveler,"N5B,N5N,N5M"
+GS000821,Birds - Oiseaux,Anseriformes,Anatidae,Anas crecca,Anas_crecca,Green-winged Teal,"N5B,N5N,N5M"
+GS000823,Birds - Oiseaux,Anseriformes,Anatidae,Anas cyanoptera,Anas_cyanoptera,Cinnamon Teal,"N5B,NUN,N4N5M"
+GS000824,Birds - Oiseaux,Anseriformes,Anatidae,Anas discors,Anas_discors,Blue-winged Teal,"N5B,N5M"
+GS000827,Birds - Oiseaux,Anseriformes,Anatidae,Anas penelope,Anas_penelope,Eurasian Wigeon,"NUN,N4N5M"
+GS000828,Birds - Oiseaux,Anseriformes,Anatidae,Anas platyrhynchos,Anas_platyrhynchos,Mallard,"N5B,N5N,N5M"
+GS000830,Birds - Oiseaux,Anseriformes,Anatidae,Anas rubripes,Anas_rubripes,American Black Duck,"N5B,N5N,N5M"
+GS000831,Birds - Oiseaux,Anseriformes,Anatidae,Anas strepera,Anas_strepera,Gadwall,"N5B,N5N,N5M"
+GS000832,Birds - Oiseaux,Anseriformes,Anatidae,Anser albifrons,Anser_albifrons,Greater White-fronted Goose,"N5B,N4N5N,N5M"
+GS000835,Birds - Oiseaux,Anseriformes,Anatidae,Aythya affinis,Aythya_affinis,Lesser Scaup,"N5B,N5N,N5M"
+GS000836,Birds - Oiseaux,Anseriformes,Anatidae,Aythya americana,Aythya_americana,Redhead,"N5B,N5N,N5M"
+GS000837,Birds - Oiseaux,Anseriformes,Anatidae,Aythya collaris,Aythya_collaris,Ring-necked Duck,"N5B,N5N,N5M"
+GS000838,Birds - Oiseaux,Anseriformes,Anatidae,Aythya fuligula,Aythya_fuligula,Tufted Duck,"N1N,NUM"
+GS000839,Birds - Oiseaux,Anseriformes,Anatidae,Aythya marila,Aythya_marila,Greater Scaup,"N5B,N5N,N5M"
+GS000840,Birds - Oiseaux,Anseriformes,Anatidae,Aythya valisineria,Aythya_valisineria,Canvasback,"N5B,N4N5N,N5M"
+GS000841,Birds - Oiseaux,Anseriformes,Anatidae,Branta bernicla,Branta_bernicla,Brant,"N5B,N3N,N5M"
+GS000842,Birds - Oiseaux,Anseriformes,Anatidae,Branta canadensis,Branta_canadensis,Canada Goose,"N5B,N5N,N5M"
+GS008038,Birds - Oiseaux,Anseriformes,Anatidae,Branta hutchinsii,Branta_hutchinsii,Cackling Goose,"N5B,N5N,N5M"
+GS000844,Birds - Oiseaux,Anseriformes,Anatidae,Bucephala albeola,Bucephala_albeola,Bufflehead,"N5B,N5N,N5M"
+GS000845,Birds - Oiseaux,Anseriformes,Anatidae,Bucephala clangula,Bucephala_clangula,Common Goldeneye,"N5B,N5N,N5M"
+GS000846,Birds - Oiseaux,Anseriformes,Anatidae,Bucephala islandica,Bucephala_islandica,Barrow's Goldeneye,"N5B,N4N5N,N5M"
+GS000848,Birds - Oiseaux,Anseriformes,Anatidae,Chen caerulescens,Chen_caerulescens,Snow Goose,"N5B,N4N5N,N5M"
+GS000850,Birds - Oiseaux,Anseriformes,Anatidae,Chen rossii,Chen_rossii,Ross's Goose,"N5B,N5M"
+GS000851,Birds - Oiseaux,Anseriformes,Anatidae,Clangula hyemalis,Clangula_hyemalis,Long-tailed Duck,"N5B,N5N,N5M"
+GS000852,Birds - Oiseaux,Anseriformes,Anatidae,Cygnus buccinator,Cygnus_buccinator,Trumpeter Swan,"N5B,N5N,N5M"
+GS000853,Birds - Oiseaux,Anseriformes,Anatidae,Cygnus columbianus,Cygnus_columbianus,Tundra Swan,"N5B,N3N,N5M"
+GS000857,Birds - Oiseaux,Anseriformes,Anatidae,Histrionicus histrionicus,Histrionicus_histrionicus,Harlequin Duck,"N4B,N3N,NUM"
+GS000858,Birds - Oiseaux,Anseriformes,Anatidae,Lophodytes cucullatus,Lophodytes_cucullatus,Hooded Merganser,"N5B,N5N,N5M"
+GS000860,Birds - Oiseaux,Anseriformes,Anatidae,Melanitta americana,Melanitta_americana,Black Scoter,"N5B,N4N5N,N5M"
+GS000859,Birds - Oiseaux,Anseriformes,Anatidae,Melanitta fusca,Melanitta_fusca,White-winged Scoter,"N5B,N5N,N5M"
+GS000861,Birds - Oiseaux,Anseriformes,Anatidae,Melanitta perspicillata,Melanitta_perspicillata,Surf Scoter,"N5B,N5N,N5M"
+GS000863,Birds - Oiseaux,Anseriformes,Anatidae,Mergus merganser,Mergus_merganser,Common Merganser,"N5B,N5N,N5M"
+GS000864,Birds - Oiseaux,Anseriformes,Anatidae,Mergus serrator,Mergus_serrator,Red-breasted Merganser,"N5B,N5N,N5M"
+GS000865,Birds - Oiseaux,Anseriformes,Anatidae,Oxyura jamaicensis,Oxyura_jamaicensis,Ruddy Duck,"N5B,N5N,N5M"
+GS000868,Birds - Oiseaux,Anseriformes,Anatidae,Somateria mollissima,Somateria_mollissima,Common Eider,"N4N5B,N5N,N5M"
+GS000869,Birds - Oiseaux,Anseriformes,Anatidae,Somateria spectabilis,Somateria_spectabilis,King Eider,"NUB,NUN,NUM"
+GS000871,Birds - Oiseaux,Apodiformes,Apodidae,Aeronautes saxatalis,Aeronautes_saxatalis,White-throated Swift,"N3N4B,NUM"
+GS000872,Birds - Oiseaux,Apodiformes,Apodidae,Chaetura pelagica,Chaetura_pelagica,Chimney Swift,"N3B,N3M"
+GS000873,Birds - Oiseaux,Apodiformes,Apodidae,Chaetura vauxi,Chaetura_vauxi,Vaux's Swift,"N5B,N5M"
+GS000874,Birds - Oiseaux,Apodiformes,Apodidae,Cypseloides niger,Cypseloides_niger,Black Swift,"N2B,N2M"
+GS000875,Birds - Oiseaux,Apodiformes,Trochilidae,Archilochus alexandri,Archilochus_alexandri,Black-chinned Hummingbird,"N4B,NUM"
+GS000876,Birds - Oiseaux,Apodiformes,Trochilidae,Archilochus colubris,Archilochus_colubris,Ruby-throated Hummingbird,"N5B,N5M"
+GS000877,Birds - Oiseaux,Apodiformes,Trochilidae,Calypte anna,Calypte_anna,Anna's Hummingbird,N4N5
+GS000882,Birds - Oiseaux,Apodiformes,Trochilidae,Selasphorus calliope,Selasphorus_calliope,Calliope Hummingbird,"N5B,N5M"
+GS000881,Birds - Oiseaux,Apodiformes,Trochilidae,Selasphorus rufus,Selasphorus_rufus,Rufous Hummingbird,"N5B,N5M"
+GS000884,Birds - Oiseaux,Caprimulgiformes,Caprimulgidae,Antrostomus vociferus,Antrostomus_vociferus,Eastern Whip-poor-will,"N4B,NUM"
+GS000886,Birds - Oiseaux,Caprimulgiformes,Caprimulgidae,Chordeiles minor,Chordeiles_minor,Common Nighthawk,"N3B,N3M"
+GS000887,Birds - Oiseaux,Caprimulgiformes,Caprimulgidae,Phalaenoptilus nuttallii,Phalaenoptilus_nuttallii,Common Poorwill,"N4?B,NUM"
+GS000889,Birds - Oiseaux,Charadriiformes,Alcidae,Aethia psittacula,Aethia_psittacula,Parakeet Auklet,"NUN,NUM"
+GS000890,Birds - Oiseaux,Charadriiformes,Alcidae,Alca torda,Alca_torda,Razorbill,"N5B,N4N,N5M"
+GS000891,Birds - Oiseaux,Charadriiformes,Alcidae,Alle alle,Alle_alle,Dovekie,"N3B,N5N,N5M"
+GS000892,Birds - Oiseaux,Charadriiformes,Alcidae,Brachyramphus brevirostris,Brachyramphus_brevirostris,Kittlitz's Murrelet,"N1B,NNRM"
+GS000893,Birds - Oiseaux,Charadriiformes,Alcidae,Brachyramphus marmoratus,Brachyramphus_marmoratus,Marbled Murrelet,"N3B,N3N,N3M"
+GS000895,Birds - Oiseaux,Charadriiformes,Alcidae,Cepphus columba,Cepphus_columba,Pigeon Guillemot,"N4B,N4N,N4M"
+GS000896,Birds - Oiseaux,Charadriiformes,Alcidae,Cepphus grylle,Cepphus_grylle,Black Guillemot,"N5B,N5N,N5M"
+GS000897,Birds - Oiseaux,Charadriiformes,Alcidae,Cerorhinca monocerata,Cerorhinca_monocerata,Rhinoceros Auklet,"N4B,N4N,N4M"
+GS000898,Birds - Oiseaux,Charadriiformes,Alcidae,Fratercula arctica,Fratercula_arctica,Atlantic Puffin,"N5B,N5N,N5M"
+GS000899,Birds - Oiseaux,Charadriiformes,Alcidae,Fratercula cirrhata,Fratercula_cirrhata,Tufted Puffin,"N2N3B,N4N,N4M"
+GS000900,Birds - Oiseaux,Charadriiformes,Alcidae,Fratercula corniculata,Fratercula_corniculata,Horned Puffin,"N2B,N2N,N2M"
+GS000902,Birds - Oiseaux,Charadriiformes,Alcidae,Ptychoramphus aleuticus,Ptychoramphus_aleuticus,Cassin's Auklet,"N3B,N3N,N3M"
+GS000903,Birds - Oiseaux,Charadriiformes,Alcidae,Synthliboramphus antiquus,Synthliboramphus_antiquus,Ancient Murrelet,"N2N3B,N2N3N,N2N3M"
+GS000905,Birds - Oiseaux,Charadriiformes,Alcidae,Uria aalge,Uria_aalge,Common Murre,"N5B,N5N,N5M"
+GS000906,Birds - Oiseaux,Charadriiformes,Alcidae,Uria lomvia,Uria_lomvia,Thick-billed Murre,"N5B,N5N,N5M"
+GS000908,Birds - Oiseaux,Charadriiformes,Charadriidae,Charadrius hiaticula,Charadrius_hiaticula,Common Ringed Plover,"N4B,N4M"
+GS000909,Birds - Oiseaux,Charadriiformes,Charadriidae,Charadrius melodus,Charadrius_melodus,Piping Plover,"N2N3B,N2N3M"
+GS000911,Birds - Oiseaux,Charadriiformes,Charadriidae,Charadrius montanus,Charadrius_montanus,Mountain Plover,"N1B,N1M"
+GS000912,Birds - Oiseaux,Charadriiformes,Charadriidae,Charadrius semipalmatus,Charadrius_semipalmatus,Semipalmated Plover,"N5B,N5M"
+GS000913,Birds - Oiseaux,Charadriiformes,Charadriidae,Charadrius vociferus,Charadrius_vociferus,Killdeer,"N5B,N4N5N,N5M"
+GS000916,Birds - Oiseaux,Charadriiformes,Charadriidae,Pluvialis dominica,Pluvialis_dominica,American Golden-Plover,"N4N5B,N5M"
+GS000917,Birds - Oiseaux,Charadriiformes,Charadriidae,Pluvialis fulva,Pluvialis_fulva,Pacific Golden-Plover,N4M
+GS000918,Birds - Oiseaux,Charadriiformes,Charadriidae,Pluvialis squatarola,Pluvialis_squatarola,Black-bellied Plover,"N3B,N5N,N5M"
+GS000920,Birds - Oiseaux,Charadriiformes,Haematopodidae,Haematopus bachmani,Haematopus_bachmani,Black Oystercatcher,"N4B,N4N,NNRM"
+GS000922,Birds - Oiseaux,Charadriiformes,Haematopodidae,Haematopus palliatus,Haematopus_palliatus,American Oystercatcher,"N1B,N1M"
+GS000924,Birds - Oiseaux,Charadriiformes,Laridae,Chlidonias niger,Chlidonias_niger,Black Tern,"N5B,NUN,N5M"
+GS000940,Birds - Oiseaux,Charadriiformes,Laridae,Chroicocephalus philadelphia,Chroicocephalus_philadelphia,Bonaparte's Gull,"N5B,N3N,N5M"
+GS000942,Birds - Oiseaux,Charadriiformes,Laridae,Chroicocephalus ridibundus,Chroicocephalus_ridibundus,Black-headed Gull,"N3B,N3N4N,NUM"
+GS000938,Birds - Oiseaux,Charadriiformes,Laridae,Hydrocoloeus minutus,Hydrocoloeus_minutus,Little Gull,"NUB,NUM"
+GS000958,Birds - Oiseaux,Charadriiformes,Laridae,Hydroprogne caspia,Hydroprogne_caspia,Caspian Tern,"N3B,N3M"
+GS000925,Birds - Oiseaux,Charadriiformes,Laridae,Larus argentatus,Larus_argentatus,Herring Gull,"N5B,N5N,N5M"
+GS000928,Birds - Oiseaux,Charadriiformes,Laridae,Larus californicus,Larus_californicus,California Gull,"N5B,NUN,N5M"
+GS000929,Birds - Oiseaux,Charadriiformes,Laridae,Larus canus,Larus_canus,Mew Gull,"N5B,N4N5N,N5M"
+GS000931,Birds - Oiseaux,Charadriiformes,Laridae,Larus delawarensis,Larus_delawarensis,Ring-billed Gull,"N5B,N5N,N5M"
+GS000932,Birds - Oiseaux,Charadriiformes,Laridae,Larus fuscus,Larus_fuscus,Lesser Black-backed Gull,"NUN,N4N5M"
+GS000933,Birds - Oiseaux,Charadriiformes,Laridae,Larus glaucescens,Larus_glaucescens,Glaucous-winged Gull,"N4B,N4N5N,N4N5M"
+GS000934,Birds - Oiseaux,Charadriiformes,Laridae,Larus glaucoides,Larus_glaucoides,Iceland Gull,"N5B,N5N,N5M"
+GS000935,Birds - Oiseaux,Charadriiformes,Laridae,Larus heermanni,Larus_heermanni,Heermann's Gull,"NUN,NUM"
+GS000936,Birds - Oiseaux,Charadriiformes,Laridae,Larus hyperboreus,Larus_hyperboreus,Glaucous Gull,"N4N5B,N5N,N5M"
+GS000937,Birds - Oiseaux,Charadriiformes,Laridae,Larus marinus,Larus_marinus,Great Black-backed Gull,"N5B,N5N,N5M"
+GS000939,Birds - Oiseaux,Charadriiformes,Laridae,Larus occidentalis,Larus_occidentalis,Western Gull,"NUN,NUM"
+GS000944,Birds - Oiseaux,Charadriiformes,Laridae,Larus thayeri,Larus_thayeri,Thayer's Gull,"N4N5B,N5N,N5M"
+GS000926,Birds - Oiseaux,Charadriiformes,Laridae,Leucophaeus atricilla,Leucophaeus_atricilla,Laughing Gull,"N1B,N1M"
+GS000941,Birds - Oiseaux,Charadriiformes,Laridae,Leucophaeus pipixcan,Leucophaeus_pipixcan,Franklin's Gull,"N5B,N4N5N,N4N5M"
+GS000945,Birds - Oiseaux,Charadriiformes,Laridae,Pagophila eburnea,Pagophila_eburnea,Ivory Gull,"N1B,N1N,N1M"
+GS000946,Birds - Oiseaux,Charadriiformes,Laridae,Rhodostethia rosea,Rhodostethia_rosea,Ross's Gull,"N2B,N2M"
+GS000948,Birds - Oiseaux,Charadriiformes,Laridae,Rissa tridactyla,Rissa_tridactyla,Black-legged Kittiwake,"N5B,N5N,N5M"
+GS000959,Birds - Oiseaux,Charadriiformes,Laridae,Sterna dougallii,Sterna_dougallii,Roseate Tern,"N1B,N1M"
+GS000961,Birds - Oiseaux,Charadriiformes,Laridae,Sterna forsteri,Sterna_forsteri,Forster's Tern,"N5B,N5M"
+GS000963,Birds - Oiseaux,Charadriiformes,Laridae,Sterna hirundo,Sterna_hirundo,Common Tern,"N5B,NUN,N5M"
+GS000966,Birds - Oiseaux,Charadriiformes,Laridae,Sterna paradisaea,Sterna_paradisaea,Arctic Tern,"N5B,N5M"
+GS000968,Birds - Oiseaux,Charadriiformes,Laridae,Xema sabini,Xema_sabini,Sabine's Gull,"N5B,N4N5N,N5M"
+GS000969,Birds - Oiseaux,Charadriiformes,Recurvirostridae,Himantopus mexicanus,Himantopus_mexicanus,Black-necked Stilt,"N4B,N4M"
+GS000970,Birds - Oiseaux,Charadriiformes,Recurvirostridae,Recurvirostra americana,Recurvirostra_americana,American Avocet,"N5B,N5M"
+GS000971,Birds - Oiseaux,Charadriiformes,Scolopacidae,Actitis macularius,Actitis_macularius,Spotted Sandpiper,"N5B,N3N,N5M"
+GS000973,Birds - Oiseaux,Charadriiformes,Scolopacidae,Arenaria interpres,Arenaria_interpres,Ruddy Turnstone,"N3B,N5M"
+GS000974,Birds - Oiseaux,Charadriiformes,Scolopacidae,Arenaria melanocephala,Arenaria_melanocephala,Black Turnstone,"N5N,N5M"
+GS000975,Birds - Oiseaux,Charadriiformes,Scolopacidae,Bartramia longicauda,Bartramia_longicauda,Upland Sandpiper,"N5B,N5M"
+GS000976,Birds - Oiseaux,Charadriiformes,Scolopacidae,Calidris acuminata,Calidris_acuminata,Sharp-tailed Sandpiper,N4N5M
+GS000977,Birds - Oiseaux,Charadriiformes,Scolopacidae,Calidris alba,Calidris_alba,Sanderling,"N3B,N4N5N,N5M"
+GS000978,Birds - Oiseaux,Charadriiformes,Scolopacidae,Calidris alpina,Calidris_alpina,Dunlin,"N4N5B,N4N,N5M"
+GS000979,Birds - Oiseaux,Charadriiformes,Scolopacidae,Calidris bairdii,Calidris_bairdii,Baird's Sandpiper,"N5B,N5M"
+GS000980,Birds - Oiseaux,Charadriiformes,Scolopacidae,Calidris canutus,Calidris_canutus,Red Knot,"N2B,N2M"
+GS000982,Birds - Oiseaux,Charadriiformes,Scolopacidae,Calidris fuscicollis,Calidris_fuscicollis,White-rumped Sandpiper,"N5B,N5M"
+GS000983,Birds - Oiseaux,Charadriiformes,Scolopacidae,Calidris himantopus,Calidris_himantopus,Stilt Sandpiper,"N5B,N5M"
+GS000984,Birds - Oiseaux,Charadriiformes,Scolopacidae,Calidris maritima,Calidris_maritima,Purple Sandpiper,"N3N4B,N3N4N,NUM"
+GS000985,Birds - Oiseaux,Charadriiformes,Scolopacidae,Calidris mauri,Calidris_mauri,Western Sandpiper,"N1N2N,N4N5M"
+GS000986,Birds - Oiseaux,Charadriiformes,Scolopacidae,Calidris melanotos,Calidris_melanotos,Pectoral Sandpiper,"N5B,N5M"
+GS000988,Birds - Oiseaux,Charadriiformes,Scolopacidae,Calidris minutilla,Calidris_minutilla,Least Sandpiper,"N5B,N1N2N,N5M"
+GS000989,Birds - Oiseaux,Charadriiformes,Scolopacidae,Calidris ptilocnemis,Calidris_ptilocnemis,Rock Sandpiper,"N4N,N4M"
+GS000990,Birds - Oiseaux,Charadriiformes,Scolopacidae,Calidris pusilla,Calidris_pusilla,Semipalmated Sandpiper,"N3N5B,NUN,N4N5M"
+GS001026,Birds - Oiseaux,Charadriiformes,Scolopacidae,Calidris subruficollis,Calidris_subruficollis,Buff-breasted Sandpiper,"N3?B,N4N5M"
+GS000972,Birds - Oiseaux,Charadriiformes,Scolopacidae,Calidris virgata,Calidris_virgata,Surfbird,"N3B,N4N,N4N5M"
+GS008044,Birds - Oiseaux,Charadriiformes,Scolopacidae,Gallinago delicata,Gallinago_delicata,Wilson's Snipe,"N5B,N5M"
+GS000997,Birds - Oiseaux,Charadriiformes,Scolopacidae,Limnodromus griseus,Limnodromus_griseus,Short-billed Dowitcher,"NUB,N5M"
+GS000998,Birds - Oiseaux,Charadriiformes,Scolopacidae,Limnodromus scolopaceus,Limnodromus_scolopaceus,Long-billed Dowitcher,"N3B,N4N,N5M"
+GS000999,Birds - Oiseaux,Charadriiformes,Scolopacidae,Limosa fedoa,Limosa_fedoa,Marbled Godwit,"N5B,NUN,N5M"
+GS001000,Birds - Oiseaux,Charadriiformes,Scolopacidae,Limosa haemastica,Limosa_haemastica,Hudsonian Godwit,"N3B,N4N5M"
+GS001004,Birds - Oiseaux,Charadriiformes,Scolopacidae,Numenius americanus,Numenius_americanus,Long-billed Curlew,"N4B,N4M"
+GS001006,Birds - Oiseaux,Charadriiformes,Scolopacidae,Numenius borealis,Numenius_borealis,Eskimo Curlew,"N1B,N1M"
+GS001008,Birds - Oiseaux,Charadriiformes,Scolopacidae,Numenius phaeopus,Numenius_phaeopus,Whimbrel,"N4B,N4M"
+GS001012,Birds - Oiseaux,Charadriiformes,Scolopacidae,Phalaropus fulicarius,Phalaropus_fulicarius,Red Phalarope,"N5B,N5M"
+GS001013,Birds - Oiseaux,Charadriiformes,Scolopacidae,Phalaropus lobatus,Phalaropus_lobatus,Red-necked Phalarope,"N4B,N3N4N,N4M"
+GS001014,Birds - Oiseaux,Charadriiformes,Scolopacidae,Phalaropus tricolor,Phalaropus_tricolor,Wilson's Phalarope,"N5B,N5M"
+GS001016,Birds - Oiseaux,Charadriiformes,Scolopacidae,Scolopax minor,Scolopax_minor,American Woodcock,"N5B,N5M"
+GS001019,Birds - Oiseaux,Charadriiformes,Scolopacidae,Tringa flavipes,Tringa_flavipes,Lesser Yellowlegs,"N4B,N4M"
+GS000996,Birds - Oiseaux,Charadriiformes,Scolopacidae,Tringa incana,Tringa_incana,Wandering Tattler,"N3B,NUM"
+GS001021,Birds - Oiseaux,Charadriiformes,Scolopacidae,Tringa melanoleuca,Tringa_melanoleuca,Greater Yellowlegs,"N5B,N4N,N5M"
+GS000993,Birds - Oiseaux,Charadriiformes,Scolopacidae,Tringa semipalmata,Tringa_semipalmata,Willet,"N5B,N5M"
+GS001024,Birds - Oiseaux,Charadriiformes,Scolopacidae,Tringa solitaria,Tringa_solitaria,Solitary Sandpiper,"N5B,N5M"
+GS000950,Birds - Oiseaux,Charadriiformes,Stercorariidae,Stercorarius longicaudus,Stercorarius_longicaudus,Long-tailed Jaeger,"N5B,N5M"
+GS000951,Birds - Oiseaux,Charadriiformes,Stercorariidae,Stercorarius maccormicki,Stercorarius_maccormicki,South Polar Skua,"NUN,NUM"
+GS000952,Birds - Oiseaux,Charadriiformes,Stercorariidae,Stercorarius parasiticus,Stercorarius_parasiticus,Parasitic Jaeger,"N5B,NUN,N5M"
+GS000953,Birds - Oiseaux,Charadriiformes,Stercorariidae,Stercorarius pomarinus,Stercorarius_pomarinus,Pomarine Jaeger,"N5B,N5M"
+GS000954,Birds - Oiseaux,Charadriiformes,Stercorariidae,Stercorarius skua,Stercorarius_skua,Great Skua,"NUN,NUM"
+GS001028,Birds - Oiseaux,Ciconiiformes,Ardeidae,Ardea alba,Ardea_alba,Great Egret,"N3B,N3M"
+GS001029,Birds - Oiseaux,Ciconiiformes,Ardeidae,Ardea herodias,Ardea_herodias,Great Blue Heron,"N5B,N3N,N5M"
+GS001030,Birds - Oiseaux,Ciconiiformes,Ardeidae,Botaurus lentiginosus,Botaurus_lentiginosus,American Bittern,"N5B,N3N,N5M"
+GS001031,Birds - Oiseaux,Ciconiiformes,Ardeidae,Bubulcus ibis,Bubulcus_ibis,Cattle Egret,"N2B,N2M"
+GS001033,Birds - Oiseaux,Ciconiiformes,Ardeidae,Butorides virescens,Butorides_virescens,Green Heron,"N4N5B,N3N4N,N4N5M"
+GS001037,Birds - Oiseaux,Ciconiiformes,Ardeidae,Egretta thula,Egretta_thula,Snowy Egret,"N1B,N1M"
+GS001039,Birds - Oiseaux,Ciconiiformes,Ardeidae,Ixobrychus exilis,Ixobrychus_exilis,Least Bittern,"N3B,N3M"
+GS001041,Birds - Oiseaux,Ciconiiformes,Ardeidae,Nycticorax nycticorax,Nycticorax_nycticorax,Black-crowned Night-Heron,"N5B,N1N,N4N5M"
+GS001048,Birds - Oiseaux,Ciconiiformes,Threskiornithidae,Plegadis chihi,Plegadis_chihi,White-faced Ibis,"N2B,N2N,N2M"
+GS001050,Birds - Oiseaux,Columbiformes,Columbidae,Patagioenas fasciata,Patagioenas_fasciata,Band-tailed Pigeon,N3N4
+GS001057,Birds - Oiseaux,Columbiformes,Columbidae,Zenaida macroura,Zenaida_macroura,Mourning Dove,"N5B,N5N,N5M"
+GS001058,Birds - Oiseaux,Coraciiformes,Alcedinidae,Megaceryle alcyon,Megaceryle_alcyon,Belted Kingfisher,"N5B,N4N5N,N5M"
+GS001059,Birds - Oiseaux,Cuculiformes,Cuculidae,Coccyzus americanus,Coccyzus_americanus,Yellow-billed Cuckoo,"N4N5B,NUM"
+GS001060,Birds - Oiseaux,Cuculiformes,Cuculidae,Coccyzus erythropthalmus,Coccyzus_erythropthalmus,Black-billed Cuckoo,"N5B,N5M"
+GS001062,Birds - Oiseaux,Falconiformes,Accipitridae,Accipiter cooperii,Accipiter_cooperii,Cooper's Hawk,"N5B,N5N,N4N5M"
+GS001063,Birds - Oiseaux,Falconiformes,Accipitridae,Accipiter gentilis,Accipiter_gentilis,Northern Goshawk,"N4B,N4N,N4M"
+GS001064,Birds - Oiseaux,Falconiformes,Accipitridae,Accipiter striatus,Accipiter_striatus,Sharp-shinned Hawk,"N5B,N5N,N5M"
+GS001065,Birds - Oiseaux,Falconiformes,Accipitridae,Aquila chrysaetos,Aquila_chrysaetos,Golden Eagle,"N4N5B,N4N5N,N4N5M"
+GS001067,Birds - Oiseaux,Falconiformes,Accipitridae,Buteo jamaicensis,Buteo_jamaicensis,Red-tailed Hawk,"N5B,N5N,N5M"
+GS001068,Birds - Oiseaux,Falconiformes,Accipitridae,Buteo lagopus,Buteo_lagopus,Rough-legged Hawk,"N5B,N5N,N5M"
+GS001069,Birds - Oiseaux,Falconiformes,Accipitridae,Buteo lineatus,Buteo_lineatus,Red-shouldered Hawk,"N4N5B,N4N5M"
+GS001070,Birds - Oiseaux,Falconiformes,Accipitridae,Buteo platypterus,Buteo_platypterus,Broad-winged Hawk,"N5B,N5M"
+GS001071,Birds - Oiseaux,Falconiformes,Accipitridae,Buteo regalis,Buteo_regalis,Ferruginous Hawk,"N3B,N3N,NUM"
+GS001072,Birds - Oiseaux,Falconiformes,Accipitridae,Buteo swainsoni,Buteo_swainsoni,Swainson's Hawk,"N4B,N4M"
+GS001073,Birds - Oiseaux,Falconiformes,Accipitridae,Circus cyaneus,Circus_cyaneus,Northern Harrier,"N5B,N4N,N5M"
+GS001076,Birds - Oiseaux,Falconiformes,Accipitridae,Haliaeetus leucocephalus,Haliaeetus_leucocephalus,Bald Eagle,"N5B,N5N,N5M"
+GS001078,Birds - Oiseaux,Falconiformes,Accipitridae,Pandion haliaetus,Pandion_haliaetus,Osprey,"N5B,N5N,N5M"
+GS001042,Birds - Oiseaux,Falconiformes,Cathartidae,Cathartes aura,Cathartes_aura,Turkey Vulture,"N5B,N5M"
+GS001080,Birds - Oiseaux,Falconiformes,Falconidae,Falco columbarius,Falco_columbarius,Merlin,"N5B,N5N,N5M"
+GS001081,Birds - Oiseaux,Falconiformes,Falconidae,Falco mexicanus,Falco_mexicanus,Prairie Falcon,"N3B,N4N,N3M"
+GS001082,Birds - Oiseaux,Falconiformes,Falconidae,Falco peregrinus,Falco_peregrinus,Peregrine Falcon,"N3N4B,N2N,N3N4M"
+GS001083,Birds - Oiseaux,Falconiformes,Falconidae,Falco rusticolus,Falco_rusticolus,Gyrfalcon,"N4N5B,N5N,N5M"
+GS001084,Birds - Oiseaux,Falconiformes,Falconidae,Falco sparverius,Falco_sparverius,American Kestrel,"N4N5B,N1N,N4N5M"
+GS001087,Birds - Oiseaux,Galliformes,Odontophoridae,Colinus virginianus,Colinus_virginianus,Northern Bobwhite,"N1B,NNRM"
+GS001090,Birds - Oiseaux,Galliformes,Phasianidae,Bonasa umbellus,Bonasa_umbellus,Ruffed Grouse,N5
+GS001091,Birds - Oiseaux,Galliformes,Phasianidae,Centrocercus urophasianus,Centrocercus_urophasianus,Greater Sage-Grouse,N1
+GS013466,Birds - Oiseaux,Galliformes,Phasianidae,Dendragapus fuliginosus,Dendragapus_fuliginosus,Sooty Grouse,N4
+GS001092,Birds - Oiseaux,Galliformes,Phasianidae,Dendragapus obscurus,Dendragapus_obscurus,Dusky Grouse,N5
+GS001093,Birds - Oiseaux,Galliformes,Phasianidae,Falcipennis canadensis,Falcipennis_canadensis,Spruce Grouse,N5
+GS001094,Birds - Oiseaux,Galliformes,Phasianidae,Lagopus lagopus,Lagopus_lagopus,Willow Ptarmigan,N5
+GS001095,Birds - Oiseaux,Galliformes,Phasianidae,Lagopus leucura,Lagopus_leucura,White-tailed Ptarmigan,N5
+GS001096,Birds - Oiseaux,Galliformes,Phasianidae,Lagopus muta,Lagopus_muta,Rock Ptarmigan,N5
+GS001097,Birds - Oiseaux,Galliformes,Phasianidae,Meleagris gallopavo,Meleagris_gallopavo,Wild Turkey,N5
+GS001101,Birds - Oiseaux,Galliformes,Phasianidae,Tympanuchus phasianellus,Tympanuchus_phasianellus,Sharp-tailed Grouse,N5
+GS001102,Birds - Oiseaux,Gaviiformes,Gaviidae,Gavia adamsii,Gavia_adamsii,Yellow-billed Loon,"N4B,N2N3N,N4M"
+GS001103,Birds - Oiseaux,Gaviiformes,Gaviidae,Gavia immer,Gavia_immer,Common Loon,"N5B,N5N,N5M"
+GS001104,Birds - Oiseaux,Gaviiformes,Gaviidae,Gavia pacifica,Gavia_pacifica,Pacific Loon,"N5B,N3N4N,N5M"
+GS001105,Birds - Oiseaux,Gaviiformes,Gaviidae,Gavia stellata,Gavia_stellata,Red-throated Loon,"N5B,N5N,N5M"
+GS001107,Birds - Oiseaux,Gruiformes,Gruidae,Grus americana,Grus_americana,Whooping Crane,"N1B,N1M"
+GS001108,Birds - Oiseaux,Gruiformes,Gruidae,Grus canadensis,Grus_canadensis,Sandhill Crane,"N5B,N1N,N5M"
+GS001110,Birds - Oiseaux,Gruiformes,Rallidae,Coturnicops noveboracensis,Coturnicops_noveboracensis,Yellow Rail,"N3N4B,NUM"
+GS001112,Birds - Oiseaux,Gruiformes,Rallidae,Fulica americana,Fulica_americana,American Coot,"N5B,N4N5N,N5M"
+GS001114,Birds - Oiseaux,Gruiformes,Rallidae,Gallinula galeata,Gallinula_galeata,Common Gallinule,"N4N5B,N4N5M"
+GS001117,Birds - Oiseaux,Gruiformes,Rallidae,Porzana carolina,Porzana_carolina,Sora,"N5B,N5M"
+GS001118,Birds - Oiseaux,Gruiformes,Rallidae,Rallus elegans,Rallus_elegans,King Rail,"N2B,NNRM"
+GS001119,Birds - Oiseaux,Gruiformes,Rallidae,Rallus limicola,Rallus_limicola,Virginia Rail,"N5B,NUM,N5M"
+GS001121,Birds - Oiseaux,Passeriformes,Aegithalidae,Psaltriparus minimus,Psaltriparus_minimus,Bushtit,N4
+GS001123,Birds - Oiseaux,Passeriformes,Alaudidae,Eremophila alpestris,Eremophila_alpestris,Horned Lark,"N5B,N5N,N5M"
+GS001124,Birds - Oiseaux,Passeriformes,Bombycillidae,Bombycilla cedrorum,Bombycilla_cedrorum,Cedar Waxwing,"N5B,N5N,N5M"
+GS001125,Birds - Oiseaux,Passeriformes,Bombycillidae,Bombycilla garrulus,Bombycilla_garrulus,Bohemian Waxwing,"N5B,N5N,N5M"
+GS001126,Birds - Oiseaux,Passeriformes,Cardinalidae,Cardinalis cardinalis,Cardinalis_cardinalis,Northern Cardinal,N5
+GS001128,Birds - Oiseaux,Passeriformes,Cardinalidae,Passerina amoena,Passerina_amoena,Lazuli Bunting,"N5B,N5M"
+GS001130,Birds - Oiseaux,Passeriformes,Cardinalidae,Passerina cyanea,Passerina_cyanea,Indigo Bunting,"N5B,N5M"
+GS001132,Birds - Oiseaux,Passeriformes,Cardinalidae,Pheucticus ludovicianus,Pheucticus_ludovicianus,Rose-breasted Grosbeak,"N5B,N5M"
+GS001133,Birds - Oiseaux,Passeriformes,Cardinalidae,Pheucticus melanocephalus,Pheucticus_melanocephalus,Black-headed Grosbeak,"N5B,N4N5M"
+GS001307,Birds - Oiseaux,Passeriformes,Cardinalidae,Piranga ludoviciana,Piranga_ludoviciana,Western Tanager,"N5B,N5M"
+GS001308,Birds - Oiseaux,Passeriformes,Cardinalidae,Piranga olivacea,Piranga_olivacea,Scarlet Tanager,"N5B,N4N5M"
+GS001135,Birds - Oiseaux,Passeriformes,Certhiidae,Certhia americana,Certhia_americana,Brown Creeper,"N5B,N5N,N5M"
+GS001136,Birds - Oiseaux,Passeriformes,Cinclidae,Cinclus mexicanus,Cinclus_mexicanus,American Dipper,"N5B,N5N,NNRM"
+GS001138,Birds - Oiseaux,Passeriformes,Corvidae,Corvus brachyrhynchos,Corvus_brachyrhynchos,American Crow,"N5B,N5N,N5M"
+GS001139,Birds - Oiseaux,Passeriformes,Corvidae,Corvus caurinus,Corvus_caurinus,Northwestern Crow,N5
+GS001140,Birds - Oiseaux,Passeriformes,Corvidae,Corvus corax,Corvus_corax,Common Raven,N5
+GS001143,Birds - Oiseaux,Passeriformes,Corvidae,Cyanocitta cristata,Cyanocitta_cristata,Blue Jay,"N5B,N5N,NNRM"
+GS001144,Birds - Oiseaux,Passeriformes,Corvidae,Cyanocitta stelleri,Cyanocitta_stelleri,Steller's Jay,N5
+GS001146,Birds - Oiseaux,Passeriformes,Corvidae,Nucifraga columbiana,Nucifraga_columbiana,Clark's Nutcracker,N5
+GS001147,Birds - Oiseaux,Passeriformes,Corvidae,Perisoreus canadensis,Perisoreus_canadensis,Gray Jay,"N5B,N5N,NUM"
+GS001148,Birds - Oiseaux,Passeriformes,Corvidae,Pica hudsonia,Pica_hudsonia,Black-billed Magpie,N5
+GS001151,Birds - Oiseaux,Passeriformes,Emberizidae,Ammodramus bairdii,Ammodramus_bairdii,Baird's Sparrow,"N4N5B,N4N5M"
+GS001152,Birds - Oiseaux,Passeriformes,Emberizidae,Ammodramus henslowii,Ammodramus_henslowii,Henslow's Sparrow,"N1B,N1M"
+GS001153,Birds - Oiseaux,Passeriformes,Emberizidae,Ammodramus leconteii,Ammodramus_leconteii,Le Conte's Sparrow,"N5B,N5M"
+GS001155,Birds - Oiseaux,Passeriformes,Emberizidae,Ammodramus nelsoni,Ammodramus_nelsoni,Nelson's Sparrow,"N5B,N5M"
+GS001156,Birds - Oiseaux,Passeriformes,Emberizidae,Ammodramus savannarum,Ammodramus_savannarum,Grasshopper Sparrow,"N4N5B,N4N5M"
+GS001159,Birds - Oiseaux,Passeriformes,Emberizidae,Calamospiza melanocorys,Calamospiza_melanocorys,Lark Bunting,"N4B,N4M"
+GS001160,Birds - Oiseaux,Passeriformes,Emberizidae,Calcarius lapponicus,Calcarius_lapponicus,Lapland Longspur,"N5B,N5N,N5M"
+GS001162,Birds - Oiseaux,Passeriformes,Emberizidae,Calcarius ornatus,Calcarius_ornatus,Chestnut-collared Longspur,"N3B,N3M"
+GS001163,Birds - Oiseaux,Passeriformes,Emberizidae,Calcarius pictus,Calcarius_pictus,Smith's Longspur,"N4N5B,N4N5M"
+GS001164,Birds - Oiseaux,Passeriformes,Emberizidae,Chondestes grammacus,Chondestes_grammacus,Lark Sparrow,"N5B,N5M"
+GS001166,Birds - Oiseaux,Passeriformes,Emberizidae,Junco hyemalis,Junco_hyemalis,Dark-eyed Junco,"N5B,N5N,N5M"
+GS001167,Birds - Oiseaux,Passeriformes,Emberizidae,Melospiza georgiana,Melospiza_georgiana,Swamp Sparrow,"N5B,NUN,N5M"
+GS001168,Birds - Oiseaux,Passeriformes,Emberizidae,Melospiza lincolnii,Melospiza_lincolnii,Lincoln's Sparrow,"N5B,N5N,N5M"
+GS001169,Birds - Oiseaux,Passeriformes,Emberizidae,Melospiza melodia,Melospiza_melodia,Song Sparrow,"N5B,N5N,N5M"
+GS001170,Birds - Oiseaux,Passeriformes,Emberizidae,Passerculus sandwichensis,Passerculus_sandwichensis,Savannah Sparrow,"N5B,N4N,N5M"
+GS001171,Birds - Oiseaux,Passeriformes,Emberizidae,Passerella iliaca,Passerella_iliaca,Fox Sparrow,"N5B,N4N5N,N5M"
+GS001173,Birds - Oiseaux,Passeriformes,Emberizidae,Pipilo erythrophthalmus,Pipilo_erythrophthalmus,Eastern Towhee,"N4B,N4M"
+GS001174,Birds - Oiseaux,Passeriformes,Emberizidae,Pipilo maculatus,Pipilo_maculatus,Spotted Towhee,"N5B,N5M"
+GS001176,Birds - Oiseaux,Passeriformes,Emberizidae,Plectrophenax nivalis,Plectrophenax_nivalis,Snow Bunting,"N5B,N5N,N5M"
+GS001177,Birds - Oiseaux,Passeriformes,Emberizidae,Pooecetes gramineus,Pooecetes_gramineus,Vesper Sparrow,"N5B,N5M"
+GS001161,Birds - Oiseaux,Passeriformes,Emberizidae,Rhynchophanes mccownii,Rhynchophanes_mccownii,McCown's Longspur,"N3N4B,N3N4M"
+GS001178,Birds - Oiseaux,Passeriformes,Emberizidae,Spizella arborea,Spizella_arborea,American Tree Sparrow,"N5B,N5N,N5M"
+GS001179,Birds - Oiseaux,Passeriformes,Emberizidae,Spizella breweri,Spizella_breweri,Brewer's Sparrow,"N4N5B,N4N5M"
+GS001180,Birds - Oiseaux,Passeriformes,Emberizidae,Spizella pallida,Spizella_pallida,Clay-colored Sparrow,"N5B,N5M"
+GS001181,Birds - Oiseaux,Passeriformes,Emberizidae,Spizella passerina,Spizella_passerina,Chipping Sparrow,"N5B,N5M"
+GS001182,Birds - Oiseaux,Passeriformes,Emberizidae,Spizella pusilla,Spizella_pusilla,Field Sparrow,"N4N5B,NUM"
+GS001183,Birds - Oiseaux,Passeriformes,Emberizidae,Zonotrichia albicollis,Zonotrichia_albicollis,White-throated Sparrow,"N5B,N5N,N5M"
+GS001184,Birds - Oiseaux,Passeriformes,Emberizidae,Zonotrichia atricapilla,Zonotrichia_atricapilla,Golden-crowned Sparrow,"N5B,N5?N,NUM"
+GS001185,Birds - Oiseaux,Passeriformes,Emberizidae,Zonotrichia leucophrys,Zonotrichia_leucophrys,White-crowned Sparrow,"N5B,N5N,N5M"
+GS001186,Birds - Oiseaux,Passeriformes,Emberizidae,Zonotrichia querula,Zonotrichia_querula,Harris's Sparrow,"N4B,NUN,N5M"
+GS001188,Birds - Oiseaux,Passeriformes,Fringillidae,Acanthis flammea,Acanthis_flammea,Common Redpoll,"N5B,N5N,N5M"
+GS001189,Birds - Oiseaux,Passeriformes,Fringillidae,Acanthis hornemanni,Acanthis_hornemanni,Hoary Redpoll,"N4N5B,N5N,N5M"
+GS001196,Birds - Oiseaux,Passeriformes,Fringillidae,Coccothraustes vespertinus,Coccothraustes_vespertinus,Evening Grosbeak,"N4B,N4N,NUM"
+GS001198,Birds - Oiseaux,Passeriformes,Fringillidae,Fringilla montifringilla,Fringilla_montifringilla,Brambling,NU
+GS001193,Birds - Oiseaux,Passeriformes,Fringillidae,Haemorhous cassinii,Haemorhous_cassinii,Cassin's Finch,"N5B,NUM"
+GS001194,Birds - Oiseaux,Passeriformes,Fringillidae,Haemorhous mexicanus,Haemorhous_mexicanus,House Finch,N5
+GS001195,Birds - Oiseaux,Passeriformes,Fringillidae,Haemorhous purpureus,Haemorhous_purpureus,Purple Finch,"N5B,N5N,N5M"
+GS001200,Birds - Oiseaux,Passeriformes,Fringillidae,Leucosticte tephrocotis,Leucosticte_tephrocotis,Gray-crowned Rosy-Finch,"N5B,N4N5N,N5M"
+GS001201,Birds - Oiseaux,Passeriformes,Fringillidae,Loxia curvirostra,Loxia_curvirostra,Red Crossbill,"N5B,N5N,N5M"
+GS001202,Birds - Oiseaux,Passeriformes,Fringillidae,Loxia leucoptera,Loxia_leucoptera,White-winged Crossbill,"N5B,N5N,N5M"
+GS001203,Birds - Oiseaux,Passeriformes,Fringillidae,Pinicola enucleator,Pinicola_enucleator,Pine Grosbeak,"N5B,N5N,N5M"
+GS001190,Birds - Oiseaux,Passeriformes,Fringillidae,Spinus pinus,Spinus_pinus,Pine Siskin,"N5B,N5N,N5M"
+GS001192,Birds - Oiseaux,Passeriformes,Fringillidae,Spinus tristis,Spinus_tristis,American Goldfinch,"N5B,N5N,N5M"
+GS001204,Birds - Oiseaux,Passeriformes,Hirundinidae,Hirundo rustica,Hirundo_rustica,Barn Swallow,"N3N4B,N3N4M"
+GS001206,Birds - Oiseaux,Passeriformes,Hirundinidae,Petrochelidon pyrrhonota,Petrochelidon_pyrrhonota,Cliff Swallow,"N5B,N5M"
+GS001207,Birds - Oiseaux,Passeriformes,Hirundinidae,Progne subis,Progne_subis,Purple Martin,"N5B,N5M"
+GS001208,Birds - Oiseaux,Passeriformes,Hirundinidae,Riparia riparia,Riparia_riparia,Bank Swallow,"N5B,N5M"
+GS001209,Birds - Oiseaux,Passeriformes,Hirundinidae,Stelgidopteryx serripennis,Stelgidopteryx_serripennis,Northern Rough-winged Swallow,"N5B,N5M"
+GS001210,Birds - Oiseaux,Passeriformes,Hirundinidae,Tachycineta bicolor,Tachycineta_bicolor,Tree Swallow,"N5B,N5M"
+GS001212,Birds - Oiseaux,Passeriformes,Hirundinidae,Tachycineta thalassina,Tachycineta_thalassina,Violet-green Swallow,"N5B,N5M"
+GS001213,Birds - Oiseaux,Passeriformes,Icteridae,Agelaius phoeniceus,Agelaius_phoeniceus,Red-winged Blackbird,"N5B,N5N,N5M"
+GS001214,Birds - Oiseaux,Passeriformes,Icteridae,Dolichonyx oryzivorus,Dolichonyx_oryzivorus,Bobolink,"N5B,N4N5M"
+GS001215,Birds - Oiseaux,Passeriformes,Icteridae,Euphagus carolinus,Euphagus_carolinus,Rusty Blackbird,"N4B,NUN,N4M"
+GS001216,Birds - Oiseaux,Passeriformes,Icteridae,Euphagus cyanocephalus,Euphagus_cyanocephalus,Brewer's Blackbird,"N5B,N4N5M,N5M"
+GS001217,Birds - Oiseaux,Passeriformes,Icteridae,Icterus bullockii,Icterus_bullockii,Bullock's Oriole,"N5B,N5M"
+GS001220,Birds - Oiseaux,Passeriformes,Icteridae,Icterus galbula,Icterus_galbula,Baltimore Oriole,"N5B,N5M"
+GS001222,Birds - Oiseaux,Passeriformes,Icteridae,Icterus spurius,Icterus_spurius,Orchard Oriole,"N5B,N5M"
+GS001223,Birds - Oiseaux,Passeriformes,Icteridae,Molothrus ater,Molothrus_ater,Brown-headed Cowbird,"N5B,NUN,N5M"
+GS001226,Birds - Oiseaux,Passeriformes,Icteridae,Quiscalus quiscula,Quiscalus_quiscula,Common Grackle,"N5B,NUN,N5M"
+GS001227,Birds - Oiseaux,Passeriformes,Icteridae,Sturnella magna,Sturnella_magna,Eastern Meadowlark,"N4N5B,NUM"
+GS001228,Birds - Oiseaux,Passeriformes,Icteridae,Sturnella neglecta,Sturnella_neglecta,Western Meadowlark,"N5B,N4N,N5M"
+GS001229,Birds - Oiseaux,Passeriformes,Icteridae,Xanthocephalus xanthocephalus,Xanthocephalus_xanthocephalus,Yellow-headed Blackbird,"N5B,N5M"
+GS001230,Birds - Oiseaux,Passeriformes,Laniidae,Lanius excubitor,Lanius_excubitor,Northern Shrike,"N5B,N5N,N5M"
+GS001231,Birds - Oiseaux,Passeriformes,Laniidae,Lanius ludovicianus,Lanius_ludovicianus,Loggerhead Shrike,"N3B,N3M"
+GS001232,Birds - Oiseaux,Passeriformes,Mimidae,Dumetella carolinensis,Dumetella_carolinensis,Gray Catbird,"N5B,N5M"
+GS001233,Birds - Oiseaux,Passeriformes,Mimidae,Mimus polyglottos,Mimus_polyglottos,Northern Mockingbird,"N5B,N4N5N,N5M"
+GS001234,Birds - Oiseaux,Passeriformes,Mimidae,Oreoscoptes montanus,Oreoscoptes_montanus,Sage Thrasher,"N1B,N1M"
+GS001237,Birds - Oiseaux,Passeriformes,Mimidae,Toxostoma rufum,Toxostoma_rufum,Brown Thrasher,"N5B,NUN,N5M"
+GS001239,Birds - Oiseaux,Passeriformes,Motacillidae,Anthus rubescens,Anthus_rubescens,American Pipit,"N5B,N4N,N5M"
+GS001240,Birds - Oiseaux,Passeriformes,Motacillidae,Anthus spragueii,Anthus_spragueii,Sprague's Pipit,"N3N4B,N3N4M"
+GS001242,Birds - Oiseaux,Passeriformes,Motacillidae,Motacilla tschutschensis,Motacilla_tschutschensis,Eastern Yellow Wagtail,"N1B,NNRM"
+GS001244,Birds - Oiseaux,Passeriformes,Paridae,Baeolophus bicolor,Baeolophus_bicolor,Tufted Titmouse,N4N5
+GS001246,Birds - Oiseaux,Passeriformes,Paridae,Poecile atricapillus,Poecile_atricapillus,Black-capped Chickadee,N5
+GS001248,Birds - Oiseaux,Passeriformes,Paridae,Poecile cinctus,Poecile_cinctus,Gray-headed Chickadee,NU
+GS001249,Birds - Oiseaux,Passeriformes,Paridae,Poecile gambeli,Poecile_gambeli,Mountain Chickadee,N5
+GS001250,Birds - Oiseaux,Passeriformes,Paridae,Poecile hudsonicus,Poecile_hudsonicus,Boreal Chickadee,"N5B,N5N,NUM"
+GS001251,Birds - Oiseaux,Passeriformes,Paridae,Poecile rufescens,Poecile_rufescens,Chestnut-backed Chickadee,N5
+GS001293,Birds - Oiseaux,Passeriformes,Parulidae,Cardellina canadensis,Cardellina_canadensis,Canada Warbler,"N3B,N3M"
+GS001295,Birds - Oiseaux,Passeriformes,Parulidae,Cardellina pusilla,Cardellina_pusilla,Wilson's Warbler,"N5B,N5M"
+GS001279,Birds - Oiseaux,Passeriformes,Parulidae,Geothlypis philadelphia,Geothlypis_philadelphia,Mourning Warbler,"N5B,N5M"
+GS001280,Birds - Oiseaux,Passeriformes,Parulidae,Geothlypis tolmiei,Geothlypis_tolmiei,MacGillivray's Warbler,"N5B,N5M"
+GS001271,Birds - Oiseaux,Passeriformes,Parulidae,Geothlypis trichas,Geothlypis_trichas,Common Yellowthroat,"N5B,N5M"
+GS001273,Birds - Oiseaux,Passeriformes,Parulidae,Icteria virens,Icteria_virens,Yellow-breasted Chat,"N3B,N3M"
+GS001275,Birds - Oiseaux,Passeriformes,Parulidae,Mniotilta varia,Mniotilta_varia,Black-and-white Warbler,"N5B,N5M"
+GS001277,Birds - Oiseaux,Passeriformes,Parulidae,Oporornis agilis,Oporornis_agilis,Connecticut Warbler,"N5B,N4N5M"
+GS001287,Birds - Oiseaux,Passeriformes,Parulidae,Oreothlypis celata,Oreothlypis_celata,Orange-crowned Warbler,"N5B,N3N,N5M"
+GS001289,Birds - Oiseaux,Passeriformes,Parulidae,Oreothlypis peregrina,Oreothlypis_peregrina,Tennessee Warbler,"N5B,N5M"
+GS001291,Birds - Oiseaux,Passeriformes,Parulidae,Oreothlypis ruficapilla,Oreothlypis_ruficapilla,Nashville Warbler,"N5B,N5M"
+GS001284,Birds - Oiseaux,Passeriformes,Parulidae,Parkesia motacilla,Parkesia_motacilla,Louisiana Waterthrush,"N3B,NUM"
+GS001285,Birds - Oiseaux,Passeriformes,Parulidae,Parkesia noveboracensis,Parkesia_noveboracensis,Northern Waterthrush,"N5B,N5M"
+GS001282,Birds - Oiseaux,Passeriformes,Parulidae,Protonotaria citrea,Protonotaria_citrea,Prothonotary Warbler,"N1B,NNRM"
+GS001283,Birds - Oiseaux,Passeriformes,Parulidae,Seiurus aurocapilla,Seiurus_aurocapilla,Ovenbird,"N5B,N5M"
+GS001281,Birds - Oiseaux,Passeriformes,Parulidae,Setophaga americana,Setophaga_americana,Northern Parula,"N5B,N5M"
+GS001252,Birds - Oiseaux,Passeriformes,Parulidae,Setophaga caerulescens,Setophaga_caerulescens,Black-throated Blue Warbler,"N5B,N5M"
+GS001253,Birds - Oiseaux,Passeriformes,Parulidae,Setophaga castanea,Setophaga_castanea,Bay-breasted Warbler,"N5B,N5M"
+GS001254,Birds - Oiseaux,Passeriformes,Parulidae,Setophaga cerulea,Setophaga_cerulea,Cerulean Warbler,"N3B,NUM"
+GS001294,Birds - Oiseaux,Passeriformes,Parulidae,Setophaga citrina,Setophaga_citrina,Hooded Warbler,"N4B,NNRM"
+GS001255,Birds - Oiseaux,Passeriformes,Parulidae,Setophaga coronata,Setophaga_coronata,Yellow-rumped Warbler,"N5B,N4N,N5M"
+GS001256,Birds - Oiseaux,Passeriformes,Parulidae,Setophaga discolor,Setophaga_discolor,Prairie Warbler,"N3N4B,NNRM"
+GS001258,Birds - Oiseaux,Passeriformes,Parulidae,Setophaga fusca,Setophaga_fusca,Blackburnian Warbler,"N5B,N5M"
+GS001259,Birds - Oiseaux,Passeriformes,Parulidae,Setophaga kirtlandii,Setophaga_kirtlandii,Kirtland's Warbler,"N1B,NNRM"
+GS001260,Birds - Oiseaux,Passeriformes,Parulidae,Setophaga magnolia,Setophaga_magnolia,Magnolia Warbler,"N5B,N5M"
+GS001261,Birds - Oiseaux,Passeriformes,Parulidae,Setophaga nigrescens,Setophaga_nigrescens,Black-throated Gray Warbler,"N4N5B,N4N5M"
+GS001263,Birds - Oiseaux,Passeriformes,Parulidae,Setophaga palmarum,Setophaga_palmarum,Palm Warbler,"N5B,N5M"
+GS001264,Birds - Oiseaux,Passeriformes,Parulidae,Setophaga pensylvanica,Setophaga_pensylvanica,Chestnut-sided Warbler,"N5B,N5M"
+GS001265,Birds - Oiseaux,Passeriformes,Parulidae,Setophaga petechia,Setophaga_petechia,Yellow Warbler,"N5B,N5M"
+GS001266,Birds - Oiseaux,Passeriformes,Parulidae,Setophaga pinus,Setophaga_pinus,Pine Warbler,"N5B,N5M"
+GS001286,Birds - Oiseaux,Passeriformes,Parulidae,Setophaga ruticilla,Setophaga_ruticilla,American Redstart,"N5B,N5M"
+GS001267,Birds - Oiseaux,Passeriformes,Parulidae,Setophaga striata,Setophaga_striata,Blackpoll Warbler,"N5B,N5M"
+GS001268,Birds - Oiseaux,Passeriformes,Parulidae,Setophaga tigrina,Setophaga_tigrina,Cape May Warbler,"N5B,N5M"
+GS001269,Birds - Oiseaux,Passeriformes,Parulidae,Setophaga townsendi,Setophaga_townsendi,Townsend's Warbler,"N5B,N5M"
+GS001270,Birds - Oiseaux,Passeriformes,Parulidae,Setophaga virens,Setophaga_virens,Black-throated Green Warbler,"N5B,N5M"
+GS001288,Birds - Oiseaux,Passeriformes,Parulidae,Vermivora chrysoptera,Vermivora_chrysoptera,Golden-winged Warbler,"N3B,NUM"
+GS001290,Birds - Oiseaux,Passeriformes,Parulidae,Vermivora cyanoptera,Vermivora_cyanoptera,Blue-winged Warbler,"N5B,N5M"
+GS001299,Birds - Oiseaux,Passeriformes,Regulidae,Regulus calendula,Regulus_calendula,Ruby-crowned Kinglet,"N5B,N5N,N5M"
+GS001300,Birds - Oiseaux,Passeriformes,Regulidae,Regulus satrapa,Regulus_satrapa,Golden-crowned Kinglet,"N5B,N5N,N5M"
+GS001301,Birds - Oiseaux,Passeriformes,Sittidae,Sitta canadensis,Sitta_canadensis,Red-breasted Nuthatch,"N5B,N5N,N5M"
+GS001302,Birds - Oiseaux,Passeriformes,Sittidae,Sitta carolinensis,Sitta_carolinensis,White-breasted Nuthatch,N5
+GS001303,Birds - Oiseaux,Passeriformes,Sittidae,Sitta pygmaea,Sitta_pygmaea,Pygmy Nuthatch,N4N5
+GS001306,Birds - Oiseaux,Passeriformes,Sylviidae,Polioptila caerulea,Polioptila_caerulea,Blue-gray Gnatcatcher,"N4N5B,N4M"
+GS001311,Birds - Oiseaux,Passeriformes,Troglodytidae,Catherpes mexicanus,Catherpes_mexicanus,Canyon Wren,N3
+GS001312,Birds - Oiseaux,Passeriformes,Troglodytidae,Cistothorus palustris,Cistothorus_palustris,Marsh Wren,"N5B,N5N,N5M"
+GS001313,Birds - Oiseaux,Passeriformes,Troglodytidae,Cistothorus platensis,Cistothorus_platensis,Sedge Wren,"N5B,N5M"
+GS001314,Birds - Oiseaux,Passeriformes,Troglodytidae,Salpinctes obsoletus,Salpinctes_obsoletus,Rock Wren,"N5B,N4N,N4N5M"
+GS001315,Birds - Oiseaux,Passeriformes,Troglodytidae,Thryomanes bewickii,Thryomanes_bewickii,Bewick's Wren,N4N5
+GS001316,Birds - Oiseaux,Passeriformes,Troglodytidae,Thryothorus ludovicianus,Thryothorus_ludovicianus,Carolina Wren,N4N5
+GS001317,Birds - Oiseaux,Passeriformes,Troglodytidae,Troglodytes aedon,Troglodytes_aedon,House Wren,"N5B,N5M"
+GS030408,Birds - Oiseaux,Passeriformes,Troglodytidae,Troglodytes hiemalis,Troglodytes_hiemalis,Winter Wren,"N5B,N5M"
+GS030409,Birds - Oiseaux,Passeriformes,Troglodytidae,Troglodytes pacificus,Troglodytes_pacificus,Pacific Wren,"N5B,N4N5M"
+GS001318,Birds - Oiseaux,Passeriformes,Troglodytidae,Troglodytes troglodytes,Troglodytes_troglodytes,,"N5B,N5M"
+GS001319,Birds - Oiseaux,Passeriformes,Turdidae,Catharus bicknelli,Catharus_bicknelli,Bicknell's Thrush,"N2B,N2M"
+GS001320,Birds - Oiseaux,Passeriformes,Turdidae,Catharus fuscescens,Catharus_fuscescens,Veery,"N5B,N5M"
+GS001321,Birds - Oiseaux,Passeriformes,Turdidae,Catharus guttatus,Catharus_guttatus,Hermit Thrush,"N5B,NUN,N5M"
+GS001322,Birds - Oiseaux,Passeriformes,Turdidae,Catharus minimus,Catharus_minimus,Gray-cheeked Thrush,"N5B,N5M"
+GS001323,Birds - Oiseaux,Passeriformes,Turdidae,Catharus ustulatus,Catharus_ustulatus,Swainson's Thrush,"N5B,N5M"
+GS001324,Birds - Oiseaux,Passeriformes,Turdidae,Hylocichla mustelina,Hylocichla_mustelina,Wood Thrush,"N4N5B,NUM"
+GS001325,Birds - Oiseaux,Passeriformes,Turdidae,Ixoreus naevius,Ixoreus_naevius,Varied Thrush,"N5B,NUN,N5M"
+GS001327,Birds - Oiseaux,Passeriformes,Turdidae,Luscinia svecica,Luscinia_svecica,Bluethroat,"N1B,NNRM"
+GS001328,Birds - Oiseaux,Passeriformes,Turdidae,Myadestes townsendi,Myadestes_townsendi,Townsend's Solitaire,"N5B,NUN,N5M"
+GS001329,Birds - Oiseaux,Passeriformes,Turdidae,Oenanthe oenanthe,Oenanthe_oenanthe,Northern Wheatear,"N4N5B,N4N5M"
+GS001331,Birds - Oiseaux,Passeriformes,Turdidae,Sialia currucoides,Sialia_currucoides,Mountain Bluebird,"N4N5B,N4N5M"
+GS001332,Birds - Oiseaux,Passeriformes,Turdidae,Sialia mexicana,Sialia_mexicana,Western Bluebird,"N4B,N2N3N,N4M"
+GS001333,Birds - Oiseaux,Passeriformes,Turdidae,Sialia sialis,Sialia_sialis,Eastern Bluebird,"N5B,N5M"
+GS001336,Birds - Oiseaux,Passeriformes,Turdidae,Turdus migratorius,Turdus_migratorius,American Robin,"N5B,N4N5N,N5M"
+GS001338,Birds - Oiseaux,Passeriformes,Tyrannidae,Contopus cooperi,Contopus_cooperi,Olive-sided Flycatcher,"N3B,N3M"
+GS001339,Birds - Oiseaux,Passeriformes,Tyrannidae,Contopus sordidulus,Contopus_sordidulus,Western Wood-Pewee,"N5B,N4N5M"
+GS001340,Birds - Oiseaux,Passeriformes,Tyrannidae,Contopus virens,Contopus_virens,Eastern Wood-Pewee,"N5B,N5M"
+GS001341,Birds - Oiseaux,Passeriformes,Tyrannidae,Empidonax alnorum,Empidonax_alnorum,Alder Flycatcher,"N5B,N5M"
+GS001342,Birds - Oiseaux,Passeriformes,Tyrannidae,Empidonax difficilis,Empidonax_difficilis,Pacific-slope Flycatcher,"N5B,NUM"
+GS001343,Birds - Oiseaux,Passeriformes,Tyrannidae,Empidonax flaviventris,Empidonax_flaviventris,Yellow-bellied Flycatcher,"N5B,N5M"
+GS001344,Birds - Oiseaux,Passeriformes,Tyrannidae,Empidonax hammondii,Empidonax_hammondii,Hammond's Flycatcher,"N5B,N5M"
+GS001345,Birds - Oiseaux,Passeriformes,Tyrannidae,Empidonax minimus,Empidonax_minimus,Least Flycatcher,"N5B,N5M"
+GS001346,Birds - Oiseaux,Passeriformes,Tyrannidae,Empidonax oberholseri,Empidonax_oberholseri,Dusky Flycatcher,"N5B,N5M"
+GS001347,Birds - Oiseaux,Passeriformes,Tyrannidae,Empidonax occidentalis,Empidonax_occidentalis,Cordilleran Flycatcher,"N4B,NUM"
+GS001348,Birds - Oiseaux,Passeriformes,Tyrannidae,Empidonax traillii,Empidonax_traillii,Willow Flycatcher,"N5B,N5M"
+GS001349,Birds - Oiseaux,Passeriformes,Tyrannidae,Empidonax virescens,Empidonax_virescens,Acadian Flycatcher,"N2N3B,NNRM"
+GS001350,Birds - Oiseaux,Passeriformes,Tyrannidae,Empidonax wrightii,Empidonax_wrightii,Gray Flycatcher,"N3B,NUM"
+GS001353,Birds - Oiseaux,Passeriformes,Tyrannidae,Myiarchus crinitus,Myiarchus_crinitus,Great Crested Flycatcher,"N5B,N5M"
+GS001358,Birds - Oiseaux,Passeriformes,Tyrannidae,Sayornis phoebe,Sayornis_phoebe,Eastern Phoebe,"N5B,N5M"
+GS001359,Birds - Oiseaux,Passeriformes,Tyrannidae,Sayornis saya,Sayornis_saya,Say's Phoebe,"N5B,N5M"
+GS001365,Birds - Oiseaux,Passeriformes,Tyrannidae,Tyrannus tyrannus,Tyrannus_tyrannus,Eastern Kingbird,"N5B,N5M"
+GS001366,Birds - Oiseaux,Passeriformes,Tyrannidae,Tyrannus verticalis,Tyrannus_verticalis,Western Kingbird,"N5B,N5M"
+GS001370,Birds - Oiseaux,Passeriformes,Vireonidae,Vireo cassinii,Vireo_cassinii,Cassin's Vireo,"N5B,N5M"
+GS001371,Birds - Oiseaux,Passeriformes,Vireonidae,Vireo flavifrons,Vireo_flavifrons,Yellow-throated Vireo,"N4N5B,N4N5M"
+GS001372,Birds - Oiseaux,Passeriformes,Vireonidae,Vireo gilvus,Vireo_gilvus,Warbling Vireo,"N5B,N5M"
+GS001374,Birds - Oiseaux,Passeriformes,Vireonidae,Vireo huttoni,Vireo_huttoni,Hutton's Vireo,N4
+GS001375,Birds - Oiseaux,Passeriformes,Vireonidae,Vireo olivaceus,Vireo_olivaceus,Red-eyed Vireo,"N5B,N5N,N5M"
+GS001376,Birds - Oiseaux,Passeriformes,Vireonidae,Vireo philadelphicus,Vireo_philadelphicus,Philadelphia Vireo,"N5B,N5M"
+GS001378,Birds - Oiseaux,Passeriformes,Vireonidae,Vireo solitarius,Vireo_solitarius,Blue-headed Vireo,"N5B,N5M"
+GS001381,Birds - Oiseaux,Pelecaniformes,Pelecanidae,Pelecanus erythrorhynchos,Pelecanus_erythrorhynchos,American White Pelican,"N5B,N5M"
+GS001382,Birds - Oiseaux,Pelecaniformes,Pelecanidae,Pelecanus occidentalis,Pelecanus_occidentalis,Brown Pelican,NNRM
+GS001384,Birds - Oiseaux,Pelecaniformes,Phalacrocoracidae,Phalacrocorax auritus,Phalacrocorax_auritus,Double-crested Cormorant,"N5B,N3N4N,N5M"
+GS001386,Birds - Oiseaux,Pelecaniformes,Phalacrocoracidae,Phalacrocorax carbo,Phalacrocorax_carbo,Great Cormorant,"N3N4B,N3N4N,N3N4M"
+GS001387,Birds - Oiseaux,Pelecaniformes,Phalacrocoracidae,Phalacrocorax pelagicus,Phalacrocorax_pelagicus,Pelagic Cormorant,"N4B,N4N5N,N4N5M"
+GS001388,Birds - Oiseaux,Pelecaniformes,Phalacrocoracidae,Phalacrocorax penicillatus,Phalacrocorax_penicillatus,Brandt's Cormorant,"N1B,N4N5N,N4N5M"
+GS001390,Birds - Oiseaux,Pelecaniformes,Sulidae,Morus bassanus,Morus_bassanus,Northern Gannet,"N4N5B,N5M"
+GS001393,Birds - Oiseaux,Piciformes,Picidae,Colaptes auratus,Colaptes_auratus,Northern Flicker,"N5B,N5N,N5M"
+GS001394,Birds - Oiseaux,Piciformes,Picidae,Dryocopus pileatus,Dryocopus_pileatus,Pileated Woodpecker,N5
+GS001395,Birds - Oiseaux,Piciformes,Picidae,Melanerpes carolinus,Melanerpes_carolinus,Red-bellied Woodpecker,"N4N5B,N4N5N,N3M"
+GS001396,Birds - Oiseaux,Piciformes,Picidae,Melanerpes erythrocephalus,Melanerpes_erythrocephalus,Red-headed Woodpecker,"N3N4B,NUM"
+GS001397,Birds - Oiseaux,Piciformes,Picidae,Melanerpes lewis,Melanerpes_lewis,Lewis's Woodpecker,"N3B,N3M"
+GS001398,Birds - Oiseaux,Piciformes,Picidae,Picoides albolarvatus,Picoides_albolarvatus,White-headed Woodpecker,N1
+GS001399,Birds - Oiseaux,Piciformes,Picidae,Picoides arcticus,Picoides_arcticus,Black-backed Woodpecker,N5
+GS001401,Birds - Oiseaux,Piciformes,Picidae,Picoides dorsalis,Picoides_dorsalis,American Three-toed Woodpecker,"N5B,N5N,NUM"
+GS001400,Birds - Oiseaux,Piciformes,Picidae,Picoides pubescens,Picoides_pubescens,Downy Woodpecker,N5
+GS001402,Birds - Oiseaux,Piciformes,Picidae,Picoides villosus,Picoides_villosus,Hairy Woodpecker,"N5B,N5N,NUM"
+GS001403,Birds - Oiseaux,Piciformes,Picidae,Sphyrapicus nuchalis,Sphyrapicus_nuchalis,Red-naped Sapsucker,"N5B,N4N5M"
+GS001404,Birds - Oiseaux,Piciformes,Picidae,Sphyrapicus ruber,Sphyrapicus_ruber,Red-breasted Sapsucker,N5
+GS001405,Birds - Oiseaux,Piciformes,Picidae,Sphyrapicus thyroideus,Sphyrapicus_thyroideus,Williamson's Sapsucker,"N3B,N3M"
+GS001406,Birds - Oiseaux,Piciformes,Picidae,Sphyrapicus varius,Sphyrapicus_varius,Yellow-bellied Sapsucker,"N5B,N5M"
+GS001407,Birds - Oiseaux,Podicipediformes,Podicipedidae,Aechmophorus clarkii,Aechmophorus_clarkii,Clark's Grebe,"N1N2B,N1N,N1N2M"
+GS001408,Birds - Oiseaux,Podicipediformes,Podicipedidae,Aechmophorus occidentalis,Aechmophorus_occidentalis,Western Grebe,"N4B,N2N3N,N4M"
+GS001409,Birds - Oiseaux,Podicipediformes,Podicipedidae,Podiceps auritus,Podiceps_auritus,Horned Grebe,"N5B,N5N,N5M"
+GS001410,Birds - Oiseaux,Podicipediformes,Podicipedidae,Podiceps grisegena,Podiceps_grisegena,Red-necked Grebe,"N5B,N5N,N5M"
+GS001411,Birds - Oiseaux,Podicipediformes,Podicipedidae,Podiceps nigricollis,Podiceps_nigricollis,Eared Grebe,"N5B,NUN,N5M"
+GS001412,Birds - Oiseaux,Podicipediformes,Podicipedidae,Podilymbus podiceps,Podilymbus_podiceps,Pied-billed Grebe,"N5B,N4N5N,N5M"
+GS001414,Birds - Oiseaux,Procellariiformes,Diomedeidae,Phoebastria albatrus,Phoebastria_albatrus,Short-tailed Albatross,"N1N,N1M"
+GS001415,Birds - Oiseaux,Procellariiformes,Diomedeidae,Phoebastria immutabilis,Phoebastria_immutabilis,Laysan Albatross,"N3N,N3M"
+GS001416,Birds - Oiseaux,Procellariiformes,Diomedeidae,Phoebastria nigripes,Phoebastria_nigripes,Black-footed Albatross,"N3N4N,N3N4M"
+GS001419,Birds - Oiseaux,Procellariiformes,Hydrobatidae,Oceanites oceanicus,Oceanites_oceanicus,Wilson's Storm-Petrel,"N5N,N5M"
+GS001421,Birds - Oiseaux,Procellariiformes,Hydrobatidae,Oceanodroma furcata,Oceanodroma_furcata,Fork-tailed Storm-Petrel,"N4N5B,N4N5N,N4N5M"
+GS001422,Birds - Oiseaux,Procellariiformes,Hydrobatidae,Oceanodroma leucorhoa,Oceanodroma_leucorhoa,Leach's Storm-Petrel,"N4N5B,N4N5N,N5M"
+GS001425,Birds - Oiseaux,Procellariiformes,Procellariidae,Fulmarus glacialis,Fulmarus_glacialis,Northern Fulmar,"N5B,N5N,N5M"
+GS030416,Birds - Oiseaux,Procellariiformes,Procellariidae,Pterodroma cahow,Pterodroma_cahow,Bermuda Petrel,NUM
+GS001428,Birds - Oiseaux,Procellariiformes,Procellariidae,Pterodroma inexpectata,Pterodroma_inexpectata,Mottled Petrel,"NUN,NUM"
+GS001429,Birds - Oiseaux,Procellariiformes,Procellariidae,Pterodroma ultima,Pterodroma_ultima,Murphy's Petrel,NUM
+GS001431,Birds - Oiseaux,Procellariiformes,Procellariidae,Puffinus bulleri,Puffinus_bulleri,Buller's Shearwater,"N3?N,N3?M"
+GS001432,Birds - Oiseaux,Procellariiformes,Procellariidae,Puffinus carneipes,Puffinus_carneipes,Flesh-footed Shearwater,"N3N,N3M"
+GS001433,Birds - Oiseaux,Procellariiformes,Procellariidae,Puffinus creatopus,Puffinus_creatopus,Pink-footed Shearwater,"N3N,N3M"
+GS001434,Birds - Oiseaux,Procellariiformes,Procellariidae,Puffinus gravis,Puffinus_gravis,Great Shearwater,"N5N,N5M"
+GS001435,Birds - Oiseaux,Procellariiformes,Procellariidae,Puffinus griseus,Puffinus_griseus,Sooty Shearwater,"N5N,N5M"
+GS001438,Birds - Oiseaux,Procellariiformes,Procellariidae,Puffinus puffinus,Puffinus_puffinus,Manx Shearwater,"N1B,N4N5N,N4N5M"
+GS001439,Birds - Oiseaux,Procellariiformes,Procellariidae,Puffinus tenuirostris,Puffinus_tenuirostris,Short-tailed Shearwater,"NUN,NUM"
+GS001440,Birds - Oiseaux,Strigiformes,Strigidae,Aegolius acadicus,Aegolius_acadicus,Northern Saw-whet Owl,"N5B,N5N,N5M"
+GS001441,Birds - Oiseaux,Strigiformes,Strigidae,Aegolius funereus,Aegolius_funereus,Boreal Owl,"N5B,N5N,NUM"
+GS001442,Birds - Oiseaux,Strigiformes,Strigidae,Asio flammeus,Asio_flammeus,Short-eared Owl,"N4B,N3N,N4M"
+GS001443,Birds - Oiseaux,Strigiformes,Strigidae,Asio otus,Asio_otus,Long-eared Owl,"N5B,N5N,N5M"
+GS001444,Birds - Oiseaux,Strigiformes,Strigidae,Athene cunicularia,Athene_cunicularia,Burrowing Owl,"N1N2B,N1N2M"
+GS001447,Birds - Oiseaux,Strigiformes,Strigidae,Bubo scandiacus,Bubo_scandiacus,Snowy Owl,"N5B,N5N,N5M"
+GS001445,Birds - Oiseaux,Strigiformes,Strigidae,Bubo virginianus,Bubo_virginianus,Great Horned Owl,N5
+GS001446,Birds - Oiseaux,Strigiformes,Strigidae,Glaucidium gnoma,Glaucidium_gnoma,Northern Pygmy-Owl,N4N5
+GS001448,Birds - Oiseaux,Strigiformes,Strigidae,Megascops asio,Megascops_asio,Eastern Screech-Owl,N4N5
+GS001450,Birds - Oiseaux,Strigiformes,Strigidae,Megascops kennicottii,Megascops_kennicottii,Western Screech-Owl,N2N3
+GS001449,Birds - Oiseaux,Strigiformes,Strigidae,Psiloscops flammeolus,Psiloscops_flammeolus,Flammulated Owl,"N3B,NUM"
+GS001451,Birds - Oiseaux,Strigiformes,Strigidae,Strix nebulosa,Strix_nebulosa,Great Gray Owl,"N5B,N5N,NNRM"
+GS001452,Birds - Oiseaux,Strigiformes,Strigidae,Strix occidentalis,Strix_occidentalis,Spotted Owl,N1
+GS001453,Birds - Oiseaux,Strigiformes,Strigidae,Strix varia,Strix_varia,Barred Owl,N5
+GS001454,Birds - Oiseaux,Strigiformes,Strigidae,Surnia ulula,Surnia_ulula,Northern Hawk Owl,"N5B,N5N,N3M"
+GS001455,Birds - Oiseaux,Strigiformes,Tytonidae,Tyto alba,Tyto_alba,Barn Owl,"N2B,N1N,NUM"
+GS001456,Mammals - Mammifères,Artiodactyla,Antilocapridae,Antilocapra americana,Antilocapra_americana,Pronghorn,N3N4
+GS001457,Mammals - Mammifères,Artiodactyla,Bovidae,Bos bison,Bos_bison,American Bison,N3
+GS001458,Mammals - Mammifères,Artiodactyla,Bovidae,Oreamnos americanus,Oreamnos_americanus,Mountain Goat,N4
+GS001459,Mammals - Mammifères,Artiodactyla,Bovidae,Ovibos moschatus,Ovibos_moschatus,Muskox,N3N4
+GS001460,Mammals - Mammifères,Artiodactyla,Bovidae,Ovis canadensis,Ovis_canadensis,Bighorn Sheep,N4N5
+GS001461,Mammals - Mammifères,Artiodactyla,Bovidae,Ovis dalli,Ovis_dalli,Dall's Sheep,N5
+GS001462,Mammals - Mammifères,Artiodactyla,Cervidae,Alces americanus,Alces_americanus,Moose,N5
+GS001464,Mammals - Mammifères,Artiodactyla,Cervidae,Cervus canadensis,Cervus_canadensis,Wapiti,N5
+GS001465,Mammals - Mammifères,Artiodactyla,Cervidae,Odocoileus hemionus,Odocoileus_hemionus,Mule Deer,N5
+GS001466,Mammals - Mammifères,Artiodactyla,Cervidae,Odocoileus virginianus,Odocoileus_virginianus,White-tailed Deer,N5
+GS001467,Mammals - Mammifères,Artiodactyla,Cervidae,Rangifer tarandus,Rangifer_tarandus,Caribou,N5
+GS001471,Mammals - Mammifères,Carnivora,Canidae,Canis latrans,Canis_latrans,Coyote,N5
+GS001472,Mammals - Mammifères,Carnivora,Canidae,Canis lupus,Canis_lupus,Grey Wolf,N5
+GS001473,Mammals - Mammifères,Carnivora,Canidae,Urocyon cinereoargenteus,Urocyon_cinereoargenteus,Common Grey Fox,N1
+GS001469,Mammals - Mammifères,Carnivora,Canidae,Vulpes lagopus,Vulpes_lagopus,Arctic Fox,N5
+GS001474,Mammals - Mammifères,Carnivora,Canidae,Vulpes velox,Vulpes_velox,Swift Fox,N2
+GS001475,Mammals - Mammifères,Carnivora,Canidae,Vulpes vulpes,Vulpes_vulpes,Red Fox,N5
+GS001478,Mammals - Mammifères,Carnivora,Felidae,Lynx canadensis,Lynx_canadensis,Canada Lynx,N5
+GS001479,Mammals - Mammifères,Carnivora,Felidae,Lynx rufus,Lynx_rufus,Bobcat,N5
+GS001477,Mammals - Mammifères,Carnivora,Felidae,Puma concolor,Puma_concolor,Cougar,N4N5
+GS001480,Mammals - Mammifères,Carnivora,Mephitidae,Mephitis mephitis,Mephitis_mephitis,Striped Skunk,N5
+GS001481,Mammals - Mammifères,Carnivora,Mephitidae,Spilogale gracilis,Spilogale_gracilis,Western Spotted Skunk,NU
+GS001482,Mammals - Mammifères,Carnivora,Mustelidae,Enhydra lutris,Enhydra_lutris,Sea Otter,N3
+GS001483,Mammals - Mammifères,Carnivora,Mustelidae,Gulo gulo,Gulo_gulo,Wolverine,N3
+GS001484,Mammals - Mammifères,Carnivora,Mustelidae,Lontra canadensis,Lontra_canadensis,Northern River Otter,N5
+GS001485,Mammals - Mammifères,Carnivora,Mustelidae,Martes americana,Martes_americana,American Marten,N5
+GS030419,Mammals - Mammifères,Carnivora,Mustelidae,Martes caurina,Martes_caurina,Pacific Marten,N5?
+GS001487,Mammals - Mammifères,Carnivora,Mustelidae,Mustela erminea,Mustela_erminea,Ermine,N5
+GS001488,Mammals - Mammifères,Carnivora,Mustelidae,Mustela frenata,Mustela_frenata,Long-tailed Weasel,N5
+GS001491,Mammals - Mammifères,Carnivora,Mustelidae,Mustela nivalis,Mustela_nivalis,Least Weasel,N5
+GS001486,Mammals - Mammifères,Carnivora,Mustelidae,Pekania pennanti,Pekania_pennanti,Fisher,N5
+GS001493,Mammals - Mammifères,Carnivora,Mustelidae,Taxidea taxus,Taxidea_taxus,American Badger,N4
+GS001492,Mammals - Mammifères,Carnivora,Mustelidae,Vison vison,Vison_vison,American Mink,N5
+GS001494,Mammals - Mammifères,Carnivora,Odobenidae,Odobenus rosmarus,Odobenus_rosmarus,Walrus,N3
+GS001495,Mammals - Mammifères,Carnivora,Otariidae,Callorhinus ursinus,Callorhinus_ursinus,Northern Fur Seal,"N2N,N2M"
+GS001496,Mammals - Mammifères,Carnivora,Otariidae,Eumetopias jubatus,Eumetopias_jubatus,Northern Sea Lion,N3
+GS001497,Mammals - Mammifères,Carnivora,Otariidae,Zalophus californianus,Zalophus_californianus,California Sea Lion,"N5B,N5N,N5M"
+GS001498,Mammals - Mammifères,Carnivora,Phocidae,Cystophora cristata,Cystophora_cristata,Hooded Seal,"N5B,N5M"
+GS001499,Mammals - Mammifères,Carnivora,Phocidae,Erignathus barbatus,Erignathus_barbatus,Bearded Seal,NU
+GS001500,Mammals - Mammifères,Carnivora,Phocidae,Halichoerus grypus,Halichoerus_grypus,Grey Seal,N5
+GS001501,Mammals - Mammifères,Carnivora,Phocidae,Mirounga angustirostris,Mirounga_angustirostris,Northern Elephant Seal,"N5B,N5N,N5M"
+GS001502,Mammals - Mammifères,Carnivora,Phocidae,Pagophilus groenlandicus,Pagophilus_groenlandicus,Harp Seal,"N5B,N5N,N5M"
+GS001504,Mammals - Mammifères,Carnivora,Phocidae,Phoca vitulina,Phoca_vitulina,Harbor Seal,N5
+GS001503,Mammals - Mammifères,Carnivora,Phocidae,Pusa hispida,Pusa_hispida,Ringed Seal,"N5B,N5N,N5M"
+GS001505,Mammals - Mammifères,Carnivora,Procyonidae,Procyon lotor,Procyon_lotor,Northern Raccoon,N5
+GS001506,Mammals - Mammifères,Carnivora,Ursidae,Ursus americanus,Ursus_americanus,American Black Bear,N5
+GS001507,Mammals - Mammifères,Carnivora,Ursidae,Ursus arctos,Ursus_arctos,Grizzly Bear,N3
+GS001508,Mammals - Mammifères,Carnivora,Ursidae,Ursus maritimus,Ursus_maritimus,Polar Bear,N3
+GS001509,Mammals - Mammifères,Cetacea,Balaenidae,Balaena mysticetus,Balaena_mysticetus,Bowhead Whale,"N5B,N4N,N5M"
+GS001510,Mammals - Mammifères,Cetacea,Balaenidae,Eubalaena glacialis,Eubalaena_glacialis,North Atlantic Right Whale,"N1N,N1M"
+GS008058,Mammals - Mammifères,Cetacea,Balaenidae,Eubalaena japonica,Eubalaena_japonica,North Pacific Right Whale,N1
+GS001511,Mammals - Mammifères,Cetacea,Balaenopteridae,Balaenoptera acutorostrata,Balaenoptera_acutorostrata,Common Minke Whale,"N5N,N5M"
+GS001512,Mammals - Mammifères,Cetacea,Balaenopteridae,Balaenoptera borealis,Balaenoptera_borealis,Sei Whale,"NUN,NUM"
+GS001513,Mammals - Mammifères,Cetacea,Balaenopteridae,Balaenoptera musculus,Balaenoptera_musculus,Blue Whale,"N1N,N1M"
+GS001514,Mammals - Mammifères,Cetacea,Balaenopteridae,Balaenoptera physalus,Balaenoptera_physalus,Fin Whale,"N3N,N3M"
+GS001515,Mammals - Mammifères,Cetacea,Balaenopteridae,Megaptera novaeangliae,Megaptera_novaeangliae,Humpback Whale,"N5N,N5M"
+GS001516,Mammals - Mammifères,Cetacea,Delphinidae,Delphinus delphis,Delphinus_delphis,Short-beaked Common Dolphin,"N5B,N5M"
+GS001517,Mammals - Mammifères,Cetacea,Delphinidae,Globicephala macrorhynchus,Globicephala_macrorhynchus,Short-finned Pilot Whale,NU
+GS001518,Mammals - Mammifères,Cetacea,Delphinidae,Globicephala melas,Globicephala_melas,Long-finned Pilot Whale,"N5B,NNRM"
+GS001519,Mammals - Mammifères,Cetacea,Delphinidae,Grampus griseus,Grampus_griseus,Risso's Dolphin,N5
+GS001520,Mammals - Mammifères,Cetacea,Delphinidae,Lagenorhynchus acutus,Lagenorhynchus_acutus,Atlantic White-sided Dolphin,N5
+GS001521,Mammals - Mammifères,Cetacea,Delphinidae,Lagenorhynchus albirostris,Lagenorhynchus_albirostris,White-beaked Dolphin,N5
+GS001522,Mammals - Mammifères,Cetacea,Delphinidae,Lagenorhynchus obliquidens,Lagenorhynchus_obliquidens,Pacific White-sided Dolphin,N5
+GS001523,Mammals - Mammifères,Cetacea,Delphinidae,Lissodelphis borealis,Lissodelphis_borealis,Northern Right-whale Dolphin,N5
+GS001524,Mammals - Mammifères,Cetacea,Delphinidae,Orcinus orca,Orcinus_orca,Killer Whale,"N3B,N3N,NNRM"
+GS001527,Mammals - Mammifères,Cetacea,Delphinidae,Tursiops truncatus,Tursiops_truncatus,Common Bottlenose Dolphin,"N5N,N5M"
+GS001528,Mammals - Mammifères,Cetacea,Eschrichtiidae,Eschrichtius robustus,Eschrichtius_robustus,Grey Whale,"N3N,N3M"
+GS001531,Mammals - Mammifères,Cetacea,Monodontidae,Delphinapterus leucas,Delphinapterus_leucas,Beluga,"N5B,N5N,N5M"
+GS001532,Mammals - Mammifères,Cetacea,Monodontidae,Monodon monoceros,Monodon_monoceros,Narwhal,"N4B,N4M"
+GS001533,Mammals - Mammifères,Cetacea,Phocoenidae,Phocoena phocoena,Phocoena_phocoena,Harbor Porpoise,"N3B,N3N,N3M"
+GS001534,Mammals - Mammifères,Cetacea,Phocoenidae,Phocoenoides dalli,Phocoenoides_dalli,Dall's Porpoise,N5
+GS001535,Mammals - Mammifères,Cetacea,Physeteridae,Physeter macrocephalus,Physeter_macrocephalus,Sperm Whale,"N5B,N5N,N5M"
+GS001536,Mammals - Mammifères,Cetacea,Ziphiidae,Berardius bairdii,Berardius_bairdii,Baird's Beaked Bottlenose Whale,"NUN,NUM"
+GS001537,Mammals - Mammifères,Cetacea,Ziphiidae,Hyperoodon ampullatus,Hyperoodon_ampullatus,Northern Bottlenose Whale,N3
+GS001538,Mammals - Mammifères,Cetacea,Ziphiidae,Mesoplodon bidens,Mesoplodon_bidens,Sowerby's Beaked Whale,N3
+GS001539,Mammals - Mammifères,Cetacea,Ziphiidae,Mesoplodon carlhubbsi,Mesoplodon_carlhubbsi,Hubbs's Beaked Whale,NU
+GS001542,Mammals - Mammifères,Cetacea,Ziphiidae,Mesoplodon stejnegeri,Mesoplodon_stejnegeri,Stejneger's Beaked Whale,NU
+GS001543,Mammals - Mammifères,Cetacea,Ziphiidae,Ziphius cavirostris,Ziphius_cavirostris,Cuvier's Beaked Whale,N5
+GS001545,Mammals - Mammifères,Chiroptera,Vespertilionidae,Antrozous pallidus,Antrozous_pallidus,Pallid Bat,N2
+GS001546,Mammals - Mammifères,Chiroptera,Vespertilionidae,Corynorhinus townsendii,Corynorhinus_townsendii,Townsend's Big-eared Bat,N3N4
+GS001547,Mammals - Mammifères,Chiroptera,Vespertilionidae,Eptesicus fuscus,Eptesicus_fuscus,Big Brown Bat,"N5B,N5N,NNRM"
+GS001548,Mammals - Mammifères,Chiroptera,Vespertilionidae,Euderma maculatum,Euderma_maculatum,Spotted Bat,N3N4
+GS001549,Mammals - Mammifères,Chiroptera,Vespertilionidae,Lasionycteris noctivagans,Lasionycteris_noctivagans,Silver-haired Bat,"N5B,NUN,NUM"
+GS001551,Mammals - Mammifères,Chiroptera,Vespertilionidae,Lasiurus borealis,Lasiurus_borealis,Eastern Red Bat,"N5B,NUM"
+GS001552,Mammals - Mammifères,Chiroptera,Vespertilionidae,Lasiurus cinereus,Lasiurus_cinereus,Hoary Bat,"N5B,NUM"
+GS001553,Mammals - Mammifères,Chiroptera,Vespertilionidae,Myotis californicus,Myotis_californicus,California Myotis,N4N5
+GS001554,Mammals - Mammifères,Chiroptera,Vespertilionidae,Myotis ciliolabrum,Myotis_ciliolabrum,Western Small-footed Myotis,N2N3
+GS001555,Mammals - Mammifères,Chiroptera,Vespertilionidae,Myotis evotis,Myotis_evotis,Long-eared Myotis,N5
+GS001556,Mammals - Mammifères,Chiroptera,Vespertilionidae,Myotis keenii,Myotis_keenii,Keen's Myotis,N3
+GS001557,Mammals - Mammifères,Chiroptera,Vespertilionidae,Myotis leibii,Myotis_leibii,Eastern Small-footed Myotis,N2N3
+GS001558,Mammals - Mammifères,Chiroptera,Vespertilionidae,Myotis lucifugus,Myotis_lucifugus,Little Brown Myotis,"N2N4B,NNRN,NNRM"
+GS001559,Mammals - Mammifères,Chiroptera,Vespertilionidae,Myotis septentrionalis,Myotis_septentrionalis,Northern Long-eared Myotis,"N2N4B,NNRN,NNRM"
+GS001560,Mammals - Mammifères,Chiroptera,Vespertilionidae,Myotis thysanodes,Myotis_thysanodes,Fringed Myotis,N3
+GS001561,Mammals - Mammifères,Chiroptera,Vespertilionidae,Myotis volans,Myotis_volans,Long-legged Myotis,"N4N5B,N4N5N,NNRM"
+GS001562,Mammals - Mammifères,Chiroptera,Vespertilionidae,Myotis yumanensis,Myotis_yumanensis,Yuma Myotis,N5
+GS001564,Mammals - Mammifères,Chiroptera,Vespertilionidae,Perimyotis subflavus,Perimyotis_subflavus,Tri-colored Bat,N1N2
+GS001565,Mammals - Mammifères,Didelphimorphia,Didelphidae,Didelphis virginiana,Didelphis_virginiana,Virginia Opossum,N4N5
+GS001590,Mammals - Mammifères,Lagomorpha,Leporidae,Lepus americanus,Lepus_americanus,Snowshoe Hare,N5
+GS001591,Mammals - Mammifères,Lagomorpha,Leporidae,Lepus arcticus,Lepus_arcticus,Arctic Hare,N5
+GS001593,Mammals - Mammifères,Lagomorpha,Leporidae,Lepus townsendii,Lepus_townsendii,White-tailed Jackrabbit,N5
+GS001595,Mammals - Mammifères,Lagomorpha,Leporidae,Sylvilagus floridanus,Sylvilagus_floridanus,Eastern Cottontail,N5
+GS001596,Mammals - Mammifères,Lagomorpha,Leporidae,Sylvilagus nuttallii,Sylvilagus_nuttallii,Mountain Cottontail,N5
+GS001597,Mammals - Mammifères,Lagomorpha,Ochotonidae,Ochotona collaris,Ochotona_collaris,Collared Pika,N3
+GS001598,Mammals - Mammifères,Lagomorpha,Ochotonidae,Ochotona princeps,Ochotona_princeps,American Pika,N5
+GS001600,Mammals - Mammifères,Rodentia,Aplodontiidae,Aplodontia rufa,Aplodontia_rufa,Mountain Beaver,N4
+GS001601,Mammals - Mammifères,Rodentia,Castoridae,Castor canadensis,Castor_canadensis,American Beaver,N5
+GS001611,Mammals - Mammifères,Rodentia,Cricetidae,Dicrostonyx groenlandicus,Dicrostonyx_groenlandicus,Peary Land Collared Lemming,N5
+GS001612,Mammals - Mammifères,Rodentia,Cricetidae,Dicrostonyx hudsonius,Dicrostonyx_hudsonius,Ungava Collared Lemming,N4N5
+GS001614,Mammals - Mammifères,Rodentia,Cricetidae,Dicrostonyx nunatakensis,Dicrostonyx_nunatakensis,Ogilvie Mountains Collared Lemming,N2
+GS001615,Mammals - Mammifères,Rodentia,Cricetidae,Dicrostonyx richardsoni,Dicrostonyx_richardsoni,Richardson's Collared Lemming,N5
+GS001616,Mammals - Mammifères,Rodentia,Cricetidae,Lemmiscus curtatus,Lemmiscus_curtatus,Sagebrush Vole,N4N5
+GS001617,Mammals - Mammifères,Rodentia,Cricetidae,Lemmus trimucronatus,Lemmus_trimucronatus,Brown Lemming,N5
+GS001618,Mammals - Mammifères,Rodentia,Cricetidae,Microtus chrotorrhinus,Microtus_chrotorrhinus,Rock Vole,N5
+GS001619,Mammals - Mammifères,Rodentia,Cricetidae,Microtus longicaudus,Microtus_longicaudus,Long-tailed Vole,N5
+GS001620,Mammals - Mammifères,Rodentia,Cricetidae,Microtus miurus,Microtus_miurus,Singing Vole,N4N5
+GS001621,Mammals - Mammifères,Rodentia,Cricetidae,Microtus montanus,Microtus_montanus,Montane Vole,N4N5
+GS001622,Mammals - Mammifères,Rodentia,Cricetidae,Microtus ochrogaster,Microtus_ochrogaster,Prairie Vole,N4N5
+GS001623,Mammals - Mammifères,Rodentia,Cricetidae,Microtus oeconomus,Microtus_oeconomus,Root Vole,N5
+GS001624,Mammals - Mammifères,Rodentia,Cricetidae,Microtus oregoni,Microtus_oregoni,Creeping Vole,N4?
+GS001625,Mammals - Mammifères,Rodentia,Cricetidae,Microtus pennsylvanicus,Microtus_pennsylvanicus,Meadow Vole,N5
+GS001626,Mammals - Mammifères,Rodentia,Cricetidae,Microtus pinetorum,Microtus_pinetorum,Woodland Vole,N3
+GS001627,Mammals - Mammifères,Rodentia,Cricetidae,Microtus richardsoni,Microtus_richardsoni,Water Vole,N5
+GS001628,Mammals - Mammifères,Rodentia,Cricetidae,Microtus townsendii,Microtus_townsendii,Townsend's Vole,N5?
+GS001629,Mammals - Mammifères,Rodentia,Cricetidae,Microtus xanthognathus,Microtus_xanthognathus,Taiga Vole,N5
+GS001608,Mammals - Mammifères,Rodentia,Cricetidae,Myodes gapperi,Myodes_gapperi,Southern Red-backed Vole,N5
+GS001610,Mammals - Mammifères,Rodentia,Cricetidae,Myodes rutilus,Myodes_rutilus,Northern Red-backed Vole,N5
+GS001631,Mammals - Mammifères,Rodentia,Cricetidae,Neotoma cinerea,Neotoma_cinerea,Bushy-tailed Woodrat,N5
+GS001632,Mammals - Mammifères,Rodentia,Cricetidae,Ondatra zibethicus,Ondatra_zibethicus,Common Muskrat,N5
+GS001633,Mammals - Mammifères,Rodentia,Cricetidae,Onychomys leucogaster,Onychomys_leucogaster,Northern Grasshopper Mouse,N4N5
+GS001634,Mammals - Mammifères,Rodentia,Cricetidae,Peromyscus keeni,Peromyscus_keeni,Northwestern Deermouse,N5
+GS001635,Mammals - Mammifères,Rodentia,Cricetidae,Peromyscus leucopus,Peromyscus_leucopus,White-footed Deermouse,N5
+GS001636,Mammals - Mammifères,Rodentia,Cricetidae,Peromyscus maniculatus,Peromyscus_maniculatus,North American Deermouse,N5
+GS001637,Mammals - Mammifères,Rodentia,Cricetidae,Phenacomys intermedius,Phenacomys_intermedius,Western Heather Vole,N5
+GS008060,Mammals - Mammifères,Rodentia,Cricetidae,Phenacomys ungava,Phenacomys_ungava,Eastern Heather Vole,N5
+GS001640,Mammals - Mammifères,Rodentia,Cricetidae,Reithrodontomys megalotis,Reithrodontomys_megalotis,Western Harvest Mouse,N3
+GS001641,Mammals - Mammifères,Rodentia,Cricetidae,Synaptomys borealis,Synaptomys_borealis,Northern Bog Lemming,N5
+GS001642,Mammals - Mammifères,Rodentia,Cricetidae,Synaptomys cooperi,Synaptomys_cooperi,Southern Bog Lemming,N5
+GS001667,Mammals - Mammifères,Rodentia,Dipodidae,Napaeozapus insignis,Napaeozapus_insignis,Woodland Jumping Mouse,N5
+GS001668,Mammals - Mammifères,Rodentia,Dipodidae,Zapus hudsonius,Zapus_hudsonius,Meadow Jumping Mouse,N5
+GS001669,Mammals - Mammifères,Rodentia,Dipodidae,Zapus princeps,Zapus_princeps,Western Jumping Mouse,N5
+GS001670,Mammals - Mammifères,Rodentia,Dipodidae,Zapus trinotatus,Zapus_trinotatus,Pacific Jumping Mouse,N4
+GS001602,Mammals - Mammifères,Rodentia,Erethizontidae,Erethizon dorsatum,Erethizon_dorsatum,North American Porcupine,N5
+GS001603,Mammals - Mammifères,Rodentia,Geomyidae,Geomys bursarius,Geomys_bursarius,Plains Pocket Gopher,N3
+GS001604,Mammals - Mammifères,Rodentia,Geomyidae,Thomomys talpoides,Thomomys_talpoides,Northern Pocket Gopher,N5
+GS001605,Mammals - Mammifères,Rodentia,Heteromyidae,Dipodomys ordii,Dipodomys_ordii,Ord's Kangaroo Rat,N1
+GS001606,Mammals - Mammifères,Rodentia,Heteromyidae,Perognathus fasciatus,Perognathus_fasciatus,Olive-backed Pocket Mouse,N3N4
+GS001607,Mammals - Mammifères,Rodentia,Heteromyidae,Perognathus parvus,Perognathus_parvus,Columbia Plateau Pocket Mouse,N3
+GS001655,Mammals - Mammifères,Rodentia,Sciuridae,Callospermophilus lateralis,Callospermophilus_lateralis,Golden-mantled Ground Squirrel,N5
+GS001658,Mammals - Mammifères,Rodentia,Sciuridae,Callospermophilus saturatus,Callospermophilus_saturatus,Cascade Ground Squirrel,N4
+GS001644,Mammals - Mammifères,Rodentia,Sciuridae,Cynomys ludovicianus,Cynomys_ludovicianus,Black-tailed Prairie Dog,N2
+GS001645,Mammals - Mammifères,Rodentia,Sciuridae,Glaucomys sabrinus,Glaucomys_sabrinus,Northern Flying Squirrel,N5
+GS001646,Mammals - Mammifères,Rodentia,Sciuridae,Glaucomys volans,Glaucomys_volans,Southern Flying Squirrel,N4N5
+GS001659,Mammals - Mammifères,Rodentia,Sciuridae,Ictidomys tridecemlineatus,Ictidomys_tridecemlineatus,Thirteen-lined Ground Squirrel,N5
+GS001647,Mammals - Mammifères,Rodentia,Sciuridae,Marmota caligata,Marmota_caligata,Hoary Marmot,N5
+GS001648,Mammals - Mammifères,Rodentia,Sciuridae,Marmota flaviventris,Marmota_flaviventris,Yellow-bellied Marmot,N5
+GS001649,Mammals - Mammifères,Rodentia,Sciuridae,Marmota monax,Marmota_monax,Woodchuck,N5
+GS001650,Mammals - Mammifères,Rodentia,Sciuridae,Marmota vancouverensis,Marmota_vancouverensis,Vancouver Marmot,N1
+GS001660,Mammals - Mammifères,Rodentia,Sciuridae,Neotamias amoenus,Neotamias_amoenus,Yellow-pine Chipmunk,N5
+GS001661,Mammals - Mammifères,Rodentia,Sciuridae,Neotamias minimus,Neotamias_minimus,Least Chipmunk,N5
+GS001662,Mammals - Mammifères,Rodentia,Sciuridae,Neotamias ruficaudus,Neotamias_ruficaudus,Red-tailed Chipmunk,N3?
+GS001664,Mammals - Mammifères,Rodentia,Sciuridae,Neotamias townsendii,Neotamias_townsendii,Townsend's Chipmunk,N4N5
+GS001654,Mammals - Mammifères,Rodentia,Sciuridae,Poliocitellus franklinii,Poliocitellus_franklinii,Franklin's Ground Squirrel,N5
+GS001651,Mammals - Mammifères,Rodentia,Sciuridae,Sciurus carolinensis,Sciurus_carolinensis,Eastern Grey Squirrel,N5
+GS001652,Mammals - Mammifères,Rodentia,Sciuridae,Sciurus niger,Sciurus_niger,Eastern Fox Squirrel,N3
+GS001663,Mammals - Mammifères,Rodentia,Sciuridae,Tamias striatus,Tamias_striatus,Eastern Chipmunk,N5
+GS001665,Mammals - Mammifères,Rodentia,Sciuridae,Tamiasciurus douglasii,Tamiasciurus_douglasii,Douglas's Squirrel,N4N5
+GS001666,Mammals - Mammifères,Rodentia,Sciuridae,Tamiasciurus hudsonicus,Tamiasciurus_hudsonicus,Red Squirrel,N5
+GS001653,Mammals - Mammifères,Rodentia,Sciuridae,Urocitellus columbianus,Urocitellus_columbianus,Columbian Ground Squirrel,N5
+GS001656,Mammals - Mammifères,Rodentia,Sciuridae,Urocitellus parryii,Urocitellus_parryii,Arctic Ground Squirrel,N5
+GS001657,Mammals - Mammifères,Rodentia,Sciuridae,Urocitellus richardsonii,Urocitellus_richardsonii,Richardson's Ground Squirrel,N5
+GS001566,Mammals - Mammifères,Soricomorpha,Soricidae,Blarina brevicauda,Blarina_brevicauda,Northern Short-tailed Shrew,N5
+GS001568,Mammals - Mammifères,Soricomorpha,Soricidae,Sorex arcticus,Sorex_arcticus,Arctic Shrew,N5
+GS001569,Mammals - Mammifères,Soricomorpha,Soricidae,Sorex bendirii,Sorex_bendirii,Marsh Shrew,N2?
+GS001570,Mammals - Mammifères,Soricomorpha,Soricidae,Sorex cinereus,Sorex_cinereus,Cinereus Shrew,N5
+GS001571,Mammals - Mammifères,Soricomorpha,Soricidae,Sorex dispar,Sorex_dispar,Long-tailed Shrew,N2
+GS001572,Mammals - Mammifères,Soricomorpha,Soricidae,Sorex fumeus,Sorex_fumeus,Smoky Shrew,N5
+GS001574,Mammals - Mammifères,Soricomorpha,Soricidae,Sorex haydeni,Sorex_haydeni,Hayden's Shrew,N5
+GS001575,Mammals - Mammifères,Soricomorpha,Soricidae,Sorex hoyi,Sorex_hoyi,American Pygmy Shrew,N5
+GS008059,Mammals - Mammifères,Soricomorpha,Soricidae,Sorex maritimensis,Sorex_maritimensis,Maritime Shrew,N3N4
+GS001576,Mammals - Mammifères,Soricomorpha,Soricidae,Sorex merriami,Sorex_merriami,Merriam's Shrew,N1
+GS030424,Mammals - Mammifères,Soricomorpha,Soricidae,Sorex minutissimus,Sorex_minutissimus,Holarctic Least Shrew,NU
+GS001577,Mammals - Mammifères,Soricomorpha,Soricidae,Sorex monticolus,Sorex_monticolus,Dusky Shrew,N5
+GS030425,Mammals - Mammifères,Soricomorpha,Soricidae,Sorex navigator,Sorex_navigator,Western Water Shrew,N5
+GS001578,Mammals - Mammifères,Soricomorpha,Soricidae,Sorex palustris,Sorex_palustris,American Water Shrew,N5
+GS001579,Mammals - Mammifères,Soricomorpha,Soricidae,Sorex preblei,Sorex_preblei,Preble's Shrew,N1N2
+GS013474,Mammals - Mammifères,Soricomorpha,Soricidae,Sorex rohweri,Sorex_rohweri,Olympic Shrew,N2?
+GS001580,Mammals - Mammifères,Soricomorpha,Soricidae,Sorex trowbridgii,Sorex_trowbridgii,Trowbridge's Shrew,N3
+GS001581,Mammals - Mammifères,Soricomorpha,Soricidae,Sorex tundrensis,Sorex_tundrensis,Tundra Shrew,N4N5
+GS001582,Mammals - Mammifères,Soricomorpha,Soricidae,Sorex ugyunak,Sorex_ugyunak,Barren Ground Shrew,N5
+GS001583,Mammals - Mammifères,Soricomorpha,Soricidae,Sorex vagrans,Sorex_vagrans,Vagrant Shrew,N5
+GS001584,Mammals - Mammifères,Soricomorpha,Talpidae,Condylura cristata,Condylura_cristata,Star-nosed Mole,N5
+GS001585,Mammals - Mammifères,Soricomorpha,Talpidae,Neurotrichus gibbsii,Neurotrichus_gibbsii,American Shrew Mole,N4
+GS001586,Mammals - Mammifères,Soricomorpha,Talpidae,Parascalops breweri,Parascalops_breweri,Hairy-tailed Mole,N5
+GS001587,Mammals - Mammifères,Soricomorpha,Talpidae,Scalopus aquaticus,Scalopus_aquaticus,Eastern Mole,N1
+GS001588,Mammals - Mammifères,Soricomorpha,Talpidae,Scapanus orarius,Scapanus_orarius,Coast Mole,N4?
+GS001589,Mammals - Mammifères,Soricomorpha,Talpidae,Scapanus townsendii,Scapanus_townsendii,Townsend's Mole,N1
