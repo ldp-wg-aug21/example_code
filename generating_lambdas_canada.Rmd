@@ -41,6 +41,13 @@ canadian_lpiu_poplevel = LPIMain(infilename, basedir = "canadian_poplevel", REF_
 # This should make a file in the specified directory (candian_poplevel) with lambda data that we can load
 pop_data = fread("canadian_poplevel/all_canada_pops_poplevel.csv_pops_lambda.csv")
 
+# Run the LPI code to make lambdas - this generates the file below (using the linear model)
+canadian_lpiu_poplevel_lm = LPIMain(infilename, basedir = "canadian_poplevel_lm", LINEAR_MODEL_SHORT_FLAG = TRUE, REF_YEAR = 1950, PLOT_MAX = 2020)
+
+# This should make a file in the specified directory (candian_poplevel) with lambda data  (using the linear model) that we can load
+pop_data = fread("canadian_poplevel_lm/all_canada_pops_poplevel.csv_pops_lambda.csv")
+
+
 head(pop_data)
 ```
 
