@@ -472,9 +472,7 @@ left_join(sub2_sum, cLPI_sum,
   knitr::kable()
 
 
-cLPI %>% 
-  pivot_longer(cols = `1950`:`2020`, names_to = "year", 
-               values_to = "value")
+# coarsen time series -----------------------------------------------------
 
 cLPI_coarse <- cLPI %>% 
   ## pivot to long-format
@@ -495,11 +493,9 @@ cLPI_coarse <- cLPI %>%
                      timespan >= 10 & timespan < 20 ~ 0.8,
                      timespan >= 20 ~ 0.75)) %>%
   ## replace every other observation with NA
-  mutate(value = if_else(is.even(row), NA_real_, value)) #%>% 
-  # ## pivot back to wide
-  # pivot_wider(id_cols = ID:)
-  # bind_rows(., filter(cLPI, timespan < 5))
+  mutate(value = if_else(is.even(row), NA_real_, value))
 
+## bring in the time series that were excluded from coarsening
 cLPI_coarse2 <- cLPI %>% 
   filter(!ID %in% unique(cLPI_coarse$ID)) %>% 
   select(ID, `1950`:`2020`, Exclude:coverage) %>% 
