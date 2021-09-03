@@ -497,7 +497,7 @@ cLPI_coarse <- cLPI %>%
   filter(coverage >=
            case_when(timespan < 10 ~ 1,
                      timespan >= 10 & timespan < 20 ~ 0.8,
-                     timespan >= 20 ~ 0.75)) %>%
+                     timespan >= 20 ~ 0.75)) %>% 
   ## replace every other observation with NA
   mutate(value = if_else(is.even(row), NA_real_, value))
 
@@ -526,4 +526,60 @@ saveRDS(cLPI_coarse2, "data/coarsened_cLPI_data_resolved_species.RDS")
 
 ## read in coarsened cLPI data
 # cLPI_coarse2 <- readRDS("data/coarsened_cLPI_data_resolved_species.RDS")
+
+
+# check species without lambdas -------------------------------------------
+
+## the following 6 time series don't have any lambdas...
+# Ardenna_gravis_1077
+# Esox_americanus_92
+# Lepus_americanus_3227
+# Microtus_pennsylvanicus_3559
+# Mustela_erminea_6
+# Tamias_minimus_4597
+
+## investigate why that might be...
+cLPI %>% 
+  unite(col = "Binomial_ID", c("Binomial", "ID"), 
+        sep = "_", remove = FALSE) %>% 
+  filter(Binomial_ID %in% c("Ardenna_gravis_1077", 
+                            "Esox_americanus_92", 
+                            "Lepus_americanus_3227", 
+                            "Microtus_pennsylvanicus_3559", 
+                            "Mustela_erminea_6", 
+                            "Tamias_minimus_4597")) %>% 
+  pivot_longer(., cols = `1950`:`2020`, 
+               names_to = "year", values_to = "value") %>% 
+  filter(value != "NULL") %>% 
+  group_by(Binomial_ID) %>% View()
+
+## COMMENT:
+## all these have only two consecutive data points... 
+## but so do lots of other time series (216 total only have 2 points)
+
+## how many two-sample time series have a value of 0.1?
+cLPI %>% 
+  unite(col = "Binomial_ID", c("Binomial", "ID"), 
+           sep = "_", remove = FALSE) %>% 
+  filter(!Binomial_ID %in% c("Ardenna_gravis_1077", 
+                            "Esox_americanus_92", 
+                            "Lepus_americanus_3227", 
+                            "Microtus_pennsylvanicus_3559", 
+                            "Mustela_erminea_6", 
+                            "Tamias_minimus_4597")) %>% 
+  filter(n_years == 2) %>%
+  pivot_longer(., cols = `1950`:`2020`, 
+               names_to = "year", values_to = "value") %>% 
+  filter(value == 0.1)
+
+## COMMENT:
+## one two-sample species, Chelydra_serpentina_1773, also includes 
+## a value = 0.1, however the observations in this time series
+## are not consecutive, so intervening values (and lambdas) would
+## be interpolated (so would actually have >2 values on which
+## lambdas are being calculated)
+## log(0.1) = -1, which may be used as a placeholder for NAs in the
+## functions that compute the lambdas, which would cause the 
+## 6 time series above to be dropped
+
 
