@@ -183,7 +183,10 @@ cLPI <- cLPI %>%
 rm(first_y, last_y, n_samples)
 
 ## write the updated cLPI data to CSV
-write_csv(cLPI, "cLPI_data_resolved_species.csv")
+write_csv(cLPI, "data/cLPI_data_resolved_species.csv")
+
+## write as an RDS file
+saveRDS(cLPI, "data/cLPI_data_resolved_species.RDS")
 
 
 # plot time series summary info -------------------------------------------
@@ -474,6 +477,9 @@ left_join(sub2_sum, cLPI_sum,
 
 # coarsen time series -----------------------------------------------------
 
+## read in resolved cLPI dataset (wide format)
+# cLPI <- readRDS("data/cLPI_data_resolved_species.RDS")
+
 cLPI_coarse <- cLPI %>% 
   ## pivot to long-format
   select(ID, `1950`:`2020`, Exclude:coverage) %>% 
@@ -515,4 +521,9 @@ sum(cLPI$timespan) ## [1] 75613
 nrow(cLPI_coarse2) ## [1] 75613
 ## NICE!!
 
-  
+## save coarsened data as an RDS file
+saveRDS(cLPI_coarse2, "data/coarsened_cLPI_data_resolved_species.RDS")
+
+## read in coarsened cLPI data
+# cLPI_coarse2 <- readRDS("data/coarsened_cLPI_data_resolved_species.RDS")
+
