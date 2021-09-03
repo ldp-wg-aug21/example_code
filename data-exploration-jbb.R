@@ -122,10 +122,6 @@ table(cLPI$Exclude)
 ## COMMENT: 6 time series will be excluded
 
 
-## write the updated cLPI data to CSV
-write_csv(cLPI, "cLPI_data_resolved_species.csv")
-
-
 # compare cLPI and WSR ----------------------------------------------------
 
 ## what is the taxonomic breakdown for the WSR species list?
@@ -185,6 +181,9 @@ cLPI <- cLPI %>%
 
 ## clean up
 rm(first_y, last_y, n_samples)
+
+## write the updated cLPI data to CSV
+write_csv(cLPI, "cLPI_data_resolved_species.csv")
 
 
 # plot time series summary info -------------------------------------------
@@ -473,3 +472,51 @@ left_join(sub2_sum, cLPI_sum,
   knitr::kable()
 
 
+cLPI %>% 
+  pivot_longer(cols = `1950`:`2020`, names_to = "year", 
+               values_to = "value")
+
+cLPI_coarse <- cLPI %>% 
+  ## pivot to long-format
+  select(ID, `1950`:`2020`, Exclude:coverage) %>% 
+  pivot_longer(cols = `1950`:`2020`, 
+               names_to = "year", 
+               values_to = "value") %>% 
+  mutate(year = as.numeric(year), 
+         value = as.numeric(value)) %>% 
+  group_by(ID) %>% 
+  filter(year >= first_year & year <= last_year) %>% 
+  mutate(row = 1:n()) %>% 
+  ## remove short time series
+  filter(timespan >= 5) %>%
+  # ## filter remaining time series based on coverage
+  filter(coverage >=
+           case_when(timespan < 10 ~ 1,
+                     timespan >= 10 & timespan < 20 ~ 0.8,
+                     timespan >= 20 ~ 0.75)) %>%
+  ## replace every other observation with NA
+  mutate(value = if_else(is.even(row), NA_real_, value)) #%>% 
+  # ## pivot back to wide
+  # pivot_wider(id_cols = ID:)
+  # bind_rows(., filter(cLPI, timespan < 5))
+
+cLPI_coarse2 <- cLPI %>% 
+  filter(!ID %in% unique(cLPI_coarse$ID)) %>% 
+  select(ID, `1950`:`2020`, Exclude:coverage) %>% 
+  pivot_longer(cols = `1950`:`2020`, 
+               names_to = "year", 
+               values_to = "value") %>% 
+  mutate(year = as.numeric(year), 
+         value = as.numeric(value)) %>% 
+  group_by(ID) %>% 
+  filter(year >= first_year & year <= last_year) %>% 
+  bind_rows(., cLPI_coarse)
+
+## check
+## how many years of data should there be?
+sum(cLPI$timespan) ## [1] 75613
+## this should match the number of rows in long format
+nrow(cLPI_coarse2) ## [1] 75613
+## NICE!!
+
+  
