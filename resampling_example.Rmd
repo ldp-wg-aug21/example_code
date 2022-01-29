@@ -1,0 +1,115 @@
+---
+title: "Resampling example"
+author: "Joey Burant"
+date: "1/29/2022"
+output: html_document
+---
+
+```{r setup, include = FALSE}
+
+knitr::opts_chunk$set(echo = TRUE)
+
+## required packages
+library(tidyverse)
+library(palmerpenguins)
+
+## import and clean data
+## (remove NAs from the dataset)
+penguins_c <- palmerpenguins::penguins %>% drop_na()
+
+```
+
+This is a quick example of how to resample the data and plot the distributions of sampled traits, making use of the `penguins` dataset
+from the `palmerpenguins` **R** package.
+
+### Resampling the data using `dplyr::sample_()` and `base::replicate()`
+
+We can easily randomly resample either a specific number of observations (using `dplyr::sample_n()`) or a set proportion of the data (using `dplyr::sample_frac()`). The `replicate()` function provides a really easy way to iterate this process a number of times.
+
+The code chunk below uses two variables:  
+
+- `n_reps` = the number of desired replicates, which is passed to `replicate()` -- in this case we want 100 replicates. 
+- `samp_prop` = the proportion of the data to resample, which is passed to `sample_frac()` -- here we want to resample 50% of the data
+
+By wrapping this in a tibble, we can create a tidy product in which the replicate samples are stored as a nested list that can be used for summarizing, analysis, and plotting.
+
+```{r resampling}
+
+## specify the number of replicates and the sample prop (or size)
+n_reps <- 100
+samp_prop <- 0.50
+
+## resample the data and put it in a tibble
+re_penguins <- tibble(
+  rep = 1:n_reps, 
+  samp = replicate(
+    n = n_reps, 
+    sample_frac(
+      tbl = penguins_c, 
+      size = samp_prop, 
+      replace = FALSE), 
+    simplify = FALSE))
+
+```
+
+What does look like now?
+
+```{r look nested table}
+
+re_penguins
+
+```
+
+
+### Summarizing the data
+
+One easy way to summarize the dataset is to first `unnest()` it, then use the replicate identifier (`rep`) as a grouping variable. 
+
+In the chunk below, I first `unnest()` the data (stored in the `samp` column), then `group_by()` `rep` (100 levels), `species` (3 levels), and `sex` (2 levels). This example calculates the median value for each of the numeric columns in the dataset, before `nest`ing the summary data and `join`ing it back with the original data.
+
+```{r summarizing nested data}
+
+## calculate the median trait values from each sample
+re_penguins <- re_penguins %>% 
+  unnest(samp) %>% 
+  group_by(rep, species, sex) %>% 
+  summarise(across(.cols = bill_length_mm:body_mass_g, 
+                   ~ median(.))) %>% 
+  group_by(rep) %>% 
+  nest() %>% 
+  rename(summ_mean = data) %>% 
+  right_join(re_penguins, ., by = "rep") %>% 
+  suppressMessages() 
+
+re_penguins
+
+```
+
+### Plotting
+
+Finally, we can easily plot the distributions of the re-sampled data. The plot below overlays density distributions of `penguins$bill_length_mm` for each random sample of the dataset, facetting by `species` and `sex`.
+
+```{r plotting the distributions}
+
+## plot the distributions of bill_length_mm from the resamples
+re_penguins %>% 
+  select(rep, samp) %>% 
+  unnest(samp) %>% 
+  ggplot(data = ., 
+         mapping = aes(x = bill_length_mm, 
+                       group = rep, 
+                       colour = sex)) + 
+  geom_line(stat = "density", alpha = 0.2) + 
+  scale_colour_brewer(palette = "Dark2") + 
+  # facet_wrap(~ species) + 
+  facet_grid(species ~ sex) + 
+  labs(x = "Bill length (mm)", y = "Density", 
+       title = "Distributions of bill length in resamples of the penguins dataset", 
+       subtitle = "50% of the data were randomly resampled 100 times", 
+       caption = "Source: palmerpenguins R package") + 
+  theme_minimal() + 
+  theme(legend.position = "none")
+
+```
+
+This plot would provide a good starting point to start thinking about how to calculate a 95% confidence interval on the distributions based on the distribution of resamples. Of course, the same approach could also be used to estimate confidence intervals on the mean/median difference between two distributions (e.g., males and females, or comparing species).
