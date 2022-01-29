@@ -89,7 +89,7 @@ re_penguins
 
 Finally, we can easily plot the distributions of the re-sampled data. The plot below overlays density distributions of `penguins$bill_length_mm` for each random sample of the dataset, facetting by `species` and `sex`.
 
-```{r plotting the distributions}
+```{r plotting the distribution of bill length}
 
 ## plot the distributions of bill_length_mm from the resamples
 re_penguins %>% 
@@ -113,3 +113,46 @@ re_penguins %>%
 ```
 
 This plot would provide a good starting point to start thinking about how to calculate a 95% confidence interval on the distributions based on the distribution of resamples. Of course, the same approach could also be used to estimate confidence intervals on the mean/median difference between two distributions (e.g., males and females, or comparing species).
+
+#### What about the distribution of all the traits?
+
+```{r plot all distributions}
+
+## plot the distributions of all the traits from the resamples
+re_penguins %>% 
+  select(rep, samp) %>% 
+  unnest(samp) %>% 
+  pivot_longer(., cols = bill_length_mm:body_mass_g, 
+               names_to = "measure", values_to = "value") %>% 
+  mutate(measure = factor(.$measure, 
+                          levels = c("bill_depth_mm", 
+                                     "bill_length_mm", 
+                                     "flipper_length_mm", 
+                                     "body_mass_g"), 
+                          labels = c("Bill depth (mm)", 
+                                     "Bill length (mm)", 
+                                     "Flipper length(mm)", 
+                                     "Body mass (g)"))) %>% 
+  # mutate(value = ifelse(measure == "Body mass (g)", value / 1000, value)) %>% 
+  ggplot(data = ., 
+         mapping = aes(x = value, 
+                       group = interaction(rep, sex))) + 
+  geom_line(mapping = aes(colour = sex),
+            stat = "density", alpha = 0.2) +
+  # geom_histogram(mapping = aes(fill = sex), 
+  #                alpha = 0.5, position = "identity") + 
+  scale_colour_brewer(palette = "Dark2", 
+                      name = "", labels = c("female", "male")) + 
+  # facet_grid(species ~ measure, 
+  #            scales = "free") + 
+  facet_wrap(~ species*measure, ncol = 4, scales = "free") + 
+  labs(x = NULL, y = "Density", 
+       title = "Distributions of trait measurements in resamples of the penguins dataset", 
+       subtitle = "50% of the data were randomly resampled 100 times", 
+       caption = "Source: palmerpenguins R package") + 
+  theme_minimal() + 
+  theme(legend.position = "bottom")
+
+```
+
+**Note**: this plot needs some work (facet labels are ugly, but `facet_grid()` doesn't allow for free y axes on each pane so density doesn't scale properly...)
